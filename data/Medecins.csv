@@ -1,0 +1,1001 @@
+Médecin_ID,Nom,Prénom,Spécialité,Code Postal,Ville,Département,Région
+e8c70472-72a3-4823-bd85-2ab054edc524,Allard,Robert,Ophtalmologue,93500,Lefebvre,Manche,Nouvelle-Calédonie
+68d1635b-b251-4c6d-925a-89d930b38cf2,Descamps,Aurélie,Dermatologue,95602,Guyon,Seine-Saint-Denis,Réunion
+fc54eb4b-492f-4cb2-bde6-04bd2a7f295b,Barre,Marguerite,Généraliste,87583,Camus,Cantal,Île-de-France
+872e9b26-8697-42d5-926f-7ac19e53bfe8,Chartier,Alex,Généraliste,54181,Saint Jeanne-sur-Mer,Côtes-d'Armor,Guyane
+f961aa19-5562-4326-a599-f44ae3422033,Leleu,Matthieu,Ophtalmologue,18605,Pereira,Ain,Limousin
+b9c0630b-48cd-4f8c-9efc-f8375469b163,Legrand,Zoé,Pédiatre,66676,Milletnec,Corrèze,Poitou-Charentes
+bf8aab0e-5493-4874-9656-844fbffd899b,Maillet,Julie,Généraliste,19817,GarnierBourg,Landes,Nouvelle-Calédonie
+7bae0caa-9d6a-4698-a57b-65e92c676add,Gallet,Eugène,Généraliste,26281,Le Goff,Loire-Atlantique,Guadeloupe
+8f8de786-2335-4a5b-b346-13404cd16837,Vincent,Antoinette,Cardiologue,41790,Lemonnier,Seine-et-Marne,Aquitaine
+efbf87ea-594a-46b8-b334-c872a3f39c1c,Paris,Alex,Ophtalmologue,84705,Delormenec,Haut-Rhin,Haute-Normandie
+c7841e0e-257d-49ab-beaa-4bdc00ab4fd6,Chauvin,Capucine,Ophtalmologue,10052,Sainte Madeleinenec,Bas-Rhin,Guyane
+903d5eb2-a713-4fee-bff4-22ac652f2363,Bodin,Émile,Dermatologue,88142,Legrosdan,Hautes-Alpes,Basse-Normandie
+118dd773-4f64-4318-8bea-d8d9021535ea,Nguyen,Stéphane,Pédiatre,56018,Charriernec,Loiret,Polynésie française
+0f2853e7-2855-4404-95f3-7860c1c1f9fa,Marin,Franck,Dermatologue,84823,Jacquotnec,Vendée,Champagne-Ardenne
+b3e8624d-01d7-4b13-8388-ac7df694da7d,Chevalier,Auguste,Pédiatre,81409,Besnard,Vendée,Réunion
+bea5a501-f1ff-472a-aaf4-45e86c63a59f,Berger,Capucine,Dermatologue,71556,Saint Roland,Nord,Limousin
+a7af44a5-aa30-4db0-900b-ac60d65125cc,Laroche,Claudine,Cardiologue,17141,Bodin,Vaucluse,Languedoc-Roussillon
+d1b9f654-24a3-4acf-992d-cccec2db65c4,Gaillard,Étienne,Cardiologue,26589,Delannoy,Morbihan,Bourgogne
+871c4682-81cb-420e-b8ff-5ebedf9f75a2,Carre,Océane,Généraliste,91255,Charles-les-Bains,Alpes-de-Haute-Provence,Pays-de-Loire
+b60a7ee2-154d-443e-bedd-5d3fcd59cd7b,Dumont,Roland,Dermatologue,54768,Le Goff,Bouches-du-Rhône,Lorraine
+4f310ec3-3ef9-4614-8017-831159a65a8d,Hamel,Philippine,Pédiatre,22709,Saint Océane,Hauts-de-Seine,Réunion
+62274b52-13e2-4200-a87a-7f5b68b687e1,Boyer,Françoise,Dermatologue,20829,LopesBourg,Gironde,Haute-Normandie
+4f85da83-50ca-4f7e-a546-c81e622248e2,Collet,Christelle,Pédiatre,79436,Hardynec,Doubs,Réunion
+9735da83-45ea-4a89-9b54-0d904be7ad22,Bègue,Camille,Généraliste,96988,Aubry,Tarn-et-Garonne,Martinique
+1e88e00e-eab2-4e3c-aaae-651425eb20bb,Ruiz,Élise,Cardiologue,13989,HebertVille,Hérault,Province-Alpes-Côte d'Azur
+6a4b6a9f-a5e0-4c69-a728-5c3edf34d0aa,Maillot,Marcel,Ophtalmologue,78856,Durand,Oise,Mayotte
+4994ceb3-6428-4046-ad6a-d373a89795a1,Schneider,Robert,Ophtalmologue,70141,Gilles-sur-Mer,Indre,Wallis-et-Futuna
+6636d098-8cd8-4d55-94b8-47c4d2dde605,Cousin,Richard,Dermatologue,10525,Monnier,Hauts-de-Seine,Haute-Normandie
+0432703f-019a-4880-8189-770a7901e957,Bègue,Patrick,Dermatologue,06588,Schmitt,Tarn,Franche-Comté
+c6af5cdb-ba46-48e2-8024-3f3e525d88db,Lemaître,Marthe,Généraliste,34565,Laroche,Aisne,Saint-Pierre-et-Miquelon
+cf83a074-c03b-4c0b-91e5-060df1d6685d,Picard,Camille,Ophtalmologue,11857,Coste,Haut-Rhin,Polynésie française
+17c713e5-0463-4f7f-a277-ab453f081dfd,Gay,Édith,Dermatologue,62579,Vincent-sur-Andre,Moselle,Nouvelle-Calédonie
+37b9b31f-b29f-4b71-85bd-bb40045d9963,Pelletier,Christine,Cardiologue,76221,Guillot,Indre,Rhone-Alpes
+2bdca1c7-e696-4b19-ad02-201f5d4325b1,Andre,Franck,Ophtalmologue,54791,Imbert,Paris,Limousin
+8de3dbd1-6930-4df7-b791-a05741a3539a,Joly,Alexandrie,Pédiatre,26333,Colinboeuf,Loire,Réunion
+87ef0b70-d81c-4fd2-a48c-e34b457fa47f,Faivre,Alix,Généraliste,41975,Jacquet,Aude,Alsace
+bbda254b-c2fd-401b-9428-b86d57f2551c,Briand,Alexandria,Pédiatre,54080,Gérard-les-Bains,Côte-d'Or,Languedoc-Roussillon
+06b47e23-0773-411e-be5b-c3ef45f026a0,Boyer,Thérèse,Cardiologue,41135,PintoVille,Eure,Centre
+ee2e8dda-66d4-45b6-a658-5d835597da1e,Blanchet,Jules,Ophtalmologue,55271,Sainte DianeBourg,Cantal,Midi-Pyrénées
+e0d725bb-a444-4575-a218-09428d9215b4,Valentin,Christelle,Dermatologue,84284,Saint Noémi,Puy-de-Dôme,Nouvelle-Calédonie
+354380c4-8e2a-428f-bec2-cbc4e7fa2931,Fernandez,Anastasie,Cardiologue,18799,Larocheboeuf,Cantal,Bretagne
+e4b71e62-f160-4738-88ff-59ea4f1a2d39,Muller,Paul,Ophtalmologue,15512,Charpentier,Nord,Bourgogne
+17b60cd3-685a-4012-93fd-4665aff73e74,Chartier,Caroline,Ophtalmologue,75861,Bouchet,Meurthe-et-Moselle,Nouvelle-Calédonie
+aa407f38-2f53-4c0a-9c15-85c8263b2a5d,Lefebvre,Jacques,Cardiologue,83172,Gauthier-sur-Morin,Hauts-de-Seine,Corse
+8db3f266-a4dd-4633-ba7a-c89c1590385f,Lelièvre,Dorothée,Pédiatre,97074,Diallodan,Charente,Nord-Pas-de-Calais
+6600a0f8-ff77-4f8e-a02a-f4e423f66715,Charrier,Mathilde,Pédiatre,98646,Marion-sur-Delahaye,Saône-et-Loire,Corse
+17351548-8e6d-4805-9b39-3172f71597d6,Le Gall,Augustin,Dermatologue,49154,Saint René,Gard,Poitou-Charentes
+b03ef261-0b2f-414b-b4e9-74d836752f8c,Moreno,William,Ophtalmologue,39071,Humbert,Pyrénées-Atlantiques,Mayotte
+b0e89393-271c-41e8-bd78-afb5ef10b659,Sanchez,Zoé,Pédiatre,75483,Noël,Gard,Guyane
+42993cb9-9e0f-48e8-99d6-2c0f1b3c7bef,Ruiz,Laurence,Pédiatre,19408,Voisinboeuf,Ardennes,Aquitaine
+10026e77-89b0-41b9-8fb9-8784eadcf28d,Faure,Denise,Ophtalmologue,91797,Schmitt,Yonne,Wallis-et-Futuna
+155ea2ce-e314-485a-8029-36e2bd056f52,Dupont,Chantal,Cardiologue,89866,Saint Dorothée,Tarn,Polynésie française
+85d7366d-749f-4f39-997b-84fd99c97d59,Chauvet,Camille,Ophtalmologue,37966,Potier,Tarn-et-Garonne,Franche-Comté
+cd00fe91-11f4-48ae-bb51-25b645a99aea,Laine,Valérie,Ophtalmologue,46544,Hubertnec,Meuse,Province-Alpes-Côte d'Azur
+640c4cc6-06a7-41ce-91c4-42f309be2cb8,Dijoux,Alphonse,Généraliste,14408,Regnier,Somme,Poitou-Charentes
+6c19fa0a-8f7b-429b-a321-1377d10c4e8e,Fischer,Jean,Cardiologue,65386,Ferreira,Seine-Maritime,Martinique
+50dd4f6a-76cb-4e64-8c04-3ee0a0cfd587,Bonnet,Louis,Ophtalmologue,15675,Chrétien,Jura,Guadeloupe
+56bc6c19-91ba-4dc2-b903-815168dd1d50,Blondel,Louise,Pédiatre,81611,ValléeBourg,Sarthe,Saint-Martin
+a22ea25d-5483-4a44-ae11-1e8f8e238ef7,Didier,Odette,Cardiologue,20462,Bigot,Lozère,Nouvelle-Calédonie
+ee6bf73e-f845-44a7-b1b3-7cb4400e2a7f,Dupuis,Luc,Ophtalmologue,10718,Saint Robert,Jura,Nord-Pas-de-Calais
+d5a64d75-0d78-41d1-b5dd-267009de2189,Parent,Diane,Dermatologue,79281,Vincent-sur-Lucas,Martinique,Saint-Martin
+b08197a3-3ad6-4556-8c0b-f811110d33f2,Joly,Thomas,Dermatologue,14235,PetitVille,Corrèze,Nord-Pas-de-Calais
+dca99121-e3a1-44f3-a547-771296e1bc5e,Delmas,Danielle,Cardiologue,03228,LopezVille,Landes,Lorraine
+fb1d6dd9-f263-4b1e-b60f-cfc94f03bb5c,Lagarde,Paulette,Pédiatre,17099,Gautier-sur-Brunet,Sarthe,Basse-Normandie
+d32ca07d-a950-49ef-8ef2-4fbc0dafc152,Lucas,Zacharie,Ophtalmologue,87379,Marin-la-Forêt,Dordogne,Île-de-France
+2b5bbe31-c7af-48dc-a5e4-2f20e88afdce,Renaud,Anne,Pédiatre,76365,Diallo,Savoie,Champagne-Ardenne
+6277d387-4c36-4dca-8e8b-927e917c22d3,Berthelot,Antoinette,Généraliste,55477,Gaudin,Pyrénées-Orientales,Saint-Martin
+1eeb129e-eb4b-45ab-ad97-4a339d6a52cc,Legros,Eugène,Généraliste,50483,Caron,Hautes-Pyrénées,Wallis-et-Futuna
+f415f7be-bbb1-4629-be7a-e149fff0d8be,Renard,Christophe,Ophtalmologue,42446,Muller,Jura,Mayotte
+a62fc7e0-5c91-4ac1-9bf4-7709eb7a7add,Allard,Théophile,Ophtalmologue,75026,Saint Nicolas,Loire,Réunion
+536140e7-01a4-4bb3-a359-130b35b4f537,Gros,Julie,Pédiatre,76729,Sainte HélèneBourg,Côte-d'Or,Guyane
+9fa588c1-1abb-4bdd-a8ac-f03eee36a724,Letellier,Michèle,Pédiatre,68282,Jacques,Haute-Marne,Champagne-Ardenne
+09355206-4c06-4147-8452-25cd9fc22682,Mendès,Marcel,Dermatologue,12284,Saint Joséphine-sur-Mer,Gard,Champagne-Ardenne
+7bc04b2f-84bc-41b4-aec8-a901d6522ac9,Blondel,Arnaude,Pédiatre,84633,Bessondan,Finistère,Poitou-Charentes
+e6464061-45d3-436d-98ff-a1fec912ab7a,Vallée,Thérèse,Cardiologue,78654,Joubertnec,Haute-Vienne,Bretagne
+f87dc668-fe81-4bc4-bdd0-80eac33cdab1,Delattre,Alix,Ophtalmologue,97545,Da Costa,Haute-Marne,Haute-Normandie
+22fd39f4-c59e-4daa-9f69-f44a0ac46fc7,Blot,Anne,Dermatologue,94761,Moreno,Yvelines,Saint-Pierre-et-Miquelon
+7a897415-40af-4013-898d-67eead94d681,Vallet,Claire,Ophtalmologue,31605,Sainte Xavierdan,Cantal,Midi-Pyrénées
+5eae0dff-bfb6-408c-a854-223dd6707bf2,Rémy,Nath,Dermatologue,87493,Costa-sur-Mathieu,Nièvre,Martinique
+3d96507b-ddc3-4beb-9c16-d8b60cfaaa24,Nicolas,Juliette,Généraliste,85808,Schmitt,Marne,Bourgogne
+52f7628c-1995-4188-b2a1-8db70ffc9405,Allard,Marie,Généraliste,51349,Gosselin,Martinique,Haute-Normandie
+4b9231e3-4e2e-48f2-a6ba-f4a9273f7e60,Ruiz,Stéphane,Pédiatre,38831,Lejeune,Corse-du-Sud,Wallis-et-Futuna
+e19749fc-7f04-4eb6-9419-76218949dc8d,Camus,Alexandre,Ophtalmologue,66770,Saint Guy,Haute-Loire,Saint-Pierre-et-Miquelon
+2711110c-e36e-4c58-af98-72a58257a44f,Arnaud,Maurice,Cardiologue,64014,WagnerVille,Sarthe,Auvergne
+8e604ed4-2de0-4e21-83e0-f3cd1e4d93af,Aubert,Nathalie,Ophtalmologue,24304,Saint Alfred,Bouches-du-Rhône,Midi-Pyrénées
+596c8df9-4267-44cd-a4d6-220c585e6cea,Dupont,Charlotte,Généraliste,54708,Humbert,Cantal,Basse-Normandie
+9138b6c4-a481-43df-b4bb-bada6632507d,Denis,Victor,Cardiologue,42327,Salmon,Corrèze,Saint-Pierre-et-Miquelon
+8396191b-fc44-45ab-b82a-93ea7d679bb7,Maillard,Maurice,Pédiatre,08273,Delaunay,Charente,Bourgogne
+cecbc55a-80ad-4bf9-98e6-48f42784108a,Morin,Danielle,Ophtalmologue,51127,Sainte Aurore,Morbihan,Auvergne
+798792c5-e8b7-474e-9185-2e3c20bf48ff,Marie,Lorraine,Dermatologue,67267,Lejeune-la-Forêt,Aube,Auvergne
+b1fed158-172e-4fb2-9cca-7326f9ce5a18,Charles,Étienne,Ophtalmologue,48147,Marques-sur-Clément,Puy-de-Dôme,Limousin
+2553e6ba-6a42-4a40-8ead-a0d3df4179e5,Roche,Aurore,Dermatologue,60248,Guérin,Landes,Franche-Comté
+be527bf8-e874-404d-8865-47c99232946f,Martel,Suzanne,Ophtalmologue,93104,Simon-la-Forêt,Gard,Saint-Pierre-et-Miquelon
+9361c880-5f92-4a3d-9657-2cbd517bf50d,Roux,Nathalie,Pédiatre,12913,Maurice,Marne,Saint-Barthélémy
+6ccf5d9e-e646-4c94-abe9-cd6dbd4b290e,Pinto,Noël,Ophtalmologue,37057,Perrot,Seine-et-Marne,Province-Alpes-Côte d'Azur
+7f887fb7-4a1c-4ec0-9dbf-3251d4fe16df,Blanchard,Chantal,Cardiologue,38083,Raynaud,Pyrénées-Atlantiques,Rhone-Alpes
+af080d8a-15b2-4fef-9f58-c7cf599bc96e,Gauthier,Renée,Généraliste,37456,Colin-sur-Guillet,Jura,Île-de-France
+9268e9f4-fdfb-4522-9428-1260733ce9f9,Briand,Monique,Dermatologue,69706,Pottiernec,Allier,Saint-Martin
+f7fd6ab1-036e-4dcb-85e4-dbd79a7e36cf,Maury,Gilbert,Dermatologue,28897,Jacquot-sur-Mer,Haute-Saône,Alsace
+3f3064fd-269e-48b5-bb2d-8ace5f876fef,Dumont,Jérôme,Généraliste,64780,Mary-sur-Maurice,Haute-Corse,Haute-Normandie
+d60b9e13-4402-4baa-acd5-0bd365f16710,Reynaud,Élodie,Dermatologue,09009,Saint Michel-la-Forêt,Territoire de Belfort,Réunion
+49e09538-491c-4445-b816-1470b1e447c3,Laporte,Denise,Cardiologue,17595,Lopez,La Réunion,Saint-Martin
+42c3de0e-93b3-41e7-aaad-eb0c1b028ea2,Laroche,Maryse,Pédiatre,85718,DelmasVille,Seine-et-Marne,Polynésie française
+863dc0a2-8262-4d38-8538-eb3a9f42d72d,Chevalier,Alex,Cardiologue,19590,Sainte Gilles-la-Forêt,Haute-Saône,Champagne-Ardenne
+99168f5b-ffa1-4303-987f-be32cfe7fee5,Perrot,Nathalie,Dermatologue,57752,Roche,Charente-Maritime,Guadeloupe
+c586632b-1d1a-43b7-9b3d-770ef0d814ca,Pichon,Sophie,Généraliste,79088,Bailly,Lot,Martinique
+6c316d24-c50f-41f0-9af8-e81c02864604,Caron,Margaret,Pédiatre,27642,Moulin,Cantal,Poitou-Charentes
+c35f6a83-7d8a-4bca-ba8b-7832e946cd93,Duhamel,Stéphane,Généraliste,17096,Carreboeuf,Lot-et-Garonne,Basse-Normandie
+334debd2-ac93-4c1a-99af-6a98279091ef,Dupré,Isaac,Pédiatre,68532,Sainte Joséphine,Ille-et-Vilaine,Bourgogne
+1b1ab2dc-a967-44ae-82fb-39feb3b6ffac,Bruneau,Pierre,Généraliste,12262,Gilles-sur-Mer,Ain,Bretagne
+3f938074-a86a-4a0e-b2c2-c047f0fd7a75,Chevallier,Patricia,Pédiatre,10048,Dijoux,Dordogne,Champagne-Ardenne
+ce06403a-c8a2-4451-aea1-6e6b1d7d1ff8,De Sousa,Tristan,Pédiatre,89021,DupréBourg,Marne,Alsace
+5384f4a0-9eb6-4789-831c-20fa7fda530e,Boucher,Nath,Dermatologue,88294,Teixeira-les-Bains,Mayenne,Poitou-Charentes
+4a2a029f-2de5-4660-a845-e98d619b99f1,Hoareau,Dorothée,Pédiatre,31058,LerouxBourg,Ardennes,Wallis-et-Futuna
+cf2bc4ca-913f-414d-8349-13a1a355169d,Besson,Gilles,Dermatologue,92020,Guillet,Pyrénées-Orientales,Saint-Martin
+4af428ff-5831-4650-b77f-7a3cf83701cb,Dufour,Sylvie,Cardiologue,05904,Dufour,Loir-et-Cher,Pays-de-Loire
+540d271f-a2e0-49a3-9eed-d8dd545a8451,Mace,Isaac,Généraliste,95798,Sainte Laurent-la-Forêt,Meuse,Martinique
+58f3faeb-7fe6-49ef-a428-eac626ccdbce,Carlier,Auguste,Dermatologue,43687,Renault,Landes,Martinique
+f173373c-f495-4294-add1-9fb6d5b1f453,Poirier,Marie,Dermatologue,87684,Dos Santos-la-Forêt,Aude,Champagne-Ardenne
+6fd6b3e1-6f45-418f-8e62-565ebce670a4,Martin,Nicolas,Ophtalmologue,87001,Saint ThibaultVille,Eure,Bretagne
+f67c7c7a-f196-4e5c-99c2-abe1e7b21301,Mary,Aimée,Généraliste,55821,Perrierdan,Guyane,Auvergne
+eb3dd073-dd98-41ef-b29b-770e3ef4d1dc,Collet,Aurore,Généraliste,17552,Marchal-sur-Gilles,Tarn,Polynésie française
+15df2426-861e-450b-8ccf-86e260220d75,Pichon,Hélène,Généraliste,06210,Sainte Laurentnec,Ille-et-Vilaine,Île-de-France
+d5cc685c-fef6-41bf-a643-5e8c0a3827bc,Gimenez,Lucas,Cardiologue,49063,Dumas,Mayenne,Lorraine
+1bdb4c0d-9b62-42b9-af39-88ad10c23b21,Chauvin,Lucy,Généraliste,94897,Sainte Thérèse,Creuse,Bourgogne
+765c5fe5-959f-439a-9841-ff7e6ebf9491,Reynaud,Mathilde,Pédiatre,27238,Sainte MargotVille,Eure,Rhone-Alpes
+0d973947-fc70-43af-a46c-09f839512c85,Lombard,Sébastien,Pédiatre,50556,Hernandez,Savoie,Pays-de-Loire
+145f609a-ccda-4465-9cfe-1574c33e6651,Camus,Sébastien,Cardiologue,78528,Brunet-les-Bains,Haute-Marne,Mayotte
+62fb0750-76a2-42db-b320-51fb3ab9455c,Techer,Alfred,Cardiologue,97445,Rocher,Bas-Rhin,Haute-Normandie
+eabac78e-2e51-4504-b231-134266a5c72b,Nguyen,Émilie,Cardiologue,29991,Dijoux,Martinique,Réunion
+cf28a2c6-4d94-4743-841d-07b7d4af9292,Launay,Augustin,Pédiatre,48067,Lenoir-sur-Gomez,Yvelines,Languedoc-Roussillon
+d7f1c7aa-4fa1-4397-9bf6-fceadd8d36fc,Louis,Élise,Pédiatre,94895,Bouvier-la-Forêt,Corse-du-Sud,Saint-Pierre-et-Miquelon
+097c393c-1990-4623-b354-e828d8c9a51d,Jean,Mathilde,Généraliste,33240,Renaud,Hauts-de-Seine,Nouvelle-Calédonie
+111bb91d-b6bb-4ea3-818a-1fab6ab53fd5,Nguyen,Camille,Pédiatre,55489,Saint Victoire,Côtes-d'Armor,Alsace
+0d939f26-e3d0-42d8-aac8-a240e484522b,Rousseau,Benjamin,Ophtalmologue,16607,Da Silva,Seine-Maritime,Auvergne
+4aebf4a0-92ff-41e6-a421-7dfb01b84a92,Moulin,Jeanne,Ophtalmologue,61319,Denisboeuf,Haute-Garonne,Nord-Pas-de-Calais
+bfe33d6e-0db6-4b43-a015-a385079cf9a0,Robert,Audrey,Généraliste,87760,Thibault-sur-Mer,Loiret,Bourgogne
+7e991410-9106-41a3-a6db-8a7f657714a1,Rolland,Margaret,Ophtalmologue,05202,Aubry,Tarn-et-Garonne,Aquitaine
+c26764cf-b991-4492-bb31-0747abe5edd8,Adam,Marie,Pédiatre,13984,Becker,Var,Midi-Pyrénées
+28d709d5-b81d-4fb2-b189-50e3d8d8bd07,Joseph,Paulette,Cardiologue,92690,MunozBourg,Hauts-de-Seine,Limousin
+43ede7bc-5294-495c-9136-2aa9dea5aff9,Léger,Cécile,Généraliste,51778,PoirierBourg,Côtes-d'Armor,Bourgogne
+7d99a1fc-b450-4802-ad7c-b2bb19b66e3b,Hoareau,Claude,Cardiologue,95489,Blanc,Mayenne,Alsace
+142053b2-3849-4b06-ad77-0ca5c47ea67f,Roy,René,Pédiatre,08918,Mallet,Territoire de Belfort,Bourgogne
+c24e8855-48ac-43a1-89d5-ca367485201f,Charrier,Léon,Dermatologue,39277,Maillot,Dordogne,Poitou-Charentes
+84c50fe3-6f05-4d32-aede-037ce5954547,Fournier,Véronique,Ophtalmologue,94131,Saint Mathilde,Saône-et-Loire,Midi-Pyrénées
+6c5fb199-fd47-4d10-9cfe-032a3a5645a8,Vallée,Thierry,Ophtalmologue,62624,Seguin,Corse-du-Sud,Languedoc-Roussillon
+25650f23-de48-4526-afec-86a557c0b37b,Fournier,Lorraine,Dermatologue,20987,Andre-sur-Lesage,Val-d'Oise,Nord-Pas-de-Calais
+9acdfef8-d991-40ce-b5d4-5aa419cc06dd,Collet,Adélaïde,Généraliste,15213,Benarddan,Cher,Aquitaine
+53f43660-ee68-4c64-84ae-541cfbe6ec67,Noël,David,Ophtalmologue,64043,Fischer,Savoie,Poitou-Charentes
+4b23ff81-d552-465d-adf7-93cf008a2f81,Humbert,Marthe,Ophtalmologue,93910,Hamel,Indre,Franche-Comté
+ed706200-9481-4057-94dc-7c50ed2df337,Coulon,Virginie,Généraliste,58965,Raynaud-sur-Muller,Vendée,Aquitaine
+38dd5764-617b-48f2-b528-8bbc89b7232d,Jacob,Monique,Cardiologue,96866,Guyot,Guyane,Limousin
+5124540a-6690-42e1-9f77-28a6cbe2ead5,Dumont,Cécile,Pédiatre,40652,Saint Adrien,Maine-et-Loire,Saint-Pierre-et-Miquelon
+7b30b8dd-c5f2-4cf1-92ce-71cab17d95f6,Gosselin,Alexandre,Dermatologue,70553,Gosselin-sur-Lecomte,Vaucluse,Franche-Comté
+58cdd993-f37c-43ce-894c-971a2df41578,Le Goff,Susan,Cardiologue,39632,Diallodan,Gard,Alsace
+b7949824-3c08-4691-bb01-f7f3880958db,Lucas,Matthieu,Généraliste,47508,MasseVille,Seine-Saint-Denis,Saint-Martin
+dce269f2-a71e-485e-9417-de92f4c3779d,Olivier,Margaux,Ophtalmologue,31040,Marchal-les-Bains,Ain,Midi-Pyrénées
+47629a80-f8bf-4580-b881-25ff8b94d82d,Hervé,Geneviève,Pédiatre,50189,Sainte Bernadettedan,Aveyron,Nouvelle-Calédonie
+ca8c6bff-8128-4dec-8a92-e2d3bcc194ee,Tanguy,Éléonore,Dermatologue,10080,GaudinBourg,Creuse,Saint-Barthélémy
+e301dc8c-2c40-44d1-ad6c-e3e8e84c6019,Normand,Frédéric,Ophtalmologue,98611,Dupont,Savoie,Aquitaine
+72ef3fdb-64b5-4260-83a9-a6bcb958aefd,Muller,Thibault,Dermatologue,12727,Giraud,Somme,Guadeloupe
+c09007a3-d727-43e3-ac90-fcd05c9c4587,Hardy,Céline,Pédiatre,49125,Saint Anaïsnec,Haute-Savoie,Rhone-Alpes
+61149f02-3945-4224-ae42-4880bac25b1c,Michel,Gilles,Cardiologue,54862,Saint Aimée,Hauts-de-Seine,Bourgogne
+1efbf874-e6e1-43b9-a762-610a13b271d5,Chrétien,Xavier,Ophtalmologue,17252,Regnier-sur-Baudry,Seine-Saint-Denis,Auvergne
+f2f146c7-e72f-4da4-95ca-e05887861cf9,Lecomte,Laetitia,Cardiologue,41823,Camus,Moselle,Languedoc-Roussillon
+194c0fec-4821-4a4b-83e6-1732ea6031f4,Philippe,Gabrielle,Dermatologue,53491,Mendès,Alpes-Maritimes,Guadeloupe
+f3773aca-352c-422f-b0e4-ffb4837b0625,Chevalier,Catherine,Généraliste,17823,Breton,Aube,Saint-Pierre-et-Miquelon
+06b92f37-402d-4acc-ac13-b085a5b94238,Fischer,Guy,Cardiologue,64745,Rey-sur-Diallo,Seine-et-Marne,Poitou-Charentes
+91ef398f-f5f4-434e-96a7-3eb99a29d3d1,Mendès,Jean,Cardiologue,64512,Fouquet,Tarn-et-Garonne,Martinique
+864a72a0-bd86-4b3f-a41d-f722a572f2ef,Roussel,Thierry,Ophtalmologue,97122,Sainte Nathaliedan,Martinique,Alsace
+5eaff760-80a1-4aa6-9be5-a7d3a159650c,Jourdan,Timothée,Dermatologue,37612,Girard-sur-Rocher,Charente,Saint-Martin
+b0845a82-0363-4a8c-bbf8-7e5f4ea39778,Gauthier,Margaux,Pédiatre,07979,Payet,Pyrénées-Orientales,Aquitaine
+2774bbea-946f-4d37-bc34-c1cf66076f9a,Brunel,Adrienne,Généraliste,97124,Perez,Pyrénées-Atlantiques,Mayotte
+2c159c53-2ba5-4568-8e70-2ab4c8f7f410,Michel,Robert,Ophtalmologue,44971,Guillot-les-Bains,Haute-Garonne,Saint-Martin
+47a9d3ca-16e3-4ec4-8001-6761f97088d9,Normand,Dorothée,Pédiatre,15010,Saint Olivier,Drôme,Bretagne
+5e96574a-94e6-4fe9-963a-c3c9c49734a3,Roger,René,Ophtalmologue,00464,ColasVille,Nièvre,Guadeloupe
+2c721e17-ea1d-4dd4-a4fc-127da9c4db3d,Briand,Daniel,Cardiologue,29862,Jacques,Ardennes,Saint-Pierre-et-Miquelon
+5235fa59-ef9b-472e-afcb-ceb76176de2e,Lucas,Élodie,Généraliste,94839,Sainte Sophie,Indre,Polynésie française
+a41fb757-8812-41c0-916e-8e7426d96b79,Pierre,Joséphine,Cardiologue,99716,Leclerc-les-Bains,Meuse,Nord-Pas-de-Calais
+bb67cf4b-53a9-4ed5-8325-0d7ce1e91400,Lesage,Éléonore,Généraliste,32809,Saint Valérie,Hauts-de-Seine,Saint-Martin
+76a6fd82-8916-40f5-abac-27e8c07cd055,Olivier,Thibault,Dermatologue,82709,Guibertnec,Yonne,Haute-Normandie
+c06f01e7-e37f-4b62-a7b6-5b44e21f0957,Rousseau,Margot,Ophtalmologue,85763,Sainte Mathilde,Lozère,Saint-Martin
+c173d754-1ed9-4e2f-b937-705fdcc97741,Paris,Henriette,Généraliste,65309,ThomasBourg,Vaucluse,Rhone-Alpes
+794403cd-8c2b-48e2-97d9-bbfdffc7ebae,Cordier,Monique,Dermatologue,43455,Leblanc,Gers,Mayotte
+8ebcb77b-161d-411a-89dc-18d7cd2acab5,Marion,Nath,Généraliste,70953,Monnier,Var,Île-de-France
+e44910cd-09a5-4276-be5d-bf1df36d3bb3,Mercier,Émile,Généraliste,14378,Sainte Maurice,Haute-Garonne,Île-de-France
+34e15b17-c379-447d-9dcf-5ea1ff59416b,Gallet,Raymond,Pédiatre,52893,Joly,Gironde,Basse-Normandie
+478cc146-6fd1-41bb-b8f9-c9a215baae32,Garnier,Laure,Dermatologue,15412,BrunVille,Aude,Champagne-Ardenne
+885fe541-27b4-4dca-839c-6bba785328d4,Dos Santos,Margaud,Généraliste,30116,LecoqVille,Val-de-Marne,Rhone-Alpes
+58173b4d-a2bc-4a54-96e1-84e8cb0a9650,Pierre,Olivie,Pédiatre,21646,Grenier,Deux-Sèvres,Languedoc-Roussillon
+430c3c10-cb70-4b93-a557-1d45bb9b767f,Renard,Franck,Ophtalmologue,42794,Marchal-sur-Pottier,Guyane,Lorraine
+70e94eb6-4186-49a6-856e-2f94712334c7,Jourdan,Émile,Ophtalmologue,87369,Sainte Guy,Loire,Basse-Normandie
+445987bf-b1a1-42ec-a0a8-2c21014643d1,Humbert,Théodore,Ophtalmologue,55977,Vallet,Var,Midi-Pyrénées
+325a9a17-53da-4827-98ef-a6f42901b6f5,Chauvin,Élisabeth,Ophtalmologue,41322,Evrard,Haute-Marne,Saint-Pierre-et-Miquelon
+070f3cc3-30ad-4dbc-9a91-88cef3faa07d,Tessier,Marianne,Pédiatre,31977,Vincent,Morbihan,Rhone-Alpes
+9c5360cb-ef68-4582-a188-cda6ea939784,Joubert,Robert,Généraliste,72968,Alves,Cantal,Nord-Pas-de-Calais
+13504b72-6b7e-4fbc-a12e-0575b2cad240,Nguyen,Augustin,Généraliste,33556,Robin-sur-Mer,Corrèze,Midi-Pyrénées
+56726207-2ff8-4b97-8916-120caffecdb1,David,Jeannine,Généraliste,74574,Pinto,Eure-et-Loir,Province-Alpes-Côte d'Azur
+e78f6baa-6d12-4988-83ce-61e770ee0012,Rousset,Éléonore,Pédiatre,99488,Colasboeuf,Pyrénées-Atlantiques,Île-de-France
+90136b67-7420-4966-8635-1af6597cf981,Petitjean,Cécile,Ophtalmologue,77358,Colas,Haute-Vienne,Centre
+b95bc8c9-3767-4d1a-a4e1-2e30c287662a,Lefort,Guy,Généraliste,93366,Allain,Gard,Saint-Barthélémy
+cba2881c-ef7c-40f8-8162-8a429e0870be,Da Costa,Robert,Généraliste,05845,Nicolasboeuf,Vendée,Saint-Pierre-et-Miquelon
+d3ee2738-30ec-4fb7-a7b1-16abb0c823b0,Pascal,Manon,Cardiologue,13283,Meunier,Calvados,Bretagne
+66dccfde-5c1e-4283-84e8-8f07f46da17d,Barbier,Chantal,Pédiatre,93390,Sainte Julie,Gironde,Guyane
+32fd7df8-2cb3-44f3-8964-8124b2b7ee80,Arnaud,Adélaïde,Pédiatre,51182,Boulay,Aude,Bretagne
+b69a6a98-bae7-4feb-8ab5-f2261d8b6be8,Maurice,Élodie,Généraliste,66880,Pelletierboeuf,Bouches-du-Rhône,Mayotte
+1e7c9e63-52e5-410b-a78f-3e40ef4359d7,Becker,Anouk,Généraliste,16611,Giraud-les-Bains,Deux-Sèvres,Île-de-France
+598e073f-71c4-47e8-ad76-23a5756f0201,Blondel,Antoinette,Cardiologue,88740,Aubert,Haute-Marne,Auvergne
+da244b64-b02d-4f9d-87e1-35dbadc2895e,Aubry,Luc,Ophtalmologue,12850,Bertin,Morbihan,Bretagne
+dbda58bd-662d-4e29-b81c-e7eb7995dc2f,Michaud,Sabine,Cardiologue,80382,Jacob,Yvelines,Bretagne
+3ed6e8df-2007-45b2-b5e7-944e074c476b,Moreno,Georges,Ophtalmologue,35920,Joseph,Eure,Basse-Normandie
+9a761ad7-d1f0-4a5a-9240-6a63f22ca494,Gaudin,Françoise,Cardiologue,03623,Mathieu-sur-Boulay,Loir-et-Cher,Mayotte
+fdfc8fa1-8e62-4bfe-bb80-331859be64a5,Lopes,Adrienne,Cardiologue,38313,Sainte Isaacnec,Haute-Savoie,Languedoc-Roussillon
+ac727aab-dfdb-4867-8b60-7e97ef287395,Gosselin,Marine,Cardiologue,16830,DelahayeBourg,Moselle,Wallis-et-Futuna
+63d6765c-cea2-481b-83ca-c0a698462ac2,Thibault,Catherine,Généraliste,94360,Guibert,Paris,Wallis-et-Futuna
+ca5e04e2-56ad-46ec-93d2-04c0ed70a20e,Evrard,Maurice,Généraliste,48260,DupuisBourg,Essonne,Guyane
+48fa450d-6ad2-42bf-9d22-d547ff4ed66a,Martineau,Anne,Généraliste,45635,Poirier,Côte-d'Or,Corse
+84281390-eb7a-41f6-9314-02b95c42100f,Gérard,Marie,Pédiatre,45977,Saint Marthenec,Seine-Maritime,Saint-Martin
+03d48417-9b2b-47c1-a681-f54768668f45,Vaillant,Célina,Dermatologue,52470,Rivièrenec,Gers,Bretagne
+795e737b-6ecf-40fb-b2b5-7a9b89bda8da,Bègue,Virginie,Dermatologue,03809,Saint Grégoire,Charente,Bretagne
+a4dddb90-1caf-4a73-a7ba-13bbcb817432,Lebreton,Lucy,Dermatologue,52184,Sainte Laure,Var,Aquitaine
+e0ef1111-1b0a-4a43-be1f-c2b33724e78f,Gilbert,Louis,Pédiatre,24193,Le Goffboeuf,Haute-Loire,Alsace
+732b657a-0b81-4a52-8246-d33867a97e86,Lemaire,Andrée,Généraliste,50539,Sainte Aurélie,Côtes-d'Armor,Province-Alpes-Côte d'Azur
+04ae9c15-3414-4dc9-98b0-67fd11fa02d8,Vaillant,Jérôme,Cardiologue,23605,Colas-sur-De Oliveira,Landes,Picardie
+ed54cecf-837a-4293-a651-b33862f1c196,Renaud,Valérie,Généraliste,36298,Vidal,Haute-Loire,Nouvelle-Calédonie
+54497345-5712-47c5-8e30-b744e47877f4,Perrot,David,Pédiatre,03249,Ollivier,Allier,Basse-Normandie
+b95ff050-6cb7-4fc0-8c0a-3e319b9e206c,Antoine,Nathalie,Cardiologue,12385,Colin,Ille-et-Vilaine,Corse
+87192c66-c0c0-4a26-b21a-bc71b79cdc87,Evrard,Jeannine,Cardiologue,79472,Saint Grégoire,Aude,Languedoc-Roussillon
+8b2efb77-54c1-4e3f-a8a9-00ddc8ea91fe,Lebon,Jeanne,Généraliste,21948,Cousin,Deux-Sèvres,Île-de-France
+340e1f78-197e-4e0e-9c6d-43babd835172,Louis,Vincent,Généraliste,57617,Saint Stéphanenec,Ain,Lorraine
+31060732-d70f-4724-88e8-20f757184a07,Ferrand,Margot,Pédiatre,24299,Texier,Dordogne,Picardie
+25aa67d7-016f-46c9-a982-822e6821b26f,Mathieu,Astrid,Dermatologue,35868,BlondelVille,Paris,Guyane
+db05c07f-bbb8-4664-8d2d-e3f4818273ef,Barbier,Jacqueline,Cardiologue,55909,Cousin,La Réunion,Guadeloupe
+841dd9c3-a4d6-41ec-98d6-fd7a4a03ea44,Normand,Martin,Ophtalmologue,38309,Sainte Alexandre-la-Forêt,Gard,Polynésie française
+d84a44d0-0d7a-40e9-98da-cd0e4ee3d2e9,Gimenez,Margot,Pédiatre,79524,Bazin-la-Forêt,Landes,Basse-Normandie
+ca432997-f594-4c73-a01d-294e6d2c4f34,Lopez,Richard,Ophtalmologue,19440,Gautier-sur-Camus,Loiret,Polynésie française
+fd1a2d1b-5998-40ac-af62-c351cb974f56,Mercier,Gabriel,Pédiatre,73520,Leconte,Haute-Vienne,Corse
+b0ecf744-0521-4469-8db7-882189123004,Cordier,Alice,Dermatologue,24549,Moreno,Seine-et-Marne,Auvergne
+133eb251-1818-4b76-9727-4e4603645f6a,Pires,Maryse,Ophtalmologue,73850,Mathieu,Loire-Atlantique,Haute-Normandie
+da53f09c-4cc1-485c-8801-f4515fb1059f,Besson,André,Pédiatre,75469,Allain,Var,Province-Alpes-Côte d'Azur
+f0b2e5ed-9a67-4ca3-a3cf-5df7de0ca552,Vallée,Margaret,Pédiatre,30322,Sancheznec,Alpes-de-Haute-Provence,Lorraine
+175daf4e-3ec7-4b7d-8e2c-b5759cb6b118,Dupré,Bernard,Ophtalmologue,46642,Hamon,Pas-de-Calais,Franche-Comté
+4b339786-071a-4495-bf3d-3a26e602cab9,Julien,Dominique,Dermatologue,69540,Dumas,Val-de-Marne,Poitou-Charentes
+af22f4e1-82d5-47e5-8c92-2313d4407232,Guyon,Aurore,Pédiatre,01530,ThomasVille,Charente-Maritime,Midi-Pyrénées
+5f3f602e-f369-4f0b-85c1-4256ed39caf4,Moulin,Lorraine,Dermatologue,55920,Saint Jeanne,Sarthe,Nouvelle-Calédonie
+f72d93ac-2607-4185-b535-071b6641eaa3,Laine,Théophile,Ophtalmologue,79748,Bonnin,Bouches-du-Rhône,Languedoc-Roussillon
+aba32d62-549c-4a75-bca5-1cae068672b2,Martin,Pierre,Cardiologue,02795,Bèguenec,Gard,Alsace
+28fa6200-19f9-4193-acfd-6618ae25aa25,Besson,Camille,Généraliste,43149,Marie,Haute-Marne,Corse
+8917e5ac-98ce-42c0-b982-7e8f3e70c7bb,Wagner,Auguste,Ophtalmologue,72329,Leclerc-sur-Delattre,Vosges,Limousin
+54beeafd-0bdf-4672-9271-4dfdd001fc9f,Besson,Nathalie,Dermatologue,70307,Roche-sur-Ramos,Essonne,Centre
+7835eb7e-6a13-435a-8f58-44c543d9d37b,Pottier,Nicolas,Généraliste,40872,Bertinnec,Savoie,Nouvelle-Calédonie
+487bc5f3-9259-49b5-91d0-fa00bc8b7657,Chevalier,Margot,Dermatologue,23325,Sainte CatherineBourg,Gironde,Lorraine
+7221d561-c8df-46cc-86e4-cf296708b84a,Godard,Hugues,Dermatologue,40225,Lefèvrenec,Haute-Saône,Midi-Pyrénées
+47d23edb-b617-4d14-890c-f70e22727e97,Sanchez,Odette,Dermatologue,55365,Humbertdan,Ille-et-Vilaine,Franche-Comté
+3e697b7d-7f42-4725-94e1-ffd90a388b59,Texier,Laurence,Dermatologue,93052,Lucas,Oise,Mayotte
+2f9f420f-0111-4bd5-9d99-69a3e7f65ee2,Garcia,Benjamin,Dermatologue,86800,Jourdan,Rhône,Limousin
+1d84ddfe-3c0f-44a1-90c3-2d8bdf2e9543,Gonzalez,Richard,Ophtalmologue,06261,Perrin,Ille-et-Vilaine,Martinique
+62fcc67b-db1c-46b1-8491-4266147d0a6d,Pruvost,Renée,Généraliste,93333,Lemonnier,Alpes-Maritimes,Bourgogne
+d6638a6d-4093-4546-b1ea-e051796d2d52,Marchand,Aurélie,Pédiatre,34456,Saint Joseph,Indre,Province-Alpes-Côte d'Azur
+f02903e2-5646-4acd-acf0-93292a8db097,Ruiz,Augustin,Cardiologue,91510,Payet,Ain,Languedoc-Roussillon
+f2730286-fb27-4ce6-9d2b-e13287fb87dc,Durand,Éléonore,Généraliste,08551,GuillaumeVille,Haute-Marne,Guadeloupe
+1f714144-8aee-4a59-a08a-f9c54bc2412d,Germain,Eugène,Pédiatre,53540,Le Gall-sur-Lebon,Yvelines,Champagne-Ardenne
+e828536c-5d9a-434c-9f94-2a2ee8144016,Rousseau,Mathilde,Cardiologue,08425,HamonBourg,Charente-Maritime,Guadeloupe
+e0dd4ba8-f544-4c87-913f-46e00af97f1c,Raynaud,Nathalie,Généraliste,68664,Delattre-sur-Rousset,Ariège,Saint-Barthélémy
+352663ce-6b00-485c-9a50-53123bc861fa,Le Roux,Zacharie,Pédiatre,15194,DumasBourg,Finistère,Réunion
+7124b8ef-5c45-4471-be61-feb53b16f646,Moulin,Adrien,Cardiologue,40629,Diallo,Paris,Corse
+cb99f1cd-738d-4160-8a12-7d659aa28cff,Jourdan,Michelle,Généraliste,32707,LemoineBourg,Morbihan,Auvergne
+e9f86d54-7729-4fbd-a765-7e5fa0cf7b25,Turpin,Eugène,Cardiologue,05344,Saint Henriette,Manche,Polynésie française
+5dbee0ae-9c0b-4e61-950a-3276e344be35,Blin,Capucine,Cardiologue,57210,Sainte EmmanuelBourg,Mayenne,Bourgogne
+ad88ec19-a4eb-41e7-9d19-b8a57fa78edf,Blondel,Anouk,Pédiatre,64055,LegendreBourg,Landes,Lorraine
+16a6e719-7757-47e2-b884-e3b17298b590,Laurent,Corinne,Cardiologue,73528,GaillardVille,Indre,Champagne-Ardenne
+bba48ed8-d0ee-4733-ab9f-2c7ab712e3e8,Garcia,Christiane,Dermatologue,65420,Lebrundan,Calvados,Auvergne
+a40594c6-6a55-40ee-b0a1-5b223adf98b0,Garcia,Susan,Dermatologue,36252,Caronboeuf,Territoire de Belfort,Bretagne
+39605151-b354-484d-b673-fe557ca8008a,Moulin,Marcel,Ophtalmologue,56774,Sainte Arthurdan,Vienne,Bretagne
+83aadf38-0313-4fee-9d89-4a9bedaccff6,Barre,Vincent,Généraliste,61752,PonsVille,Saône-et-Loire,Alsace
+9258775c-aa98-4f4e-abde-9b53d751b250,Poirier,Dorothée,Pédiatre,28137,Maillard,Hérault,Franche-Comté
+2246cc7a-81c6-41a6-b83f-ed527fd2634a,Legendre,Monique,Dermatologue,55731,Tanguy,Haute-Garonne,Haute-Normandie
+123f4c7e-9e4c-4d6a-b373-1a80325dcb16,Auger,Joseph,Généraliste,05470,Jourdan,Saône-et-Loire,Martinique
+08f13b49-5b9c-4b25-b22b-ae04af6ba50f,Hamon,Gabriel,Dermatologue,18890,Duval-sur-Mer,Loire,Rhone-Alpes
+9a9a8e81-c019-4ba8-aa18-ddb5ec65cb77,Barthelemy,Jeanne,Pédiatre,14729,Morvan,Charente,Centre
+ccdeb54b-13bd-406c-b12d-2ef755c31899,Bertin,Daniel,Pédiatre,67732,Saint Margot-la-Forêt,Landes,Limousin
+046b1f91-a3b1-4586-9338-c8bd600a3f99,Rodriguez,Adrien,Cardiologue,43133,Sainte Mathildeboeuf,Rhône,Province-Alpes-Côte d'Azur
+427bcd93-24d7-4fba-b25c-dc0f89f9534e,Bouvier,Yves,Pédiatre,49215,Sauvage,Hérault,Saint-Martin
+01ae2872-f75e-451f-ac1e-80835ead337d,Gaudin,Anastasie,Dermatologue,97153,Daniel,Aveyron,Limousin
+b9fa427b-2600-471e-9c6f-9e7476c4e71f,Lefort,Antoinette,Pédiatre,45846,Sainte Simone-la-Forêt,Haute-Loire,Mayotte
+e958dbd8-ff5e-45b2-a670-0492c3cad462,Thomas,Océane,Dermatologue,68130,Guillou-sur-Girard,Seine-Saint-Denis,Nouvelle-Calédonie
+cdb3a9a2-36b3-4651-b8d5-5df7f7c03340,Pichon,Victor,Cardiologue,18384,DuboisBourg,Vaucluse,Limousin
+f73c35ff-e414-4b94-930d-4e92bf6ba095,Dumont,Antoinette,Pédiatre,51106,Salmon,Corse-du-Sud,Martinique
+d4dca804-e9d9-44f3-ad79-1166b4a23711,Courtois,Alexandrie,Dermatologue,82730,Guillet,Rhône,Alsace
+fb846669-f176-408e-a7fb-9cfb0bdd48a5,Bouchet,Agathe,Pédiatre,25478,Andre-sur-Vasseur,Vendée,Martinique
+8018f929-33a9-4fc6-8715-050a1a7b4861,Muller,Gilbert,Ophtalmologue,11351,Sainte Christiane,Ardèche,Midi-Pyrénées
+3a81173c-8a54-4293-beb1-b2f78cb64eac,Becker,Sabine,Dermatologue,71080,Sainte Christophe,Oise,Auvergne
+ea0c6987-514f-439f-841b-e0ceea0d860a,Imbert,Timothée,Pédiatre,39883,Rémy-la-Forêt,Hautes-Pyrénées,Île-de-France
+bfc8b662-f521-474e-927c-e56dcf10a7a0,Hamon,Hortense,Dermatologue,93480,Guillet,Lozère,Saint-Martin
+e6a99a88-6295-4938-80b6-8df7deda9db6,Étienne,Gabrielle,Généraliste,99595,Didier,Morbihan,Midi-Pyrénées
+025a1f84-a8e5-4557-a50b-51a812463c57,Cohen,Tristan,Généraliste,95113,Reydan,Val-de-Marne,Nord-Pas-de-Calais
+3a976896-1acc-4ad8-aa3a-fe17b821ee2b,Delorme,Stéphane,Généraliste,70570,Dupuis,Ardèche,Réunion
+3fbe5f23-1028-4606-829d-f0df65f5bcc2,Millet,Lorraine,Pédiatre,78508,Potier,Orne,Mayotte
+0990f70b-60b6-4020-a051-1e1b9e2b5688,Leblanc,Christophe,Cardiologue,27304,GauthierVille,Haute-Garonne,Réunion
+844705eb-1050-49f4-a38b-58bde3220489,Schneider,Gabriel,Dermatologue,36163,Saint Patricia-la-Forêt,Indre,Midi-Pyrénées
+eb0256ed-d1a9-4de3-a03b-90e7721f2015,Tessier,Élisabeth,Généraliste,27457,Henry,Deux-Sèvres,Guyane
+ba7e5b60-9854-407a-8e42-8921922340e4,Bourgeois,Anastasie,Cardiologue,03184,Garcia,Vaucluse,Midi-Pyrénées
+ca196842-874c-4540-8b3e-4691b9a43f10,Jacquot,Louise,Ophtalmologue,84525,Ledouxdan,Martinique,Midi-Pyrénées
+071bcca5-9130-4a6a-8183-e1aea1eca11d,Menard,Inès,Généraliste,07371,Ollivier-sur-Mer,Allier,Picardie
+b9406c2f-b5ba-4417-83b8-317c8ff0e4c9,Potier,Guillaume,Cardiologue,73125,Baron,Orne,Languedoc-Roussillon
+833fc427-5824-4704-89ff-cf483d305233,Garnier,Jeanne,Ophtalmologue,27038,Vallet,Allier,Guadeloupe
+ea8a298f-8a11-44f8-9b55-786284cbc869,Laine,Louis,Pédiatre,44258,Saint Laure,Deux-Sèvres,Basse-Normandie
+a746e0bb-f482-4573-9d3f-0fc7bd06c3e0,Gay,Lucas,Dermatologue,22052,Saint Lorraine,Alpes-de-Haute-Provence,Picardie
+50bc2133-8336-4288-9632-d44dbb22d688,Diaz,Thérèse,Dermatologue,11267,Mullerboeuf,Bas-Rhin,Saint-Barthélémy
+dc04ba01-bb12-452c-98b5-7d50670fa1af,Fontaine,Manon,Ophtalmologue,72190,Caron,Allier,Picardie
+b69dd815-2529-4cfc-8900-9450979af24f,Letellier,Claire,Pédiatre,40380,Pages-les-Bains,Tarn,Rhone-Alpes
+8f2ce8c2-16ab-4bed-be87-821432074639,Gauthier,Élisabeth,Pédiatre,42917,Costenec,Indre,Polynésie française
+19eee997-a59b-4a22-a03a-5f13e3da3371,Delahaye,Cécile,Pédiatre,67531,Faure,Meuse,Franche-Comté
+50dd6663-4493-4a17-810c-7abf807b2cc3,Coste,Marguerite,Pédiatre,54369,Saint XavierBourg,Lot-et-Garonne,Limousin
+4c190d8a-c632-43af-a6f3-7699a7a2d218,Julien,Aurélie,Cardiologue,48206,RousselBourg,Alpes-Maritimes,Haute-Normandie
+cdf61495-72d2-4067-a989-e0a0d30a8870,Boulanger,Raymond,Cardiologue,95912,Saint Roger,Aisne,Limousin
+1002763b-0241-4381-8f0f-9079c349766c,Sauvage,Marguerite,Ophtalmologue,09676,David,Loir-et-Cher,Rhone-Alpes
+2b0a0ac9-a852-4e0d-9e7c-9e255bf10337,Brunel,Audrey,Dermatologue,62229,MullerVille,Ariège,Wallis-et-Futuna
+e4dec0b1-b81d-4fb5-aef4-456cc1a0794e,Antoine,Marie,Pédiatre,30964,Charles,Guadeloupe,Saint-Martin
+1e23f5ef-a908-4908-8747-ddf2835cc0bc,Marques,Louise,Généraliste,66037,Legendreboeuf,Gironde,Province-Alpes-Côte d'Azur
+70fb2f80-a17c-4f74-a685-6ec940bd9ddc,Pinto,Arnaude,Dermatologue,34948,Bernard,Haute-Savoie,Aquitaine
+07d8a381-daef-4123-8442-2f6dedd4d89f,Dubois,Adélaïde,Dermatologue,25442,Saint Inès,Seine-Maritime,Auvergne
+83bebfda-5f42-45bd-9847-9e8a049515c7,Baron,Gérard,Dermatologue,73977,Pascal,Gers,Picardie
+2020003a-2a74-4ff3-af57-f7bcd9062169,Ollivier,Hélène,Dermatologue,22069,Maury-les-Bains,Hautes-Alpes,Pays-de-Loire
+0223a775-b32f-4d52-b12a-08ad322747ce,Leclercq,Hortense,Dermatologue,76910,Blinnec,Pyrénées-Orientales,Guadeloupe
+c75d52cc-80d0-47a5-8205-a64d1127e52f,Morvan,Manon,Ophtalmologue,27414,Diaz,Loire-Atlantique,Basse-Normandie
+71ca9665-c007-47df-bec0-ebaad41ce7b8,De Sousa,Maurice,Dermatologue,38472,Sainte Stéphaneboeuf,Landes,Île-de-France
+a642ad38-c794-40c4-af61-49c5a3df183e,Renault,Sabine,Pédiatre,86992,Buisson,Charente-Maritime,Guadeloupe
+98057a50-b36b-4830-8f5a-cdc8d3c75d8d,Lévêque,Stéphanie,Pédiatre,08704,Perrier-les-Bains,La Réunion,Wallis-et-Futuna
+f086acca-9b6a-4536-a302-f872239b2b78,Pichon,Léon,Généraliste,97002,Cohen-sur-Gallet,Haute-Garonne,Auvergne
+8489e3b5-ca8c-44ba-9ab2-528af2ecf1cb,Rocher,Claude,Pédiatre,96708,Sainte Claudineboeuf,Drôme,Guadeloupe
+9b155dae-6618-4fe3-a759-3add36eaf7e9,Lejeune,Georges,Ophtalmologue,41191,Gimenez,Yonne,Languedoc-Roussillon
+028d23e4-f7b1-4463-9845-c1d9e3e2dc7d,Meyer,Anaïs,Ophtalmologue,05032,Dupuy,Yvelines,Lorraine
+ccdf8158-cd5b-45d7-a691-3617417370e3,Dumont,Margaret,Généraliste,47526,Maillot-la-Forêt,Ain,Wallis-et-Futuna
+4dd9171e-b401-4b90-984b-c9407aa89968,Fernandes,Jules,Ophtalmologue,73587,Picard,Val-de-Marne,Aquitaine
+34bc48ad-6e8e-469f-a207-559c9b09a29f,Gonzalez,Roland,Cardiologue,56396,Torresnec,Mayenne,Haute-Normandie
+a9e71e31-45be-44d4-ad91-70dbfb94a797,Bourdon,Corinne,Dermatologue,08855,Sainte Alaindan,Territoire de Belfort,Martinique
+002abb68-8854-4197-ac08-4e56c4461ab9,Bourdon,Bernard,Pédiatre,72818,Prévost,Bouches-du-Rhône,Franche-Comté
+beff8160-f3fd-44b9-8efb-d658a5ea9bc9,Pinto,Daniel,Généraliste,42047,Bertrandnec,Lot,Pays-de-Loire
+a270f83c-a179-4bd4-9478-f665315dde43,Rousset,Pauline,Cardiologue,26200,Grondin,Alpes-Maritimes,Lorraine
+cde5c72a-6372-4ae6-b045-13d79c555c88,Louis,Suzanne,Dermatologue,70311,Wagner,Marne,Languedoc-Roussillon
+60594e98-2bb1-47c6-9210-4a9c8311416e,Menard,Éléonore,Pédiatre,89227,Vincent,Vosges,Rhone-Alpes
+672dc29c-f669-4ec3-a03d-3db282e60897,Pinto,Martin,Généraliste,42643,Sainte VincentBourg,Marne,Bretagne
+c5f21553-e964-4185-b3a7-26ba51a4c165,Ramos,Marine,Pédiatre,27031,Merle,Loire,Alsace
+b76c9462-e079-434c-9630-99876fcc014c,Poulain,Mathilde,Ophtalmologue,18732,Lopez-sur-Faure,Aube,Lorraine
+aa311d9b-67ca-472c-aae3-d98062ba4377,Jacob,Louis,Généraliste,23737,DelattreBourg,Indre,Martinique
+c09e3e16-74fb-4256-821a-cc7b5e4be9d6,Samson,Maurice,Généraliste,59911,Diaz,Ille-et-Vilaine,Basse-Normandie
+7db5332c-294d-4b3a-951e-56016849307a,Teixeira,Corinne,Ophtalmologue,39923,Laroche,Gers,Nord-Pas-de-Calais
+5b1dac1d-6532-468d-8b9f-84a3b1224e9f,Fischer,Éléonore,Pédiatre,41873,Richarddan,Cantal,Nouvelle-Calédonie
+7327c62c-8d36-4e00-a51c-aca3d632c8aa,Martins,Guillaume,Pédiatre,72412,Pires,Haute-Corse,Guyane
+baaecf72-ae5a-49cf-963a-62832bc9d1fc,Maillard,Claire,Généraliste,76561,Carre,Loire,Centre
+207aa668-ade2-4b3c-953f-97fe6eec78ca,Boyer,Caroline,Pédiatre,94183,Sainte Bernard,Loir-et-Cher,Picardie
+13b07321-460e-458b-ba92-03bbe0ccde8f,Couturier,Pénélope,Ophtalmologue,16106,Nicolas,Finistère,Guadeloupe
+b08f7a81-12cd-48c4-8418-3519fcbe1e9b,Jean,Jacqueline,Cardiologue,50395,Leducboeuf,Nord,Picardie
+3d4da977-ae66-4778-898f-e5403a704627,Leroux,Philippine,Généraliste,33560,Martineau,Bas-Rhin,Corse
+009197e0-3a53-448a-93ef-7f414815c577,Schneider,Michelle,Généraliste,98403,Sainte Philippine,Guadeloupe,Franche-Comté
+cc06690d-fba8-49d6-ba9c-5eaf94645b8b,Barbe,Daniel,Cardiologue,77570,Sanchezboeuf,Aveyron,Mayotte
+93aaf28e-5d44-4b06-b2e3-742b726ce5ff,Weiss,Eugène,Pédiatre,04454,Lemonnier,Haute-Corse,Guadeloupe
+d9f9f0b4-44fe-48a8-aa1b-2c2f94c949e0,Weber,Arnaude,Pédiatre,76709,Thibault-sur-Tessier,Essonne,Saint-Pierre-et-Miquelon
+d081a059-f35f-4567-ac4d-390b87e2d2b1,Monnier,Paulette,Généraliste,94282,Martel-sur-Bouvet,Gironde,Poitou-Charentes
+cfd76205-7f2c-4bcb-9329-4d8ab504f071,Dos Santos,Alice,Cardiologue,31315,Valette,Ardèche,Poitou-Charentes
+c258fd2a-d1d0-4814-afba-fbf76ebaeab9,Dumont,Étienne,Dermatologue,62803,Sainte Olivier,Charente,Saint-Barthélémy
+81b2121a-1f81-47bf-8812-dd50e5d02752,Gillet,Dorothée,Pédiatre,99498,Peron,Sarthe,Midi-Pyrénées
+0a9963d9-e8c0-44b3-97fd-ba0f98c78db3,Marques,Honoré,Dermatologue,53895,Girard-sur-Mer,Puy-de-Dôme,Saint-Barthélémy
+db903f01-d1f8-4feb-b366-d588249fbb7e,Texier,Nicolas,Généraliste,60676,Girard-les-Bains,Gironde,Province-Alpes-Côte d'Azur
+728dab93-010c-47f3-b3ef-70a60137f47a,Garnier,Thomas,Ophtalmologue,59548,Marie,Val-de-Marne,Île-de-France
+adfb9518-9b00-45bc-b758-016ec6263ee6,Texier,Robert,Cardiologue,95338,Weber,Drôme,Nord-Pas-de-Calais
+64af8f3f-286c-410c-8482-52051156b9fc,Tanguy,Céline,Dermatologue,92420,Boyer-sur-Robert,Deux-Sèvres,Bourgogne
+8c09396a-738f-4a05-8079-1bead979e917,Gauthier,Lucas,Cardiologue,26401,Coulon-sur-Blanc,Hautes-Pyrénées,Nouvelle-Calédonie
+c2b62ed9-87b5-4e53-abd0-4a38515e99e4,Foucher,Céline,Généraliste,55769,Delattre,Dordogne,Pays-de-Loire
+ec74d8c4-be8c-42e3-b683-02c39cc3d5af,Lopes,Gilbert,Dermatologue,30772,Marin,Finistère,Bretagne
+d73bb1e0-38a3-46de-acba-6c27ef00a4b6,Perrot,Stéphane,Cardiologue,32162,Martel,Orne,Pays-de-Loire
+5ab5365c-8947-42e0-adf6-86224e6654d5,Le Gall,Susanne,Dermatologue,78337,Wagner,Seine-Saint-Denis,Guadeloupe
+29f0d550-f7fd-4740-9f6e-495e0a80bf24,Bourgeois,Olivier,Généraliste,33632,Traore,Haute-Savoie,Guyane
+adee7f0e-21b8-4294-be88-46b758f0b57c,Antoine,Odette,Dermatologue,75636,JourdanBourg,Meuse,Saint-Barthélémy
+5667b752-35ea-4b6a-ace0-6f2ee8f3d276,Vasseur,Anaïs,Cardiologue,54327,Hubert-sur-Mer,Yonne,Bretagne
+b1cb106b-2d83-4cdd-a05e-1cb8df0dc38a,Dupuy,Hortense,Généraliste,72245,Baronboeuf,Bas-Rhin,Wallis-et-Futuna
+6f111298-b94e-41f8-9ddc-e315f1aa25d1,Garnier,Alain,Généraliste,50173,Ruiz-les-Bains,Loir-et-Cher,Limousin
+cc910d15-57eb-4755-8271-dfddad66e9f9,Lombard,Anne,Ophtalmologue,78044,Joseph-les-Bains,Eure-et-Loir,Nouvelle-Calédonie
+0804b13c-9e91-4ec7-a5e6-e73b9423f13b,Vallet,Françoise,Ophtalmologue,53365,Giraud,Calvados,Franche-Comté
+62ee9940-eace-4ccc-b650-909cc2f3fdca,Jean,Anaïs,Cardiologue,51652,Philippe-sur-Mer,Bas-Rhin,Bretagne
+ca00d063-284a-4b04-b099-f1b6dbbd8d25,Andre,Bertrand,Pédiatre,49451,Legros,Seine-et-Marne,Limousin
+78eaec35-a18e-40f2-be12-ab2321d6cce0,Lopes,Tristan,Ophtalmologue,04629,Pineau,Ain,Martinique
+e13b2865-4774-451a-bf00-6895d1008de1,Chevallier,Joseph,Ophtalmologue,86708,Georges,Ain,Franche-Comté
+6e471c2d-425a-45e0-a938-d261decd085c,Couturier,Franck,Généraliste,19516,Pineau,Pyrénées-Atlantiques,Province-Alpes-Côte d'Azur
+dfb2be9b-f041-40f5-9bd5-0f3ec4cbb875,Meunier,Bernard,Cardiologue,39778,Fleury,Tarn,Polynésie française
+458f31e0-40db-49a4-a904-b11ef4c820ef,Humbert,Margaux,Généraliste,43658,Marty,Tarn,Province-Alpes-Côte d'Azur
+11d29620-e674-445d-99ff-5fafd20ff84b,Paul,Roger,Cardiologue,03962,Colinboeuf,Ariège,Saint-Pierre-et-Miquelon
+456838bd-8245-486c-a19e-8ac7a392f670,Huet,Étienne,Généraliste,12990,Valentindan,Doubs,Province-Alpes-Côte d'Azur
+48aee67c-c480-4f05-b06c-1db8eb523c32,Couturier,Marcel,Pédiatre,60321,Moreno,Ariège,Aquitaine
+eae47fcd-741a-4688-9b9c-8934cc4a353d,Blanchard,Élodie,Dermatologue,22365,Ramos,Nord,Centre
+eaa399a5-25bc-440d-a18e-1bf89cc2cdcf,Pelletier,Alexandria,Dermatologue,09103,LegrandBourg,Vosges,Lorraine
+31958c37-fb3b-426b-bdbd-7cff472430d0,Pasquier,Jérôme,Pédiatre,00802,BonninVille,Lot,Basse-Normandie
+b78a6553-e669-48e4-8fb9-29cc167607cd,Rocher,Grégoire,Cardiologue,00801,Ollivier-sur-Clément,Somme,Alsace
+bef9fdbd-edff-4b9b-81f1-ac0f7cf77b27,Alexandre,Lorraine,Généraliste,77893,Morenoboeuf,Vienne,Guyane
+855fae6b-e8f9-42ac-bd86-83916048d7d5,Laine,Catherine,Ophtalmologue,39337,Lopes-sur-Fernandez,Savoie,Nouvelle-Calédonie
+eb2cf245-cf2c-4a82-a394-eaf27899eb96,Gomez,Amélie,Généraliste,98681,Dufour,Allier,Basse-Normandie
+312bad75-4f45-468e-acb8-1a721199a816,Renault,Renée,Cardiologue,94738,Lesage,Aisne,Saint-Martin
+b409bb74-a828-4ea1-bc5f-591d1dae83c7,Goncalves,Nathalie,Pédiatre,35602,Turpin-sur-Martel,Tarn-et-Garonne,Bretagne
+f0eba822-8016-4c86-bc90-669c943ee820,Maillot,Frédérique,Dermatologue,91484,Pineau,Aveyron,Poitou-Charentes
+b280a346-0dd5-44ea-8463-c2258f890ceb,Becker,Nicolas,Pédiatre,30577,Navarro,Aveyron,Aquitaine
+e2aaeb73-0881-456a-816e-1b42b87ad7f7,Gay,Jacqueline,Cardiologue,44205,Sainte Virginie,Saône-et-Loire,Centre
+81dfa2ac-f087-4d3a-8765-7967edd8384d,Gay,Joseph,Généraliste,52946,Fleury-les-Bains,Isère,Nouvelle-Calédonie
+8a8d9051-da3c-4121-b5a1-95ff8eb0e54b,Roux,Élise,Dermatologue,91888,Dijoux,Deux-Sèvres,Languedoc-Roussillon
+e5e26f69-13a6-431c-9a79-e407cc2661f8,Peltier,Xavier,Dermatologue,97834,Sainte Maurice,Côtes-d'Armor,Lorraine
+7a58967f-538c-4550-87f3-5076fd3288b1,Ruiz,Laure,Généraliste,05264,Mendès,Vendée,Bretagne
+0c0309f4-06c6-4864-9ef8-5b9ca0f4e290,Poulain,Antoinette,Ophtalmologue,89307,Gomez,Finistère,Île-de-France
+1cef81c7-9f95-41c3-b48b-d46311e5114e,Simon,Capucine,Ophtalmologue,52246,Pagesnec,Sarthe,Guadeloupe
+3e35f2f4-49ef-45f0-ade6-e0c9b6dc3907,Hoarau,Arthur,Cardiologue,65945,ColasVille,Doubs,Auvergne
+3a7aeb48-b41d-41d4-90b1-3c2cd2aaef1a,Dos Santos,Olivier,Pédiatre,66480,MercierBourg,Isère,Franche-Comté
+274e1727-c35d-408f-b2db-c1fb937ac5f1,Fournier,Capucine,Ophtalmologue,89984,Noël-sur-Hoarau,Vienne,Nord-Pas-de-Calais
+c785429e-0720-4b18-a757-01f53ee7abf1,Gomes,Noémi,Cardiologue,19628,Guillet-sur-Faure,Rhône,Mayotte
+2414acae-3193-4666-90a6-e36699608dff,Guyon,Laetitia,Dermatologue,14931,Bouvet-la-Forêt,Pyrénées-Atlantiques,Guadeloupe
+32ca0c12-dfe4-46de-916b-2eddee84a288,Benard,Auguste,Ophtalmologue,61435,Parent-sur-Delorme,Var,Poitou-Charentes
+7337754c-db1c-4219-9fed-919df263c797,Godard,Noël,Cardiologue,84707,Perretnec,Vosges,Limousin
+e660c409-57d7-44cb-864a-82ab13c39e5a,Bonnet,Michel,Généraliste,89079,Mercier,Jura,Bretagne
+d7c74126-3176-43a9-b082-500edf6cc2ff,Boucher,Emmanuel,Dermatologue,01789,Gonzalez,Hauts-de-Seine,Nouvelle-Calédonie
+06f6e963-9743-436c-982e-ebb387b5619e,Moreau,Léon,Pédiatre,90051,Fournier,Indre-et-Loire,Auvergne
+65590468-bd80-4aa6-a4ed-77ce89855914,Caron,Henri,Généraliste,55798,Weber,Haut-Rhin,Corse
+af39f7c8-f13e-477f-8256-45a12a7c655c,Guérin,Honoré,Cardiologue,03259,Grégoirenec,Nord,Guyane
+cd5928c7-226e-4a2e-b4ca-f2b642bccc1c,Joly,Yves,Généraliste,78857,Sainte Aimée-sur-Mer,Haute-Corse,Rhone-Alpes
+8f99b73a-02cc-47cc-b645-7afd817f58d8,Martins,Jérôme,Cardiologue,23407,Bretondan,Hérault,Nouvelle-Calédonie
+4f0b25ef-5cb6-4c01-a007-acf961cbc6d6,Girard,Antoinette,Cardiologue,34187,Saint ClaudineBourg,Haute-Garonne,Aquitaine
+ebedfd20-c4c8-4908-967e-4751d78be319,Toussaint,Étienne,Cardiologue,00471,David-les-Bains,Rhône,Picardie
+45474b03-2be8-474e-879b-6680c08a2d9d,Bouvet,Nath,Généraliste,88230,Thomas,Seine-Saint-Denis,Alsace
+f9ea7f9b-df36-4791-b94d-199b8f205a44,Evrard,Marguerite,Cardiologue,68036,Imbert,Drôme,Wallis-et-Futuna
+6b665319-7ef6-49d8-8e66-61b5f79477e1,Leleu,Guy,Généraliste,12705,Rochernec,Yonne,Haute-Normandie
+a39e5d52-c605-4b49-82f4-c930bbe19795,Jourdan,Anne,Pédiatre,25671,Delannoy,Hauts-de-Seine,Alsace
+8700015c-4ded-4d3f-a268-1cd8a9baae62,Bigot,Lucy,Pédiatre,31338,Thierry-les-Bains,Hérault,Wallis-et-Futuna
+3243ce1a-1a90-4cd8-98f1-38c155c0dcc2,Da Silva,Christophe,Généraliste,09021,Guyon,Guyane,Languedoc-Roussillon
+97412452-8beb-46bf-b211-dc672b0363b0,Germain,Antoine,Cardiologue,01521,Potier,Loire,Île-de-France
+336a2206-59aa-4b7a-a16b-851d80f648fa,Pichon,Alexandria,Généraliste,46749,WeissBourg,Puy-de-Dôme,Auvergne
+0fac816b-230b-45f5-b04b-5a6058cd0b82,Simon,Pauline,Généraliste,72386,GrosVille,Côte-d'Or,Guyane
+af98e077-08f5-4355-a58b-f7e3b4fd6af7,Aubry,René,Cardiologue,00782,Sainte Yvesdan,Alpes-de-Haute-Provence,Bretagne
+a5b2df32-26e9-4455-bec2-c67a8f87da0d,Colin,Pauline,Dermatologue,56216,Sainte Martinnec,Haute-Vienne,Pays-de-Loire
+90602e9f-482f-41e9-9bac-c813918e3932,Blondel,Philippine,Généraliste,89847,Barre-sur-Voisin,Guyane,Guyane
+cb1aa8bd-4e59-4bdc-882f-f9e955d28221,Louis,Thibaut,Ophtalmologue,37969,Sainte Christine,Creuse,Franche-Comté
+0dca9969-6039-4670-a9c3-1f73a4a2ced9,Robert,Sabine,Pédiatre,07867,Thibault,Cantal,Martinique
+6562af6f-7101-442c-8857-74cd91bb9db2,Rivière,François,Généraliste,37656,Gilbertdan,Côtes-d'Armor,Province-Alpes-Côte d'Azur
+09be3a50-b5ab-4f29-b53c-ecf37c868744,Leduc,Clémence,Généraliste,17242,Sainte Pauline,Haute-Marne,Wallis-et-Futuna
+63ac714c-88da-4016-8a03-7488d65b2afd,Joseph,Hortense,Cardiologue,61444,PereiraVille,Jura,Wallis-et-Futuna
+448a6674-a1a2-4e93-91f1-70316443be38,Collet,Charles,Cardiologue,59588,Ruiz,Paris,Île-de-France
+6f196535-a3b8-4d7e-ab28-83d8f8d7de9f,Joubert,Françoise,Pédiatre,11200,GilletBourg,Somme,Champagne-Ardenne
+4ac0ff24-0680-4c72-aff5-ff67fc8c1514,Loiseau,Thibaut,Pédiatre,46632,GayVille,Deux-Sèvres,Wallis-et-Futuna
+2e2a64b7-315d-4913-838b-f3209b45de1d,Godard,Diane,Généraliste,53857,Sainte Benjamin-les-Bains,Charente,Nouvelle-Calédonie
+b898927f-bf80-4a43-a208-7ad6e8da3b54,Vincent,Benoît,Dermatologue,67201,Lagardedan,Vendée,Auvergne
+1c3ca2e9-fec1-4eb0-a26d-7628c18faa67,Rodrigues,Émilie,Dermatologue,48549,Pineau,Saône-et-Loire,Guyane
+0e59e224-8793-4d5e-8cf6-64796cb22e92,Gauthier,Diane,Dermatologue,23030,Vaillant,Charente-Maritime,Guadeloupe
+ac8d5908-aeb4-4022-a98a-ade63e9c4991,Bernier,Brigitte,Dermatologue,36338,Saint Roger,Haute-Corse,Polynésie française
+26b95efe-37f8-402d-a447-ac7ee9c75d98,Teixeira,Mathilde,Pédiatre,14624,Devaux-la-Forêt,Pyrénées-Atlantiques,Aquitaine
+4db08fdc-6cbe-4a8f-af2e-473b1a3416c2,Cohen,Danielle,Pédiatre,17773,LucasBourg,Oise,Midi-Pyrénées
+d4afe774-0c12-4a0e-96de-cb64779e1d61,Tessier,Louise,Ophtalmologue,91721,Sainte Sabine,Pas-de-Calais,Haute-Normandie
+98b999c8-bf47-4a7d-964a-56bc890fc8bf,Leroy,Xavier,Ophtalmologue,16459,PottierVille,Hautes-Pyrénées,Poitou-Charentes
+26545de4-86cd-4512-8839-2b4176e62b92,Allard,Alice,Généraliste,79760,Baudry-sur-Leroy,Alpes-de-Haute-Provence,Midi-Pyrénées
+abad8027-fe1d-4886-a495-213c41c1a3eb,Bailly,Bertrand,Cardiologue,99713,Bigot-les-Bains,Tarn,Champagne-Ardenne
+33c77b17-f6de-453c-bfa5-58fb00c01e9c,Bigot,Pierre,Ophtalmologue,03710,Saint Emmanuel,Tarn-et-Garonne,Martinique
+d101b07f-9fe9-4cb4-ac5f-8659409878e3,Dumas,Susan,Généraliste,70488,Sainte Simone,Haute-Marne,Île-de-France
+30235454-25d5-44e5-89b6-d705e4c48b14,Leroux,Michel,Ophtalmologue,16613,BuissonVille,Sarthe,Nord-Pas-de-Calais
+45450f59-8e85-4c1a-a8e4-deb3d82c2abd,Bailly,Cécile,Dermatologue,67916,Mace,Rhône,Nouvelle-Calédonie
+6965d264-7bb8-4244-81cb-dab3fef21b2c,Laurent,Bertrand,Cardiologue,24235,Hebert-sur-Dias,Aisne,Lorraine
+ecf93ab0-5f60-49d5-a257-07c7da9e3f30,Bruneau,Édouard,Généraliste,81744,Joseph-les-Bains,Haut-Rhin,Poitou-Charentes
+e526db90-9a6a-4fb6-b52a-1e3086f6bd36,Picard,Susanne,Dermatologue,78264,AlexandreBourg,Cantal,Aquitaine
+4a727368-161b-48f0-9fa9-58677e2ed49a,Nguyen,Jeannine,Cardiologue,82484,Léger,Allier,Picardie
+a1598408-345a-4bd7-a961-fb64c3d5d893,Tanguy,Françoise,Ophtalmologue,46774,Saint Adélaïde,Nord,Champagne-Ardenne
+f86f3ad4-5ebc-4edd-af00-50cd7b02e721,Lefèvre,Timothée,Dermatologue,73092,Guillot,Hautes-Alpes,Province-Alpes-Côte d'Azur
+3afff69b-4a8a-4c12-b6c4-87cef0bb1f60,Da Costa,Claudine,Dermatologue,14212,Chevallier,Val-de-Marne,Picardie
+cbd75a86-f6e7-4b7f-b07b-d2df9415520d,Ruiz,Marcel,Cardiologue,72499,Fouquet-sur-Mer,Mayotte,Province-Alpes-Côte d'Azur
+ece9db71-97f2-4ecc-99c3-88cb2b88b97c,Perret,Noémi,Cardiologue,55265,HumbertBourg,Charente-Maritime,Rhone-Alpes
+51fa2cf7-806e-48db-bb44-e4a318589db1,Guyot,Jeanne,Ophtalmologue,66925,Nguyendan,La Réunion,Aquitaine
+9ed3bf65-71f0-40b4-a234-9bd63f07d0f0,Lejeune,Éric,Dermatologue,00869,Charrier,Lot,Mayotte
+06388858-04f5-4fdb-9ea2-02171d0e1e5f,Jourdan,Astrid,Pédiatre,95261,Blondel,Sarthe,Haute-Normandie
+e10a2c37-377c-4faa-bf8b-71956663421f,Mahe,Julien,Ophtalmologue,02227,Saint Véronique,Gironde,Midi-Pyrénées
+6763e390-8f3a-4ecb-a8e3-eecee186d34c,Voisin,Claire,Dermatologue,93920,Durand,Seine-Saint-Denis,Lorraine
+eaa9c283-3f05-4e9a-aed3-120cc67db0a5,Meunier,Dorothée,Généraliste,20456,Gérard-les-Bains,Ain,Poitou-Charentes
+484b2192-f6cd-4d67-8e8e-ac0ff762cb48,Bailly,Honoré,Cardiologue,70232,Allard,Lot-et-Garonne,Champagne-Ardenne
+0efb230d-043e-498b-884c-0ef0bb336ba1,Philippe,Grégoire,Ophtalmologue,19540,Benard,Vienne,Limousin
+4616c443-beb1-47f5-99d0-7611a304a641,Lombard,Gabriel,Dermatologue,99645,Saint André-la-Forêt,Guyane,Alsace
+e0d2270b-dcc0-405a-a3ad-5d923ee3070b,Teixeira,Étienne,Cardiologue,26047,Barbier-les-Bains,Allier,Rhone-Alpes
+2dc09640-aef9-4db8-b6f4-a2b4f3a8830b,Blanc,Augustin,Dermatologue,64166,Saint Geneviève-sur-Mer,Aube,Pays-de-Loire
+365b0f0e-e0c2-43cd-897a-370cc899b5e3,Pruvost,Denis,Pédiatre,69860,Sainte JoséphineBourg,Corse-du-Sud,Centre
+bfe09b74-9f71-4eb9-b3eb-c84cd6027cfd,Hamon,Arnaude,Ophtalmologue,76710,Bodin-les-Bains,Moselle,Pays-de-Loire
+2573144f-8ea5-4cb6-a32b-07bfec1f5b4e,Hervé,Thérèse,Dermatologue,01183,Salmon,Eure,Languedoc-Roussillon
+58440178-6a67-4efa-b757-deafb5ce917f,Hamel,Nath,Pédiatre,96730,Pierredan,Allier,Basse-Normandie
+73954c36-ffd7-4c61-9283-575cb4d3e356,Alves,Margaux,Ophtalmologue,23243,Chauveaunec,Pyrénées-Orientales,Réunion
+bb158bcf-779a-423b-8478-8923cda6a86b,Ferrand,Nathalie,Pédiatre,23509,Lévêque-les-Bains,Aisne,Île-de-France
+4688e2a8-678b-49cb-a5e1-9fcacbbaa73c,Arnaud,Anne,Dermatologue,59535,Valentin,Dordogne,Corse
+cd0fc693-f052-4a15-8b7d-22a6c5710c32,Noël,Christine,Ophtalmologue,82824,Bodin-les-Bains,Creuse,Mayotte
+5709db4e-6f81-4f17-9e59-7ce85ced1e9d,Pires,Renée,Dermatologue,14978,Regnier,Jura,Lorraine
+9f1652a2-abea-410c-a68e-3cfd37492b71,Benoit,Paulette,Cardiologue,70419,Robin,Maine-et-Loire,Midi-Pyrénées
+0d6ea2bb-3f3a-4db9-bd99-741840fa781c,Dumas,Zoé,Pédiatre,56337,Kleindan,Meuse,Champagne-Ardenne
+b5a1f6a3-eeeb-4f56-ae46-18f880584dbe,Salmon,Françoise,Cardiologue,74486,Weiss-sur-Mer,Paris,Mayotte
+fcb5e70c-e21b-49d0-849e-d21fb84e1417,Bousquet,Hugues,Généraliste,45315,Charpentier-sur-Faivre,Doubs,Centre
+22d4377d-288c-4fc9-9014-19fa918cffcd,Michel,Marcel,Ophtalmologue,86578,Bourdon,Loire-Atlantique,Province-Alpes-Côte d'Azur
+c40c5622-9272-4e9f-b713-64cfc43e9547,Hebert,Éléonore,Dermatologue,07125,Marques,Côtes-d'Armor,Polynésie française
+f0bfbcb0-5772-4d68-9d94-b4b85477936d,Lelièvre,Jeanne,Ophtalmologue,54396,Macenec,Hérault,Limousin
+cf9b530d-e452-4f73-9ad5-6f9c4d0f68e6,Legros,Gérard,Dermatologue,44410,Sainte Noémi,Corse-du-Sud,Saint-Martin
+862c33fc-ae20-4d5e-af61-514f9ff2e56a,Charpentier,Suzanne,Généraliste,91398,Auger,Pas-de-Calais,Midi-Pyrénées
+bafb9401-06e9-42da-89f7-8b012f8aabaf,Fournier,Étienne,Dermatologue,21075,Daniel-les-Bains,Aube,Centre
+e234f3a1-4973-4d61-bf92-ccf31bcaad21,Le Goff,Vincent,Généraliste,74870,Joly,Tarn,Pays-de-Loire
+ca051829-d239-41aa-9c9a-8f119e252772,Lemaître,Margot,Cardiologue,95690,Charles,Guadeloupe,Haute-Normandie
+7e394ba7-b870-4314-97e2-19036e9791fa,Devaux,Louis,Pédiatre,87566,Lévy-sur-Roger,Puy-de-Dôme,Nord-Pas-de-Calais
+8644ced1-2df8-4f41-b0f0-eede4bd1a1e3,Roche,Alix,Ophtalmologue,86552,Lopes-sur-Aubry,Seine-et-Marne,Nord-Pas-de-Calais
+e5a92e5a-de41-4091-bd57-85423105e862,Rivière,Margot,Pédiatre,53341,Gomez,Paris,Basse-Normandie
+72d60da0-e2fc-4b39-806f-11ef9d3311dc,Alexandre,Matthieu,Cardiologue,92943,Weber,Eure,Alsace
+96e981d6-b089-447d-b637-33de8e98a6c0,Descamps,Charles,Généraliste,70483,Saint Jules,Indre,Corse
+d858fdf8-a312-4b94-9584-c9087882671f,Guilbert,Marcel,Cardiologue,57971,Bertin,Corse-du-Sud,Bretagne
+8e467e26-5f7a-4422-bb61-1e676e4c1973,Gaillard,Noémi,Généraliste,41137,Lebrun,Seine-Maritime,Saint-Martin
+19f558a5-ce6a-4591-9c79-72d5343da4e7,Guérin,Jacqueline,Dermatologue,57567,Aubryboeuf,Bouches-du-Rhône,Picardie
+367a4ff1-3e4e-476a-a9bd-f161ed48b6ce,Huet,Antoinette,Cardiologue,32443,Berger-sur-Germain,Alpes-Maritimes,Poitou-Charentes
+ffa8215c-3989-471c-86d1-eaaaad8c82cb,Roussel,Joséphine,Dermatologue,94560,BlancBourg,Nièvre,Pays-de-Loire
+9abf220d-9b4c-4df9-9954-04c4a1815737,Verdier,Caroline,Cardiologue,16447,Leduc,Morbihan,Province-Alpes-Côte d'Azur
+2803da2c-2b6b-4fbd-b9fb-e9f0cc1b070b,Grondin,Michèle,Ophtalmologue,87384,Sainte Frédérique,Haute-Saône,Haute-Normandie
+5b9d5b90-f8c0-4099-a807-7c143efb40a8,Dias,Thierry,Généraliste,48925,Bouvet-les-Bains,Doubs,Nouvelle-Calédonie
+8551c4d1-c26d-4696-958b-788e4ad83f71,Hardy,Céline,Pédiatre,52814,MailletVille,Haute-Marne,Saint-Martin
+f8752b4f-c79f-4a5e-b97d-1ac4c51b7f3a,Charpentier,Lucie,Généraliste,81741,Teixeiradan,Haute-Marne,Limousin
+acd1f875-5ca6-4a14-ab03-68ea3459a9d9,Martel,Isaac,Cardiologue,56135,Maréchal,Haute-Corse,Bretagne
+a9b9ebfb-7522-418d-872e-1f6101daeb5e,Blanchard,Clémence,Dermatologue,58887,Guillaume,Loiret,Centre
+a15db24f-8545-4e48-a082-981db2b1b2fb,Humbert,Chantal,Pédiatre,21913,GayVille,Indre-et-Loire,Réunion
+2008a31b-a332-4eae-a068-3190320be01b,Lebrun,Maryse,Cardiologue,75297,Normand,Oise,Île-de-France
+e9b9ea2d-c6e4-487b-b309-363564d61809,De Sousa,Alix,Ophtalmologue,22695,Ledoux-sur-Lenoir,Dordogne,Rhone-Alpes
+1eebfcc9-492d-46ee-a391-76af4ceb07a7,Poulain,Susanne,Dermatologue,32055,Merle-les-Bains,Yvelines,Nord-Pas-de-Calais
+fc7b6227-ac05-4856-8fa1-100b4bef27d1,Wagner,Alice,Ophtalmologue,91550,Masse,Nord,Centre
+b1344dd1-fbe9-406d-b41f-4709f3c1419a,Vaillant,Christelle,Pédiatre,10440,Antoine-les-Bains,Meurthe-et-Moselle,Guadeloupe
+1181fd53-3a25-48f0-b221-574cde2474d3,Dumas,Théophile,Généraliste,13356,Besnard,Mayotte,Polynésie française
+52398530-1a78-46a8-8173-24d68257bb9d,Masse,Marie,Dermatologue,80548,De Sousa-sur-Gonzalez,Meurthe-et-Moselle,Picardie
+9224d27e-c4b9-4ed4-a0db-72a9378df6f7,Thierry,Corinne,Dermatologue,98613,Vidal-sur-Mer,Côte-d'Or,Languedoc-Roussillon
+7b7ec0b1-206a-402e-ae3b-54af5aa75a83,Joseph,Frédéric,Pédiatre,36107,Fabre,Seine-Maritime,Nord-Pas-de-Calais
+d756c9bd-2844-4850-8b53-1dc9afe0b0ca,Olivier,André,Pédiatre,73913,Saint Susanne,Oise,Midi-Pyrénées
+1fddd318-1d74-4f10-90f4-6f1960108055,Mercier,Mathilde,Ophtalmologue,14072,Hervé,Allier,Aquitaine
+64ba4cfd-17a8-4934-b58b-c0f893efde0f,Fischer,Julie,Dermatologue,86002,Bruneau,Haute-Marne,Pays-de-Loire
+07e913cf-71db-4325-afbf-9b49629048d6,Gosselin,Suzanne,Généraliste,46663,Guillon-sur-Antoine,Loire,Franche-Comté
+7a0a44c2-9d27-4025-8603-b315e0347563,Boulanger,Honoré,Dermatologue,12530,Bertrand-sur-Mer,Hauts-de-Seine,Nouvelle-Calédonie
+d5a82ebe-f61f-4231-b162-9242e41dd33a,Devaux,Léon,Pédiatre,36883,Simon,Loir-et-Cher,Wallis-et-Futuna
+fbd87f15-e106-4960-9fcc-30bf60d1d7a9,Dupuy,Marguerite,Ophtalmologue,44850,Cousin,Val-d'Oise,Saint-Barthélémy
+11caa803-4984-4e06-9253-262037203218,Couturier,Lucas,Généraliste,25799,Thomas-sur-Samson,Charente,Limousin
+84171dfb-7968-42fd-9afb-6cc9a4fdd197,Étienne,Théophile,Dermatologue,06784,Guillot-sur-Monnier,Côte-d'Or,Réunion
+4e8ef7bb-d377-4f31-8d78-fe5c6c7020ca,Léger,Virginie,Dermatologue,21175,De Sousa,Paris,Aquitaine
+95fef775-1cb8-4a13-8906-cb6626a16fd6,Blanc,Valérie,Dermatologue,95431,Noël,Marne,Alsace
+1adb7b63-50ef-41ef-ae43-59ce44e34dde,Pinto,Thierry,Pédiatre,52688,Regnier,Mayenne,Aquitaine
+7cde1762-519e-4692-a23b-1a0782455848,Loiseau,Emmanuel,Cardiologue,57007,FischerBourg,Pas-de-Calais,Aquitaine
+6aa7e181-2003-460d-9a80-ff46dc7c2134,Michaud,Laetitia,Ophtalmologue,26038,Sainte Aurore,Pyrénées-Atlantiques,Lorraine
+dbf9f882-7d33-433d-8ab1-3a438ef077a4,Turpin,Frédéric,Ophtalmologue,52290,Lopez,Ille-et-Vilaine,Centre
+67f4f2f7-bbaf-4d60-84b7-340414149bd8,Poulain,Antoinette,Ophtalmologue,41136,Aubry,Vienne,Limousin
+48ab51c6-67dc-4544-99cd-93db8fb32e34,Salmon,Stéphane,Dermatologue,11943,Saint Gabrielle,Haute-Loire,Midi-Pyrénées
+08191e56-94de-4688-bd94-6aac8b91dd83,Maillot,Thibaut,Généraliste,25586,Roussetnec,Ardèche,Île-de-France
+f30e7e36-9233-4b49-9289-6106634788d7,Dupré,William,Cardiologue,92897,Foucher,Corrèze,Bretagne
+9ae623ae-2f96-40f6-b9e4-5049768680bf,Pierre,Gabriel,Cardiologue,03886,Wagner,Orne,Polynésie française
+8f57b854-d7de-4bb3-a4e8-2eaec86d7c7f,Mercier,Julien,Cardiologue,86231,Dupuyboeuf,Haute-Loire,Pays-de-Loire
+7fa40426-eb13-464c-bc9a-642b4ffbe847,Joseph,Hortense,Dermatologue,37389,Paul-sur-Perret,Morbihan,Corse
+0a06c50d-8030-4295-8052-1588021d5da0,Léger,Marthe,Généraliste,56843,Perrot,Gard,Auvergne
+1b08b691-5b10-4824-ab3c-d1be100242bb,Cousin,Augustin,Ophtalmologue,37783,Martinez,Val-d'Oise,Saint-Pierre-et-Miquelon
+67d021c0-05b7-4b6c-9ecf-52875fc1ce55,Pottier,Julien,Pédiatre,21595,Humbert-les-Bains,Mayenne,Champagne-Ardenne
+ea8fe744-fd46-4a7d-a2de-823480e5d092,Colas,Charles,Pédiatre,01046,Saint Margaux,Calvados,Alsace
+4f530d86-4bdb-4897-bbdf-1f4eb4302235,Jacques,Pénélope,Généraliste,20735,Saint Caroline,Seine-Saint-Denis,Nouvelle-Calédonie
+a03e8c8b-a892-4620-97ad-bc1e8b9fcd57,Étienne,Alix,Ophtalmologue,70524,Rocher,Creuse,Mayotte
+b7f3dac3-737a-4cb7-b53d-79ba2bfc8934,Marion,Rémy,Dermatologue,22867,Chartier,Rhône,Nord-Pas-de-Calais
+80388ee5-681e-4edc-9c19-3164d50e09aa,Pages,Paul,Dermatologue,61560,Sainte Pierreboeuf,Haute-Corse,Haute-Normandie
+0a69dcd0-60f0-41b9-8760-17f5705ca469,Bailly,Dominique,Cardiologue,41923,Langlois,Loire,Midi-Pyrénées
+f80ca093-f0f8-439a-89f8-674552ba92da,Delahaye,Jacques,Dermatologue,91980,Pons-sur-Chauvin,Guadeloupe,Réunion
+74941e8d-8b24-4549-b7b9-1df1845797c0,Vasseur,Lucas,Généraliste,02644,Chartier-la-Forêt,Côtes-d'Armor,Champagne-Ardenne
+03848339-40a3-4e75-90a2-3114a2d03905,Paris,Marthe,Cardiologue,40829,Gonzalez,Paris,Basse-Normandie
+fbe32bd1-63cf-40ab-a00b-1444682ee41d,Salmon,Alexandre,Pédiatre,01594,Rossi,Drôme,Saint-Barthélémy
+15e3e0c3-83ee-436f-8af6-40473ba2fc10,Noël,Christiane,Pédiatre,85896,Garcia,Yonne,Saint-Pierre-et-Miquelon
+2e6f842b-0aac-4162-93d9-9d99dc8eab7c,Techer,Éric,Dermatologue,59369,Saint Maryse-les-Bains,Lot,Province-Alpes-Côte d'Azur
+a19ba422-75c9-4156-a2d2-a8f38893bb7e,Étienne,Amélie,Généraliste,11828,Sainte Gilbert,Savoie,Lorraine
+09d8b289-1b8a-43e6-9489-823b54788759,Gonzalez,Claire,Cardiologue,58020,Collin-sur-Paul,Isère,Mayotte
+90cd4c09-5a27-4f0c-b2b4-b4b6218099d1,Raymond,Alex,Dermatologue,22130,Dupuy,Morbihan,Basse-Normandie
+2be822e4-35af-48ff-9dfa-453c1875989c,Didier,Marianne,Cardiologue,87880,Turpin,Doubs,Saint-Martin
+a88341e2-8441-4b29-84ff-849077de3d57,Martins,Jeannine,Dermatologue,31577,Godard,Manche,Rhone-Alpes
+27956d2c-0648-44b5-b65b-b26c2759fb40,Gosselin,Michel,Généraliste,37986,DenisBourg,Ardèche,Nouvelle-Calédonie
+32b7724d-6ae7-4ef5-9f19-1b6d1d836576,Rousseau,Suzanne,Pédiatre,21832,Chevallier,Seine-Saint-Denis,Corse
+0a414084-f653-424e-ae2e-b8644dec3a3c,Lebreton,Laure,Ophtalmologue,82640,Sainte Laure,Paris,Île-de-France
+61d3baec-2c50-42b7-9235-8603510e84b7,Boyer,Philippe,Dermatologue,81840,Petit-sur-Buisson,Côte-d'Or,Pays-de-Loire
+44744fb0-c79a-44d5-a906-d0da68b70e5b,Adam,David,Cardiologue,95534,Lejeunedan,Cantal,Lorraine
+554f9eeb-a7b6-40ea-8373-51efeacb28b5,Maillet,Alexandrie,Dermatologue,28680,Sainte Franck-la-Forêt,Pyrénées-Orientales,Guadeloupe
+bf49993e-1870-47cf-85b4-53def249bfcb,Prévost,Thibault,Ophtalmologue,71368,Chevallier,Guyane,Alsace
+10a7ad37-e83b-43c5-aec1-db21ea78ebe2,Lamy,Jérôme,Ophtalmologue,64539,Roux,Pyrénées-Atlantiques,Saint-Barthélémy
+561633b4-3ca5-4e7d-ba3e-2455803d51bb,Pinto,Laurence,Ophtalmologue,45304,Gomes,Ardennes,Mayotte
+55d09fa3-2af0-409a-8372-7a54dfa1073e,Deschamps,Alphonse,Dermatologue,14181,Maury-sur-Mer,Aisne,Guyane
+b019f90a-4609-427a-8fcb-15f8c7c16319,Lambert,Guy,Ophtalmologue,01790,Adam,Guadeloupe,Mayotte
+abe4ec37-fbf4-4e67-bc59-5ffceb35a33a,Jacques,Michèle,Pédiatre,82632,Hamon,Saône-et-Loire,Saint-Barthélémy
+a6cb23ed-28e3-467f-a95e-e74fb5e5f217,Mercier,Alexandre,Cardiologue,34590,Saint Élise,Corrèze,Nouvelle-Calédonie
+cdfb0feb-25aa-4e34-a27b-b5163dee90bb,Hoarau,André,Cardiologue,17146,Pichondan,Vaucluse,Nord-Pas-de-Calais
+389cd613-0304-4935-8e42-cec0965a6f31,Poulain,Victor,Cardiologue,31259,HamelBourg,Ariège,Corse
+c1217509-3574-4132-8681-adc39eb0ef59,Da Costa,Manon,Ophtalmologue,30105,Bruneau-sur-Hervé,Rhône,Auvergne
+4d67d45c-5334-41e7-a884-371b16a3fcb2,Collin,Daniel,Ophtalmologue,86528,PiresVille,Puy-de-Dôme,Midi-Pyrénées
+32107955-cf6a-4648-9ef4-10016cd3061f,Laine,Véronique,Cardiologue,72419,Fischer,Val-d'Oise,Limousin
+2c7c84e9-e074-4d0f-8617-49171066fe95,Payet,Aurélie,Ophtalmologue,81301,RamosVille,Eure-et-Loir,Réunion
+004b39cb-105b-4a5f-ab75-f6eac265f8fc,Turpin,Alex,Ophtalmologue,14694,Saint Stéphane,Somme,Nouvelle-Calédonie
+c2997acd-dde5-486c-a0e2-62731ca2937b,Pasquier,Laetitia,Cardiologue,61434,Sainte Éléonore,Paris,Limousin
+55715064-7cf4-4071-9419-131028f8c45e,Durand,Suzanne,Ophtalmologue,09852,Richard-les-Bains,Charente,Pays-de-Loire
+72a9dae8-d899-4ed4-bee4-afe6988b7fea,Benoit,Alexandre,Généraliste,67359,Sainte Caroline,Meurthe-et-Moselle,Midi-Pyrénées
+5eb503c3-e964-475a-8a06-d283f02ec30d,Duhamel,Julien,Dermatologue,25449,Baron,Sarthe,Saint-Martin
+1ce3c8a8-640a-419e-93bb-80f4ab491d91,De Oliveira,Maggie,Dermatologue,36401,Vidal-sur-Petitjean,Nièvre,Auvergne
+76133410-7dba-4bbf-9e84-dae33f8141ab,Legros,Étienne,Pédiatre,87735,Faivre-sur-Masse,Puy-de-Dôme,Midi-Pyrénées
+ed2561ac-53db-48fc-aa45-5beda44783d8,Moreno,Maryse,Dermatologue,53928,Georges,Paris,Basse-Normandie
+6b6a422c-dbec-46f4-a9dc-dcdbb4aa84a7,Noël,Gérard,Pédiatre,22916,Roussel,Loir-et-Cher,Franche-Comté
+2c5387d9-fe37-4a8e-ab3e-b37f517176dc,Legrand,Gilbert,Généraliste,09568,Grégoire-sur-Guillon,Haute-Loire,Poitou-Charentes
+e40d9f05-5394-4c69-b854-39e56ed4fe1a,Schmitt,Thibault,Cardiologue,37361,Saint Anouk,Aveyron,Guadeloupe
+6b850f16-0304-4d48-99a1-4f8a0f09e826,Germain,Agnès,Dermatologue,53954,Mendès,Haut-Rhin,Lorraine
+b9a35c77-2131-417e-a2fc-62e7a857fb95,Hebert,Denise,Dermatologue,78555,Joubert,Ardennes,Nouvelle-Calédonie
+b9bca722-9263-42a4-b17e-e5f1108d55c0,Leclerc,Jean,Dermatologue,80320,Lebrun-sur-Mer,Aude,Saint-Barthélémy
+45bd2e67-32d6-407a-bdf4-bd71d3c1d2cd,Benard,Zacharie,Ophtalmologue,28339,Gomes-sur-Wagner,Haute-Corse,Province-Alpes-Côte d'Azur
+047e61e0-678e-40ad-b081-cdee6899e3fd,Raymond,Michèle,Ophtalmologue,38776,Saint SimoneBourg,Haute-Loire,Réunion
+b337e989-79ce-416e-9f40-58da9a23ce97,Olivier,Juliette,Dermatologue,65438,Lebonboeuf,Oise,Alsace
+ffc98e7b-52e4-40de-8799-57479440f56a,Jacob,Nicole,Dermatologue,67612,Vallée,Yonne,Basse-Normandie
+06abb39b-fbc8-4b26-af78-3cde116b2bbe,Benard,Émile,Dermatologue,39932,Sainte Julien,Cantal,Corse
+58c107eb-d52d-4cbe-816c-67f7708d84fb,Roger,Martine,Cardiologue,21605,Jacques-sur-Mer,Gers,Rhone-Alpes
+274ecaad-58df-4870-ac95-8af288a4f243,Lefèvre,Marie,Cardiologue,41481,Saint Aurore-les-Bains,Isère,Guyane
+070346bd-f6a1-4637-8597-6b1084995ec2,Fontaine,Célina,Ophtalmologue,87865,Saint Jeanne-les-Bains,Haute-Marne,Bretagne
+355311fb-499e-4853-b34a-583a008ba9d7,Lebon,Lucy,Généraliste,99722,Sainte Emmanuel,Deux-Sèvres,Haute-Normandie
+361c7e27-c83c-44f8-9a17-5604b1235ab4,Gallet,Isaac,Pédiatre,50467,Mary,Moselle,Franche-Comté
+7e5d532c-6099-458f-86ed-55f53af1c56e,Fischer,Marcel,Généraliste,60986,Samson-sur-Valette,Yonne,Corse
+0c3598a8-3a21-4c04-ac5d-204d607a1cc8,Baron,Auguste,Cardiologue,58110,Saint Capucine-la-Forêt,Sarthe,Franche-Comté
+a37798e1-bbc9-4fbc-bc53-78c5cd526fbc,Maillot,Josette,Dermatologue,81183,Saint Nicole,Dordogne,Guyane
+a7680b4d-b70e-4f44-9f5e-fea6908fac38,Menard,Christine,Pédiatre,75291,RoyerVille,Haute-Garonne,Polynésie française
+666146ac-e199-4a89-8238-a4013e54e4a3,Pichon,Victoire,Cardiologue,63252,Labbéboeuf,Hauts-de-Seine,Corse
+679fe639-f783-4b14-a905-598a01fb487f,Courtois,Christophe,Pédiatre,52087,Vidal-sur-Mer,Bouches-du-Rhône,Guyane
+5c330847-2e7f-434c-b39a-c2cc1f7b3857,Le Gall,Philippe,Dermatologue,27273,Gimenez,Cher,Midi-Pyrénées
+3a026326-5520-435c-a7fc-b40225e43354,Riou,Marine,Cardiologue,80488,Gautier,Haute-Vienne,Champagne-Ardenne
+d70f6cbe-262e-40d5-a713-5f7d9c52cabd,Fernandez,Diane,Généraliste,23823,Sainte Margaud,Seine-Maritime,Lorraine
+e46a50d9-7657-44c3-8f32-d4b09e582a67,Leleu,Maggie,Dermatologue,97457,Bourgeois,Savoie,Aquitaine
+f58645d6-d262-49d7-a120-afaf55267d70,Faivre,Daniel,Pédiatre,82541,Saint Yves-sur-Mer,Vendée,Limousin
+b31ab654-e5d1-41ab-a250-b089329b6f20,Bègue,Arthur,Ophtalmologue,28362,Vidal,Landes,Guyane
+9efb84c6-8bbf-46f5-8995-b6d8c4260af2,Dupuis,Stéphanie,Pédiatre,87698,Salmon,Manche,Bretagne
+b4ce4362-ae6c-4871-9c24-761d690e6fc8,Delannoy,Pauline,Généraliste,75785,Langloisboeuf,Yvelines,Nord-Pas-de-Calais
+9949a847-5dde-42d5-b8f6-70a0aae7e25c,Faivre,Christine,Dermatologue,84092,Sainte Alexandrie-les-Bains,Calvados,Basse-Normandie
+468c2432-3438-41dd-ae4c-f3a5f31b8a96,Fischer,Martine,Pédiatre,13157,Garcianec,Val-d'Oise,Mayotte
+7ac3d710-7b4a-41e2-9855-660d40924430,Lambert,Grégoire,Généraliste,10842,Sainte Élodie-la-Forêt,Haute-Vienne,Guyane
+cb8a79dc-8aad-4467-a731-c14bdd7d9044,Payet,Marcelle,Pédiatre,88659,Royer,Bouches-du-Rhône,Auvergne
+36441129-c8e9-4557-bdc1-cf2935d2e139,Hervé,Nath,Cardiologue,70707,ThierryVille,Finistère,Polynésie française
+f7d1d9ed-e249-4afa-b312-4081a13f6fcd,Maillot,Christelle,Ophtalmologue,91868,Ramos,Seine-et-Marne,Polynésie française
+b0ef75de-4914-4a83-8536-00f26b5d6116,Verdier,Jacqueline,Ophtalmologue,95574,Guilloudan,Cher,Saint-Barthélémy
+747cbe52-688e-442b-999c-99d07184ef45,Marty,Luc,Ophtalmologue,98965,Gimenez,Dordogne,Province-Alpes-Côte d'Azur
+c5e4930d-f3d8-485f-8d27-ddd708e9f26d,Bertrand,Célina,Dermatologue,47147,Bouchet,Vosges,Languedoc-Roussillon
+10470f06-0b41-4d4b-ae0e-191be994d38d,Moreau,Martine,Ophtalmologue,47185,Colin-la-Forêt,Deux-Sèvres,Languedoc-Roussillon
+b125e093-20f8-4674-9c2d-2c48aaf3cb6d,Germain,Thomas,Pédiatre,48115,Duval-sur-Petitjean,Guyane,Champagne-Ardenne
+72a19cc0-3214-454b-9bd9-f423425baa86,Grondin,David,Ophtalmologue,34251,Masson,Dordogne,Alsace
+2c7d6b6e-32f1-4517-9c30-d9ba4c96b649,Courtois,Alexandre,Ophtalmologue,06921,Lemoineboeuf,Corrèze,Guadeloupe
+ecfca9d0-3d45-4f6d-b1fc-bfebd808b23d,Chauveau,Tristan,Pédiatre,69877,Hoareau,Lozère,Midi-Pyrénées
+bf2e0c1e-4976-486c-a2c9-76a182d669f2,Blot,Claude,Généraliste,54864,Ruizboeuf,Bouches-du-Rhône,Saint-Martin
+04583f3b-1b1d-4a83-a3a6-719bde257c33,Boulanger,Jeanne,Généraliste,33348,Bègue,Eure-et-Loir,Midi-Pyrénées
+58413321-b2f3-4018-b385-2a8b1526bc0f,Torres,Alexandrie,Généraliste,23434,Hebert,Drôme,Pays-de-Loire
+bd359b19-9f9f-4470-b0f7-46143d8ff8e0,Blondel,Michel,Dermatologue,68573,Blanc,Lozère,Alsace
+6bcaee06-aca1-42e4-a6e1-79989d9508d8,Louis,Hugues,Dermatologue,92671,De Sousa,Ardèche,Basse-Normandie
+5a3b0940-a364-49f0-a394-3f1eb779c49f,Potier,Sébastien,Généraliste,79474,Saint Clémence,Lozère,Wallis-et-Futuna
+2c54d977-4c8c-4124-a701-3da36d5908e9,Neveu,Denis,Ophtalmologue,50592,Pages,Guadeloupe,Centre
+370e505c-3f09-4eaa-b92c-f42caee20832,Marchal,Victor,Pédiatre,20862,Poulain-sur-Mer,Corse-du-Sud,Île-de-France
+94919806-ba66-4276-9820-19c6f3161aec,Barbe,William,Généraliste,48807,Grondin-la-Forêt,Vaucluse,Limousin
+264934a0-7b24-443e-9f08-8a49ed4d1f14,Gilles,Audrey,Cardiologue,34660,Saint Williamnec,Var,Aquitaine
+8d224cd8-3071-4603-a683-952fcf7cb36b,Delahaye,Céline,Ophtalmologue,39614,Robin,Haute-Corse,Basse-Normandie
+3d73e15e-1426-4428-8f72-c5fe0273c443,Chevallier,Nathalie,Généraliste,69216,Gautier,Cher,Lorraine
+9e413a32-5df1-4c2b-be19-d82e688af3d5,Weber,Raymond,Ophtalmologue,80205,Sainte Alain-la-Forêt,Ain,Centre
+3d5a6cff-bed0-47dd-8237-ec7b36884ab0,Collin,Olivier,Ophtalmologue,40518,Lucas,Haute-Vienne,Martinique
+f9aa4778-94ed-4029-8cbe-e9bb5e8d6711,Hebert,Thérèse,Cardiologue,61513,Saint Laurent,Loire,Bretagne
+b7bd36e4-5e35-4cdf-8e99-60b8bdee4150,Peltier,Lucie,Pédiatre,73657,Lenoir-les-Bains,Hautes-Pyrénées,Saint-Martin
+b1ca41b9-bd0e-4da9-b10e-3f4e1cb67c72,Parent,Xavier,Généraliste,74472,Leclercqboeuf,Pyrénées-Orientales,Auvergne
+29f05407-9abb-4311-b088-1acfa4c43a98,Mahe,Timothée,Dermatologue,95376,Garnier-sur-Rolland,Indre,Bourgogne
+7f7b93e2-2b64-440c-8b7b-ef2269bdee43,Bazin,Georges,Ophtalmologue,42653,BlancBourg,Tarn,Saint-Martin
+c3b4d205-894b-4090-a4d1-d5b8fe76506b,Ribeiro,Thierry,Pédiatre,32633,Bernarddan,Morbihan,Île-de-France
+dca58e69-64b4-47ad-b79d-15460d4c5174,Morin,Isaac,Dermatologue,35794,Royer,Hauts-de-Seine,Saint-Pierre-et-Miquelon
+6e56f29f-d9c7-4a0b-94db-a783eca82254,Duhamel,Alfred,Généraliste,23677,Besnarddan,Tarn,Île-de-France
+3e6f8c8b-ca15-4017-8cfc-83a601db3e01,Lejeune,Andrée,Ophtalmologue,08981,AlexandreVille,Ardèche,Guyane
+d8a95875-6de0-476c-9915-f854e2ab00c6,Simon,Maurice,Cardiologue,72384,Sainte ÉricBourg,Corse-du-Sud,Province-Alpes-Côte d'Azur
+e770d562-8e3d-4aa3-8f84-da281a560877,Dijoux,Marcel,Cardiologue,82797,Gauthier-les-Bains,Moselle,Île-de-France
+e11e8dc8-c9e5-43dc-88fb-f00f4d8a32ba,Perez,Audrey,Pédiatre,79161,Ollivier,Charente,Polynésie française
+5580d29a-613b-40ab-985d-b89dd2869695,Da Silva,Augustin,Pédiatre,83768,Lopesnec,Haut-Rhin,Martinique
+8b81b617-70eb-4183-b4c2-7c775076f2b2,Raymond,Hortense,Ophtalmologue,17626,Duval-les-Bains,Loir-et-Cher,Polynésie française
+fcf6b3cc-e19d-40bc-b25e-3574a90e11c1,Delattre,Océane,Pédiatre,43956,Saint Théophile,Haute-Corse,Picardie
+62f7731c-fa7b-44ee-8986-358ecc8bb89a,Léger,Nathalie,Pédiatre,13074,RichardBourg,Cher,Lorraine
+6aa050ae-73d4-4c30-94f7-bb646e10731a,Renaud,Charlotte,Ophtalmologue,08209,Peron-les-Bains,Val-de-Marne,Centre
+7cd8aab9-db37-4f11-ba05-2c11d40ad346,Collet,Roger,Pédiatre,66226,Diasdan,Var,Languedoc-Roussillon
+ee7b2a43-17a9-42f7-a8ab-62c60b3bec6a,Traore,Claude,Pédiatre,63254,LegendreBourg,Nièvre,Basse-Normandie
+2ef764f9-25e9-4f42-b882-924a455b3dce,Tanguy,Adèle,Généraliste,35533,Barbe,Bas-Rhin,Guyane
+a30a8f9c-5bad-48f9-b0e2-917d4ddcc1b0,Fournier,Élodie,Dermatologue,04729,Guérinboeuf,Val-de-Marne,Poitou-Charentes
+7ea37fc2-8e18-4165-81f0-c1870de6a8a1,Charles,Charlotte,Ophtalmologue,35619,Maurice,Maine-et-Loire,Centre
+f9fad48b-ee0e-4215-a897-b7234a7e2887,Brunel,François,Cardiologue,23679,Mary-la-Forêt,Haute-Garonne,Midi-Pyrénées
+83e2cb3c-772b-4322-a3c6-b88ddca3a0a0,Delaunay,Valentine,Cardiologue,72314,Diaz,Hautes-Pyrénées,Haute-Normandie
+84683c0e-e84a-4356-84c4-c2ec3c7199ae,Charpentier,Guillaume,Généraliste,56133,BoutinVille,Haut-Rhin,Aquitaine
+4012fe06-8228-4864-b5db-ca0c791b7d43,De Sousa,Grégoire,Dermatologue,79927,Sainte Marinenec,Aude,Nouvelle-Calédonie
+5b4840ea-55cc-4ff7-8817-32086f19111e,Lelièvre,Marthe,Cardiologue,93973,Julien,Guyane,Saint-Martin
+29100413-50b4-41ee-89a5-a50e21071c73,Thibault,Brigitte,Pédiatre,23479,Bernardnec,Corse-du-Sud,Wallis-et-Futuna
+0e79ca62-8682-4946-b1c6-a68134b39be8,Ramos,Stéphanie,Cardiologue,80962,Roy-sur-Blanchard,Marne,Picardie
+8e2dedb3-7758-45f7-80fc-44fd515f7d4d,Mary,Manon,Ophtalmologue,40653,Lacroix,Vienne,Franche-Comté
+277548fa-6dac-4804-9f26-2335882da6af,Germain,Eugène,Cardiologue,16711,Lombard-sur-Legros,Loir-et-Cher,Île-de-France
+36699e38-6662-4e11-bad9-ca69885ee842,Sauvage,Thomas,Pédiatre,31321,PeronVille,Jura,Guyane
+c40c7730-9c6b-487e-ad39-2ba23ba8faf7,Bouvet,Yves,Ophtalmologue,60082,Lenoir,Saône-et-Loire,Île-de-France
+4c1e8cdb-ec44-4fc0-a0f3-65e7264d25c0,Jacquot,Capucine,Cardiologue,08555,Thierryboeuf,Haute-Loire,Franche-Comté
+2d2ad205-223a-447d-bba9-26d9d14d1b9b,Lévêque,Virginie,Dermatologue,40997,Boulangerboeuf,Morbihan,Midi-Pyrénées
+5b2a8e06-8bec-4666-b6a8-a0f5c84e8c43,Thibault,Thibault,Dermatologue,55701,Simondan,Yonne,Bretagne
+bb0adf88-95b0-4910-8e3f-72743208076f,Marchand,Jacques,Pédiatre,66556,Toussaint,Lot,Haute-Normandie
+804474db-1010-458f-9017-273f39028d6c,Goncalves,Théodore,Ophtalmologue,55115,Lefort-sur-Mer,Côte-d'Or,Saint-Martin
+2cfe4451-abb4-47f6-a3ee-6edf89c01ee9,Brunel,Luce,Dermatologue,74816,Jacques-sur-Voisin,Vienne,Réunion
+4756e97f-81b5-407b-9a83-bb34ee4d3d83,Allain,Chantal,Ophtalmologue,72778,Verdier,Seine-Maritime,Pays-de-Loire
+d8823b60-4c73-48de-a3c6-06d511b2975f,Bertin,Honoré,Ophtalmologue,20834,TeixeiraBourg,Haut-Rhin,Corse
+6066bff3-f412-4956-998b-43f3fa854113,Gros,Patricia,Pédiatre,90593,LopezBourg,Sarthe,Poitou-Charentes
+3a2dbc89-5e8a-4590-a3f7-5687ffffb118,Brunel,Alexandrie,Pédiatre,61584,Hubert,Nièvre,Saint-Martin
+77b7d930-1ce5-4ed2-bc51-b75d6b651c34,Lacombe,Nicole,Cardiologue,61542,Larochenec,Ain,Lorraine
+e84971b8-dad0-4d9c-a83a-974f33f27213,Charrier,Odette,Généraliste,18321,Letellier,Nièvre,Nouvelle-Calédonie
+c92443b9-ab2a-4244-996b-8867d973b2e2,Gay,Augustin,Ophtalmologue,55364,Barthelemy,Hautes-Pyrénées,Basse-Normandie
+c5480225-88a0-491d-89aa-68abce051b0c,Pages,Catherine,Cardiologue,33735,Maillet,Finistère,Rhone-Alpes
+174232d7-9df8-4fb0-bab4-748af11b62fd,Bernier,Alexandria,Dermatologue,97541,Robert,Val-de-Marne,Nouvelle-Calédonie
+4174bdd0-249d-41a2-9271-54fcb9703abf,Fischer,Gabrielle,Ophtalmologue,10786,Joly-sur-Mer,Haute-Corse,Alsace
+b189be74-097d-4dbd-b7c8-61d7b348567b,Meyer,René,Dermatologue,78216,Schmitt-sur-Mer,Hérault,Pays-de-Loire
+4053f16e-c920-46b9-9e3a-00a2d9e2a8d9,Thomas,Margot,Pédiatre,56773,Saint Laure,Drôme,Réunion
+a4b022f6-4b8c-484e-bd62-26bb57bc4def,Guyot,René,Cardiologue,40595,Duhamel,Bouches-du-Rhône,Haute-Normandie
+d58f1045-532e-4059-85be-f4e8fab0a2df,Georges,Colette,Pédiatre,49784,Baillyboeuf,Sarthe,Saint-Martin
+a0cec930-a1c5-46fb-b238-93d19ce68165,Lopez,Aimée,Cardiologue,56618,Le Gall,Bas-Rhin,Auvergne
+d684b78a-9870-4a64-aa9b-1558bedf8414,Seguin,Nicole,Cardiologue,75250,Roger-sur-Mer,Lot-et-Garonne,Aquitaine
+d9c1eaba-602e-4e00-8509-ca2cbdcde90e,Antoine,Pierre,Généraliste,98586,Martel,Haute-Garonne,Centre
+5baca235-084b-47b0-899d-58452d799b5b,Becker,Andrée,Généraliste,00934,RossiVille,Doubs,Martinique
+7a5ca3c1-8dbe-4c22-a2f0-0dda9b154b6b,Leclerc,Simone,Généraliste,96343,Bertrand,Hautes-Alpes,Franche-Comté
+b5ff179f-9974-47aa-b4d6-18ca42d5c01a,Legendre,David,Cardiologue,54989,Dupuis-la-Forêt,Somme,Champagne-Ardenne
+87346c5e-b884-4c4f-b44d-2a7b45af2830,Durand,Monique,Dermatologue,13111,Blanc-sur-Andre,Seine-et-Marne,Bourgogne
+5084fb6e-c3e8-45c9-a15b-9672f9387efe,Poulain,Antoinette,Pédiatre,77567,Buisson-la-Forêt,Oise,Bretagne
+f7adc3cc-cd96-43c4-ad51-d3082165bd23,Gautier,Richard,Pédiatre,54340,Laroche,Bouches-du-Rhône,Martinique
+593bebab-86f5-43f0-a585-e1cdcb05a9d3,Millet,Xavier,Cardiologue,85226,Maillard-sur-Georges,Cantal,Rhone-Alpes
+0c6a8a51-50cc-4fa7-96ed-831790cc4678,Pereira,Stéphanie,Pédiatre,42372,Hoareau-sur-Mer,Meurthe-et-Moselle,Bretagne
+e46b7c82-a7ec-4ba5-a795-4955494cad1b,Moreno,François,Dermatologue,84663,Sainte Carolineboeuf,Haute-Loire,Saint-Pierre-et-Miquelon
+b093592c-7159-41d7-b943-cd6649f4c2da,Marchal,Gilbert,Généraliste,69846,Arnaud-sur-Lemaître,Haute-Vienne,Alsace
+ec134d05-bd50-4360-943f-1e099c8da8d1,Benard,Auguste,Généraliste,82448,Le Goff,Jura,Corse
+6f463e91-dc4e-4b5b-b561-47f6b863ad54,Le Roux,Colette,Généraliste,53174,Deschamps,Rhône,Picardie
+1cbe6a1b-e22e-4599-b4f2-b4529cd7bdc9,Samson,Audrey,Généraliste,19384,Sainte Virginie,Manche,Auvergne
+6621c777-583b-407b-b2c6-0ed704ef4359,Bruneau,Noémi,Ophtalmologue,61303,Lopez-les-Bains,Haute-Loire,Auvergne
+e0efdf72-3a22-4f1e-887a-c3b268e32521,Maury,Patrick,Généraliste,96213,Diasdan,Lot-et-Garonne,Haute-Normandie
+9c9f1814-eb0c-4416-8af8-e1365932519b,Charpentier,Maurice,Dermatologue,78919,Lemoine-sur-Lopes,Jura,Aquitaine
+4022c8bc-ff06-4310-b92e-025466f74d8e,Raymond,Philippine,Ophtalmologue,94143,Allard,Alpes-de-Haute-Provence,Aquitaine
+5f8f5194-d70a-4e87-9494-b3c41f2181a6,Roussel,Gabrielle,Cardiologue,02350,Marchal,Doubs,Province-Alpes-Côte d'Azur
+f4ad4434-87ad-4128-a65d-1c5affd920e8,Bonnin,Margot,Pédiatre,52505,Reynec,Ille-et-Vilaine,Midi-Pyrénées
+a4e7ad62-9d7a-4095-be37-1b808369d4f2,Henry,Paul,Cardiologue,16126,Rocher,Aube,Haute-Normandie
+89c4455a-1d51-4485-80f9-eb45bdff5f4c,Boulay,Philippine,Dermatologue,25532,Dos Santosnec,Meurthe-et-Moselle,Franche-Comté
+af7060f3-7fbf-4ac7-854e-36213d44b78d,Marchal,Geneviève,Ophtalmologue,03547,Salmon,Ille-et-Vilaine,Saint-Martin
+19da3cfd-a388-4cce-b878-3591121be43c,Lecoq,Raymond,Ophtalmologue,34774,Henry-les-Bains,Oise,Picardie
+5d99f84c-a1fa-489a-8d61-97646c7e97f4,Bourdon,Susan,Dermatologue,33723,Gillet,Alpes-de-Haute-Provence,Centre
+783eecc0-2645-42fe-bb10-54bf824a48e3,Arnaud,Isaac,Dermatologue,26074,Huet,Guadeloupe,Centre
+88590561-e95d-4cc5-8ee5-e248a076850c,Paul,Joséphine,Ophtalmologue,38478,Dos Santosboeuf,Loire-Atlantique,Saint-Barthélémy
+1c90bbcb-cda1-4f8d-a9be-f64c129f4b28,Grégoire,Simone,Pédiatre,47551,Martin-les-Bains,Charente-Maritime,Île-de-France
+a9f5d4e6-2e6d-4805-acf1-9b121f0e0d42,Brunet,Pierre,Généraliste,49223,Pons,Savoie,Rhone-Alpes
+ee6581ce-c04a-454f-b5b4-8681249dcdcd,Barre,Roland,Ophtalmologue,70847,Saint Adèle-sur-Mer,Territoire de Belfort,Midi-Pyrénées
+e98fff0a-7c9f-4288-b31f-1ddb3759ad8e,Blanchet,Roger,Dermatologue,52159,Delahaye,Aisne,Haute-Normandie
+411df9a7-ac22-4299-8a2e-381462ceba80,Brunel,Élodie,Cardiologue,42844,Sainte Anastasie,Aube,Franche-Comté
+707ae557-a067-4bfc-a076-596734bda687,Marie,Élisabeth,Pédiatre,06821,Saint Franck,Doubs,Franche-Comté
+d28f49b1-4b55-4fdf-af03-b20071968664,Guillaume,Nicole,Ophtalmologue,19114,Saint Annedan,Jura,Guadeloupe
+b3c30898-46fa-48bf-b9ba-224a06dcb992,Lemoine,Susan,Généraliste,32340,Hoarau,Territoire de Belfort,Bourgogne
+2d778f35-ea9d-4dd7-9c5c-f1eb6bb169a5,Lévêque,Gilles,Cardiologue,45553,Sainte Suzanne,Alpes-de-Haute-Provence,Centre
+1100c520-9024-40b3-9c78-fc6e918dfcfc,Delmas,Roland,Pédiatre,09152,Martins,Corse-du-Sud,Poitou-Charentes
+d2e7e3b0-6a11-499d-8095-821e3ee12c6c,Hamon,Danielle,Ophtalmologue,94131,Noël,La Réunion,Bourgogne
+477979b8-d82e-44e0-aaaa-de2f433004d8,Colin,Michelle,Pédiatre,79518,Schneider-la-Forêt,Paris,Lorraine
+ec3cecf7-635f-4faa-ba77-8c1eceec5800,Peltier,Matthieu,Généraliste,10621,Cordier,Charente,Haute-Normandie
+e9cfab86-ab96-430a-9f1e-4392efdf9b5e,Traore,Caroline,Cardiologue,43356,Beckernec,Val-d'Oise,Bretagne
+86137793-83e8-499a-afe4-1dc7f72c7337,Renard,Clémence,Dermatologue,51576,Saint Jacqueline,Deux-Sèvres,Guyane
+64cca64e-9cb4-4b16-a344-e596046607ca,Marie,Claire,Dermatologue,84542,Pineau,Côtes-d'Armor,Polynésie française
+cf6f2c7c-76a3-4ef0-839d-d5721b64111e,Gilbert,François,Généraliste,01842,Godard,Drôme,Rhone-Alpes
+5cc1ff83-a487-4c05-b8fe-9305ecfe7d9d,Leblanc,Alexandre,Généraliste,59169,Raymondboeuf,Guyane,Champagne-Ardenne
+517de642-0ed8-45e8-ae34-af20cb47fd60,Potier,Louise,Généraliste,59098,Bodindan,Val-d'Oise,Nord-Pas-de-Calais
+7ed813c8-62ee-442a-9cef-9fde078840d2,Briand,Philippe,Cardiologue,49732,Saint Céline,Allier,Saint-Martin
+ad3bf3f2-72af-44dd-a263-3546450b8e53,Ferrand,Hortense,Dermatologue,04280,Vidal,Mayenne,Champagne-Ardenne
+55d69590-32a5-4a38-b493-9546bc4995cd,Foucher,Théodore,Cardiologue,78740,Aubert,Mayenne,Saint-Pierre-et-Miquelon
+51f57dfa-2609-4448-8758-a6bf6ef0e4d4,Gilbert,Roland,Ophtalmologue,38399,Sainte AnaïsVille,Haute-Loire,Aquitaine
+64b6b24b-ef29-4eb1-802e-b0e0f7ef11b5,Hervé,Jacques,Pédiatre,10090,Ollivier-la-Forêt,Var,Saint-Pierre-et-Miquelon
+622127dd-d5ab-44de-a8aa-9a4f383a052e,Mallet,Benoît,Cardiologue,70150,Pons-sur-Colin,Morbihan,Martinique
+042562b2-2828-46bd-a333-87ceb5c6b14d,Bigot,Christiane,Cardiologue,87228,Mendès,Haute-Marne,Martinique
+d9e05267-55ce-4eb8-9675-68da64499e38,Lamy,Théodore,Cardiologue,74231,Thibault,Manche,Guyane
+c4c4e7d8-6a14-46c7-b728-ddab5b21b199,Weber,Martine,Généraliste,37595,Jean,Val-d'Oise,Centre
+dbb85bbf-e30b-40b7-abce-7fd35b3f2cbb,Pages,Adélaïde,Généraliste,40610,Saint Rémy-sur-Mer,Drôme,Saint-Pierre-et-Miquelon
+749087aa-521f-4d1b-bbe8-e7c41ad78931,Leleu,Jacqueline,Dermatologue,79583,Guyon,Seine-Saint-Denis,Aquitaine
+0cd2c006-078b-4abf-a2c1-1be84b04fbdb,Millet,Luc,Dermatologue,86695,Blanc,La Réunion,Wallis-et-Futuna
+c7b41863-511d-4400-ab28-f1d38b26f0eb,Monnier,Claudine,Dermatologue,55528,Maillard,Haute-Corse,Haute-Normandie
+be15c8c1-5204-434a-a37f-bc4fb5406ed8,Colas,Isaac,Dermatologue,83494,Saint Édith,Indre-et-Loire,Bourgogne
+c133ca2a-f971-4567-bffa-9b0631b6c0bf,Lamy,Susan,Cardiologue,60443,Renaud-la-Forêt,Charente-Maritime,Nord-Pas-de-Calais
+7089bc5f-b2bd-416b-b2a6-b2a9a84f379a,Alexandre,Roger,Cardiologue,02845,Laurentdan,Yvelines,Martinique
+123089ed-f1c2-42fd-8bae-775b9ec57424,Goncalves,Pénélope,Dermatologue,42123,Jacobdan,Haute-Corse,Aquitaine
+b6ede7a0-638a-445f-bc0b-d7147f0cb418,Hubert,Gabriel,Cardiologue,28955,Saint Frédéric,Deux-Sèvres,Champagne-Ardenne
+33d3b13b-0d33-44c6-872e-18b517770454,Sanchez,Grégoire,Dermatologue,23531,Riou,Maine-et-Loire,Province-Alpes-Côte d'Azur
+7832405b-4ca9-4504-9d05-e47c2d4d3723,Chevallier,Nicolas,Dermatologue,59159,Lefort,Aveyron,Rhone-Alpes
+7947f062-9289-4e69-8379-b48ab76c76d5,Marchand,Marine,Cardiologue,66449,Lévêque,Aveyron,Alsace
+fc87ea6b-629b-4c50-a52e-10ac8f7e5ff5,Mendès,Jérôme,Dermatologue,48188,Perret,Martinique,Martinique
+0f7e98cf-29d4-4855-a6a4-8cb6461b243e,Laine,Victoire,Dermatologue,96551,Peltier,Cantal,Nord-Pas-de-Calais
+91e4bb8f-e1e5-49eb-ab03-b4a697b04571,Bruneau,Noël,Dermatologue,68402,Saint Alexandre-les-Bains,Vosges,Province-Alpes-Côte d'Azur
+6b8dccf5-16e5-4144-9681-d91d077a24b7,Raynaud,Laurent,Dermatologue,28799,Gros,Ain,Bretagne
+749c583b-e067-4e13-9320-7c300a01dff8,Riou,Jean,Ophtalmologue,10167,Sainte LéonVille,Cantal,Mayotte
+d6da8f53-0099-414e-8b4c-5230157d8179,Schmitt,Émilie,Ophtalmologue,57417,Sainte Danielle,Haute-Marne,Saint-Barthélémy
+ddd6ac6e-3b93-46d4-b203-5004c734e84b,Langlois,Eugène,Généraliste,37155,Mace-sur-Diaz,Loir-et-Cher,Picardie
+affd829b-5848-402e-84c3-520162776519,Legros,Jérôme,Dermatologue,99269,Pereira-sur-Meyer,Pyrénées-Orientales,Saint-Barthélémy
+291ba215-aff3-4412-9109-349fc63dee2b,Denis,Julie,Ophtalmologue,66719,Texier-les-Bains,Haut-Rhin,Champagne-Ardenne
+a7bc4fe8-9d20-4301-b84d-21ff0e090685,Garnier,Noémi,Généraliste,90616,Saint Isabelle,Eure,Réunion
+341f6b3c-4664-42d7-883f-bf3201fbd81f,Barbe,Alix,Généraliste,11179,Gauthier,Nord,Nouvelle-Calédonie
+b8d07b48-b900-4f27-9bda-395aaef3ffa5,Robert,Sébastien,Ophtalmologue,45343,Robin-les-Bains,Corse-du-Sud,Rhone-Alpes
+93e8f4d2-c9b4-4cf0-995e-7e9c9d307521,Lopez,Noël,Pédiatre,02749,Lefebvre,Meuse,Alsace
+aa676b99-91dd-4e1a-a8da-e4571066d0c4,De Sousa,Michelle,Ophtalmologue,99204,Joly,Côte-d'Or,Guyane
+918a40e7-14d1-436d-afa1-c4518e3d6d7c,Lemaître,Sabine,Cardiologue,58741,LeclercqVille,Haute-Marne,Poitou-Charentes
+3d0cd3b3-b855-49d8-8d83-7b02c0349273,Renault,Eugène,Ophtalmologue,58945,Grégoire,Savoie,Picardie
+281c9c80-1b8d-4379-ab4b-fbe5aaa11e38,Joseph,Daniel,Cardiologue,60497,AndreBourg,Pas-de-Calais,Saint-Martin
+dbe437ce-aae0-4e63-b3e8-8d78aed0f6f4,Maréchal,Joséphine,Pédiatre,56712,Masse,Aude,Midi-Pyrénées
+b5735320-b8c7-4cd2-8b6f-e55029aec89e,Gomez,Julien,Pédiatre,37754,Saint Honoréboeuf,Oise,Guadeloupe
+2066286b-e8cd-459a-b052-b11e2c5f8431,Sauvage,Sabine,Pédiatre,79065,Guillou,Hautes-Alpes,Franche-Comté
+e8ba5140-07b5-402e-a235-b9335faa7876,Perret,Roland,Pédiatre,55074,Sainte HélèneVille,Finistère,Picardie
+e65a4a54-e7b5-4312-8f20-80325bbcb900,Denis,Alfred,Cardiologue,91087,Bernier-sur-Lévêque,Haute-Saône,Champagne-Ardenne
+428131a0-a44e-4e82-8612-e07a3ffcd530,Marion,Hortense,Ophtalmologue,10243,Marie,Hautes-Alpes,Haute-Normandie
+8fa6941b-8d38-4176-bb5f-5fd6ca65e344,Masse,Victor,Généraliste,35832,Sainte Thibault,Sarthe,Martinique
+2db0298c-d2ab-47b8-ae91-7f43f6454cec,Legros,William,Ophtalmologue,72481,Berthelotboeuf,Loire-Atlantique,Corse
+bcd3e6fd-7899-4429-8f3f-246b3ff2ae3d,Ribeiro,Lucie,Cardiologue,35121,AlexandreBourg,Eure-et-Loir,Midi-Pyrénées
+4068428b-f0c5-49a9-87a4-80d93937b285,Mallet,Christelle,Cardiologue,46416,Mace,Savoie,Martinique
+4ebce9a6-1008-4d4d-98b5-1d802468e7d2,Regnier,Marie,Généraliste,36764,Bertrand,Haute-Saône,Poitou-Charentes
+ab13e29c-1ac4-4d8f-90e6-0165b2c9be50,Salmon,Xavier,Pédiatre,40513,Foucher-la-Forêt,Creuse,Basse-Normandie
+8f74ee2e-c256-4574-be1d-7d089f2e6e04,Roussel,Brigitte,Cardiologue,56521,Robin,Bouches-du-Rhône,Alsace
+575f79cd-80f8-4203-9f6e-5bb2020b6619,Vaillant,Alexandrie,Ophtalmologue,25053,Blanc,Dordogne,Bretagne
+e96bc0fb-9558-44c0-94d4-c1cc9c3abfe8,Petit,Charles,Généraliste,02029,Leleu,Meuse,Auvergne
+347c7dd1-f009-4067-bda4-3e7025df92ad,Poulain,Gabrielle,Pédiatre,26934,Gomez-sur-Lelièvre,Var,Saint-Pierre-et-Miquelon
+b0432b22-d2ed-47c1-8d66-c93ca8490c7c,Barbe,Emmanuel,Ophtalmologue,12636,Dumasboeuf,Alpes-de-Haute-Provence,Saint-Pierre-et-Miquelon
+62e51d94-2155-4da6-bb3a-60aa182ec37b,Laporte,Stéphane,Dermatologue,77596,Saint Marthe,Dordogne,Alsace
+3c14065a-abf1-45a4-b713-17fa7a2d5629,Delorme,Patricia,Dermatologue,68835,Potier-les-Bains,Loir-et-Cher,Province-Alpes-Côte d'Azur
+c9d639b9-50cf-4e68-8a16-42a8da6e03f1,Hardy,Frédéric,Ophtalmologue,29440,Bouvier-sur-Gillet,Hautes-Alpes,Basse-Normandie
+d2a67d60-c912-4c4c-9a07-d9e8250626a9,Colas,Timothée,Ophtalmologue,39330,Vaillant,Charente-Maritime,Centre
+9bb346b6-78c4-45ca-bd20-0bf3d33eea1a,Blondel,Denis,Ophtalmologue,82745,Bourgeois,Hauts-de-Seine,Basse-Normandie
+3608211f-48b0-4796-be44-9bba39a4930f,Schneider,Adèle,Généraliste,58061,Benard-les-Bains,Gironde,Île-de-France
+5cbe9879-9251-461b-9759-4fed595defe5,Roussel,Hortense,Ophtalmologue,77969,Fischer,Savoie,Saint-Pierre-et-Miquelon
+de63dc16-78f8-456e-a48e-922ad2ddbd81,Allain,Margaux,Cardiologue,91264,Saint Philippe,Savoie,Saint-Pierre-et-Miquelon
+2908dd17-d421-4672-b2f1-a88bd3d62ab2,Perrot,Adrienne,Dermatologue,42537,Lemoine,Creuse,Province-Alpes-Côte d'Azur
+266f4472-a5fb-4f8e-ae09-5b4364d98739,Boutin,Louis,Dermatologue,04566,Fabre,Pyrénées-Atlantiques,Nord-Pas-de-Calais
+76d99667-d5a4-4d16-b296-08386d6732d5,Dupont,Diane,Dermatologue,33930,Delannoy,Indre,Rhone-Alpes
+be39fc10-53fe-42a9-827f-44314517993d,Traore,Laetitia,Ophtalmologue,39305,JacquesVille,Cher,Nouvelle-Calédonie
+0779471a-0d83-43da-8bbe-eb08620bc330,Laporte,Arnaude,Généraliste,93548,Hernandez-sur-Teixeira,Vosges,Polynésie française
+275ba6b5-d757-415c-8360-f919bc614d23,Lesage,Victoire,Dermatologue,75255,Merciernec,Dordogne,Saint-Pierre-et-Miquelon
+6593f330-b141-4fe6-8e0a-062172e5bb91,Grégoire,Élise,Pédiatre,72694,Petit,Indre-et-Loire,Lorraine
+4cd1ce29-f5dc-47a3-bcbf-81dc1f55c172,Lecoq,Louise,Cardiologue,72449,Clément-sur-Bourgeois,Lot,Limousin
+10f37b97-1ba7-4d45-b50d-ea13d6a88f77,Richard,Virginie,Généraliste,99794,Parent-sur-Roger,Territoire de Belfort,Basse-Normandie
+96d3a873-d93b-487d-a891-b60e0a0fdc82,Menard,Susan,Cardiologue,80119,Bernard,Tarn-et-Garonne,Champagne-Ardenne
+ef80f73e-303f-4989-a5b4-64671750ed12,Bruneau,Alice,Pédiatre,30996,Saint Margaudboeuf,Eure,Auvergne
+5257b8f6-8505-4df8-9ec5-19599e3f6c65,Delattre,Julie,Ophtalmologue,02443,Collin,Nièvre,Picardie
+36b7c578-43bb-4b0e-8a0c-63c93c73f4c9,Lenoir,Étienne,Ophtalmologue,52189,Marchand,Cantal,Poitou-Charentes
+89dd6075-10bb-42cc-91cd-43ec9e3e2dc6,Ledoux,Alexandria,Pédiatre,77249,Robin,Bas-Rhin,Guyane
+682018af-1225-4280-9f71-745c8746ffcf,Carre,Nicole,Généraliste,34360,Peltier,Lot,Picardie
+da7fe4fe-b662-4979-91a4-0feb7aff9f2f,Dumas,Andrée,Pédiatre,42506,Rossi,Allier,Aquitaine
+2b2b6fdc-7a45-4e0b-be4a-28106c446fe9,Leroy,Thierry,Cardiologue,48991,Gonzalez,Guyane,Auvergne
+ecc8af37-5680-489e-a4ba-b54b8685edb3,Seguin,Lorraine,Dermatologue,93093,Launay-sur-Martins,Vaucluse,Wallis-et-Futuna
+594e4db2-f9a2-4a2b-989f-83d184848993,Marchand,Maryse,Ophtalmologue,82125,Legros,Gard,Bretagne
+6f2ab0c7-6f4b-4c25-a16d-ac70281435c7,Gimenez,Maggie,Ophtalmologue,28879,Lejeunedan,Aube,Guyane
+024d2918-157e-430d-9a23-2213e1aee4b9,Wagner,Philippe,Ophtalmologue,95403,Buisson,Cantal,Polynésie française
+8de760e6-3361-4996-b78a-9ccb2d157520,Bourgeois,Thérèse,Généraliste,35618,Sainte Vincentboeuf,Pas-de-Calais,Île-de-France
+702a468d-9b06-46f6-be58-3c94437a81d8,Michaud,Gabrielle,Cardiologue,50965,Sainte Julien,Lot-et-Garonne,Limousin
+76679299-d47f-4c1d-8dd5-f25645a70b52,Lesage,Célina,Dermatologue,67864,De Oliveira,Territoire de Belfort,Bourgogne
+b81c81c6-a861-468f-b6ae-6750c177538e,Marchal,Tristan,Pédiatre,51920,Saint OlivieVille,Vienne,Rhone-Alpes
+dff0d148-e987-46b4-9bc5-cedeaeb054bc,Leroy,Paulette,Ophtalmologue,44524,Giraud-sur-Martinez,Dordogne,Centre
+ebb923ab-d6a6-4db2-8b4c-1444c550a621,Noël,Alexandre,Généraliste,28583,Pelletier,Cantal,Saint-Martin
+8fde7ed5-66ee-44f5-a8c8-2ee822756339,Richard,Aurore,Généraliste,02154,Joly,Haute-Garonne,Corse
+f1157a20-c61a-48a3-af9d-c7fd0b391892,Potier,Adrienne,Dermatologue,98483,Wagnernec,Cantal,Basse-Normandie
+08f2ba4e-0fc0-4d90-adb9-3d32e16e32ff,Bouchet,Emmanuelle,Généraliste,06035,Pagesnec,Calvados,Limousin
+72147a54-82a8-426d-94c1-b8b0af7aace7,Cordier,Michel,Cardiologue,65782,DuboisVille,Pyrénées-Atlantiques,Réunion
+fa6213c8-e8ea-4d21-8602-69913d954d98,Lopes,Pénélope,Généraliste,14742,Leblanc-les-Bains,Hérault,Polynésie française
+7e8a0e0e-64b8-4bf0-83a4-441abc8080b0,Dufour,Odette,Généraliste,20127,Meyer,Puy-de-Dôme,Rhone-Alpes
+5f63464d-a398-4def-8c22-1742851e0844,Bodin,Jules,Cardiologue,56634,Girard-la-Forêt,Sarthe,Limousin
+5aae3648-f418-44f5-9f7c-6def227f2628,Blot,Brigitte,Cardiologue,13679,Marie,Mayotte,Wallis-et-Futuna
+56be9cf7-ddfc-4b3f-b495-38d3d4b8adbd,Rodriguez,Lucy,Dermatologue,22781,DijouxVille,Lot-et-Garonne,Champagne-Ardenne
+969010b4-5c83-4cfe-b8d7-495ed487b03b,Guillaume,Aurélie,Ophtalmologue,36970,Moreau-les-Bains,Marne,Martinique
+4ed38226-bfa8-4f5b-ab20-389e2e87d548,Girard,Jeanne,Généraliste,46825,Sainte Rolandboeuf,Puy-de-Dôme,Guyane
+70a11b81-5d57-44dc-b647-bf73c2a7a1c1,Perez,Nicole,Pédiatre,74672,Chrétien-les-Bains,Morbihan,Languedoc-Roussillon
+51bd7256-58c0-4e93-bc8b-cc9ec9887a56,Fontaine,Victoire,Généraliste,67405,Sainte Xavierboeuf,Aveyron,Pays-de-Loire
+baa1a774-b562-4317-9c7b-055a7c885dff,Legros,Claire,Ophtalmologue,76106,Lemaître-la-Forêt,Manche,Nouvelle-Calédonie
+4913bb9c-dac9-48a8-b086-5b81abd441de,Menard,Juliette,Cardiologue,40800,Bernier,Ariège,Champagne-Ardenne
+f39a574d-75fe-4e02-ba8c-31d4ba214fb3,Olivier,Françoise,Pédiatre,21638,Labbéboeuf,Lot,Limousin
+a9081174-c735-48f8-8cae-e14a43b56180,Guillon,Jacqueline,Dermatologue,48096,Bègue,Maine-et-Loire,Saint-Barthélémy
+244afcee-4c72-45fc-808a-8643151b7cca,Clerc,Léon,Généraliste,34564,Schmitt,Alpes-de-Haute-Provence,Bourgogne
+ef9f3e10-ecd0-476f-b1ef-b4ca42055e87,Gilles,Léon,Cardiologue,24857,Garcia,Aisne,Auvergne
+711459e1-fec6-498c-814e-fbf99f6e295d,De Sousa,Gérard,Ophtalmologue,28154,Chevalliernec,Saône-et-Loire,Saint-Martin
+2ec4c49d-3841-4572-b871-24f5f5cc5514,Marty,Adélaïde,Dermatologue,96362,Hoarau,Cantal,Languedoc-Roussillon
+facf2494-f15f-41c3-a208-11a9cf6d9166,Richard,Théophile,Pédiatre,87683,Sancheznec,Haute-Vienne,Martinique
+b589511e-ada4-456f-9029-671fe29ce8b9,Thomas,Emmanuelle,Généraliste,18829,Saint Denisedan,Aisne,Lorraine
+5b67cbde-5ec6-4ed7-b091-eb0e5f0a878a,Laporte,Denis,Dermatologue,02251,Saint Thibault,Bouches-du-Rhône,Alsace
+e129ceb3-52a5-4825-84e4-0bd53ca749f9,Launay,François,Ophtalmologue,88644,Sainte Roger,Orne,Réunion
+cb77bf7c-cb8f-4d4d-90b2-4c7dd9012f3b,Aubert,Madeleine,Cardiologue,97790,Schmitt-sur-Albert,Oise,Alsace
+46dfd091-3e0e-490a-87af-6a0009b7d7f8,Navarro,Marcelle,Ophtalmologue,71382,Olivier,Vendée,Saint-Barthélémy
+5373ec8b-0399-4e80-97d3-50282785709c,Meunier,Valérie,Dermatologue,45734,Delaunay-sur-Toussaint,Gironde,Lorraine
+03598644-1ae6-48c3-b28f-43affe3697e0,Vallet,Mathilde,Généraliste,63838,Caron-sur-Grondin,Meuse,Guyane
+d8e29ca5-99fa-4b3c-8dfc-a9c9aef7c1a5,Berger,Alexandria,Dermatologue,08507,Da Silva,Val-de-Marne,Wallis-et-Futuna
+d4c91044-4ed1-4e65-919f-999dd23af1eb,Briand,Jacques,Généraliste,68167,Imbert,Somme,Saint-Martin
+f26850f9-f071-4ffc-b244-f17bfe4a7619,Martineau,Marine,Ophtalmologue,18422,Renault-sur-Lagarde,Allier,Île-de-France
+fe7492d2-0e65-4fa1-be11-59df88da5f35,Lemaire,Tristan,Dermatologue,28754,Lebreton-sur-Samson,Val-de-Marne,Champagne-Ardenne
+5733a286-f06e-4156-b8b0-ff3ac6e54820,Besnard,Claire,Pédiatre,20009,Collin,Pas-de-Calais,Bretagne
+4e195f38-00a1-411a-87a4-4260f38b28ff,Robin,Diane,Dermatologue,31008,Duprédan,Ardèche,Franche-Comté
+f489ec21-7584-41e6-903c-b8843ad4fea2,Sanchez,Laurence,Ophtalmologue,52699,Garnier-les-Bains,Essonne,Champagne-Ardenne
+ebea7a84-0702-48cd-ae77-8f48167639fa,Godard,Laurence,Généraliste,38919,Gérard,Val-de-Marne,Pays-de-Loire
+165965fc-2f4f-4794-b656-9020e5f78441,Lopes,Audrey,Ophtalmologue,77201,Le Roux,La Réunion,Corse
+87a435e7-de66-4380-91b9-53208c478f71,Renaud,Virginie,Dermatologue,96727,Gilletnec,Ain,Basse-Normandie
+e74bf649-17ca-417a-919d-caf52501bb85,Lebon,Émilie,Ophtalmologue,40311,Saint Jeannine,Essonne,Rhone-Alpes
+0904dd72-a30f-42f0-a5f5-329706a922af,Camus,Christiane,Ophtalmologue,72095,Mary,Mayotte,Martinique
+195141a6-b8fd-4909-9d1e-331fe84070cc,Jacques,Thierry,Cardiologue,57340,Regnier,Paris,Centre
+26680a47-bdd3-4ebf-8cfc-724b69f8d144,Aubry,Suzanne,Cardiologue,94083,Arnauddan,Bas-Rhin,Centre
+fcbbbf85-4dda-4cf1-8c76-dee9299a21fe,Mendès,Nathalie,Dermatologue,56629,Becker,Loire-Atlantique,Polynésie française
+c6cb6d13-4009-48f9-8a61-ade392735d4b,Chauveau,Catherine,Ophtalmologue,89613,De Sousa,Haute-Savoie,Polynésie française
+fc5eac6e-a6b9-4368-aaa4-7f76526a3ee5,Laine,Pauline,Ophtalmologue,22797,Baron,Hautes-Pyrénées,Corse
+12aefbf7-595a-4d3b-85b7-0e3e7abb40dd,Pires,Inès,Dermatologue,87713,Joubert,Doubs,Aquitaine
+27367136-0c54-45ee-9bcc-19b6cc8fe197,Perrot,Gabrielle,Cardiologue,09465,Cordier-la-Forêt,Puy-de-Dôme,Corse
+0c85335f-d0e2-4454-80e1-f8346119896e,Leleu,Stéphane,Dermatologue,92044,Bonneau-les-Bains,Eure-et-Loir,Auvergne
+d5b9f8d9-b2f8-4a11-b0d3-742d88a4baf4,Bigot,Bernard,Dermatologue,91810,Saint Marianne,Val-d'Oise,Centre
+038e035f-f0b5-4a1b-ba5d-ca9b6d29c25f,Louis,Jean,Ophtalmologue,44217,Sainte ThomasVille,Ardèche,Rhone-Alpes
+243e25dd-c963-4d37-b871-4e933ded5b94,Benoit,Jacqueline,Pédiatre,25392,Sainte Noëlboeuf,Haute-Vienne,Auvergne
+bfde588c-562a-46a0-8a33-1f403a288cfc,Delorme,Daniel,Pédiatre,83472,SanchezVille,Territoire de Belfort,Aquitaine
+62b5db65-5f61-4798-9aaf-91ac87ce4430,Vallée,Élisabeth,Pédiatre,52417,Berger,Haute-Savoie,Saint-Barthélémy
+92ff4702-ccea-4386-8a39-4f90156fb5fb,Gallet,Thérèse,Pédiatre,19821,Prévost,Puy-de-Dôme,Réunion
+b45e86a4-297c-4396-a5d5-821867ee9faa,Teixeira,Gilbert,Dermatologue,36384,Saint Luce,Vienne,Guyane
+1f388880-9d09-46b7-a04f-bb9ca8462d3e,Rocher,Monique,Pédiatre,51896,Hamel,Loire-Atlantique,Saint-Pierre-et-Miquelon
+aaa43fff-440d-47e5-8245-cd5a38693a54,Bouvet,Catherine,Cardiologue,98647,Guichard-sur-Moreau,Bas-Rhin,Saint-Barthélémy
+3d6e7ce2-d7f2-4e2a-b6ed-7d2b7659ba8e,Blondel,Éric,Ophtalmologue,11882,Saint Éric,Tarn,Wallis-et-Futuna
+2a8a80c6-2877-40da-90ca-e4aca9dd00e3,Foucher,Christelle,Généraliste,06685,Blancharddan,Hautes-Pyrénées,Wallis-et-Futuna
+cd2c6bc8-d1e9-4258-9417-17bc56545236,Pierre,Antoine,Cardiologue,57271,Riou-sur-Rousseau,Aveyron,Aquitaine
+0fc86e82-5331-421e-941c-5eacf12ab78d,Hubert,Gabriel,Cardiologue,37651,Saint Jacquelinedan,Vaucluse,Martinique
+d952903d-c34c-46c8-b7ac-b5e880fa96e7,Carlier,Dorothée,Dermatologue,94501,Lecoq,Rhône,Guyane
+05e8241c-5a3f-4109-af5d-8b7262f9837e,Collin,Margaux,Ophtalmologue,93293,Sainte Christine,Haute-Savoie,Centre
+458d2268-2d98-431c-9dca-1513d4e57514,Gimenez,Étienne,Pédiatre,08860,Lejeune-sur-Colas,Val-de-Marne,Corse
+655ff0d5-b42d-481d-bb4a-6974fd865181,Blondel,Monique,Ophtalmologue,03557,Baillydan,Haute-Garonne,Wallis-et-Futuna
+2bbc7fce-77bb-4341-af72-0a0a1a239cd1,Delaunay,Sébastien,Pédiatre,29743,Peltier,Corrèze,Bretagne
+5ac44f76-5cc9-47fe-bca7-db6aa071246c,Jacquet,Virginie,Cardiologue,36813,Ollivier,Deux-Sèvres,Aquitaine
+9aca4932-af54-4007-9721-51495f7bb4c4,Picard,Sébastien,Pédiatre,36156,Saint Maurice,Hautes-Alpes,Limousin
+54b4d057-c13c-4375-bbbe-a829c217e8cd,Regnier,Véronique,Pédiatre,93699,Riou-la-Forêt,Oise,Poitou-Charentes
+a8d4d9c7-1086-4487-8125-cd328aa47058,Adam,Claude,Dermatologue,69189,Roussel-les-Bains,Manche,Lorraine
+736d3efe-d91c-4575-b43e-ab8636f5c626,Menard,Alice,Généraliste,32925,Nguyen-sur-Ruiz,Gers,Île-de-France
+7a6631a8-d9fc-40c9-843a-2ca1966060a7,Guyon,Pierre,Ophtalmologue,01101,Le Rouxnec,Meuse,Wallis-et-Futuna
+e4203225-ceb5-4f54-8e38-ff9e9548e519,Henry,Constance,Pédiatre,16303,Royer,Mayotte,Haute-Normandie
+518a0f17-64af-4aaa-83ad-f5e3fba90db2,Gaillard,Michelle,Cardiologue,47950,Lecoq-sur-Gautier,Val-de-Marne,Aquitaine
+0c017e0d-b745-4ace-92c2-d191fd0f002b,Germain,Diane,Dermatologue,50685,Bouvet-sur-Marchal,Aveyron,Basse-Normandie
+91afa948-9d07-4e22-a256-ef6610c5ce84,Gérard,Jacqueline,Cardiologue,87999,Costa-sur-Mer,Gard,Nord-Pas-de-Calais
+df0ef4ef-36c6-4acd-8103-83cc048a2b2e,Lamy,Sabine,Dermatologue,69225,GomesBourg,Var,Haute-Normandie
+891cb39d-a06e-477b-a217-f9bb2fb2230b,Delaunay,Odette,Généraliste,76114,Grenier-sur-Mer,Doubs,Wallis-et-Futuna
+4d17d1e4-1fb2-4932-bace-7b90060aacdf,Morvan,Jacques,Ophtalmologue,89218,Nicolas-les-Bains,Côte-d'Or,Saint-Pierre-et-Miquelon
+4d2a9b1e-d092-48d9-b0a7-495b62f8b9e8,Duhamel,Céline,Cardiologue,66801,Jourdannec,Aube,Province-Alpes-Côte d'Azur
+59c136c8-a4cf-47fd-a5d0-421aed828bc5,Vidal,Juliette,Ophtalmologue,64021,Deschamps,Deux-Sèvres,Nouvelle-Calédonie
+79e81f8b-a955-4904-bfcd-465bc65eda57,Faivre,Zacharie,Dermatologue,70650,Mathieuboeuf,Gers,Pays-de-Loire
+f2095032-2258-4d34-a5fb-49a070c27b19,Giraud,Emmanuel,Ophtalmologue,39567,Moulin-la-Forêt,Haute-Vienne,Aquitaine
+3c9e2572-2851-4d64-9477-65774714d06f,Loiseau,Auguste,Pédiatre,53040,Dijoux,Bas-Rhin,Midi-Pyrénées
+d01ab219-e687-45d8-a7e3-c515beb70936,Rodriguez,Nicole,Cardiologue,61895,Gimenezboeuf,Seine-Saint-Denis,Aquitaine
+5e57e465-1230-4081-b243-493ea8f2aae9,Didier,Sabine,Pédiatre,73020,Parent,Bas-Rhin,Rhone-Alpes
+9a644c87-d07a-4b4d-97d6-3296c37c3d5f,Ferreira,Margaux,Cardiologue,11498,Gros-la-Forêt,Vienne,Franche-Comté
+c83f7a02-c379-4535-8b04-c578f9fc1193,Navarro,Georges,Cardiologue,57142,Pons-la-Forêt,Val-d'Oise,Mayotte
+70c00f5d-624e-42ee-8dd3-9b0572ec711a,Gaillard,Christine,Généraliste,53428,Martinez,Maine-et-Loire,Bretagne
+72226f60-b180-45a1-89ae-05516970c51d,Gros,Roger,Dermatologue,82503,De Sousa,Cher,Pays-de-Loire
+db9cd82a-404a-4b22-9ee5-5047a61a6273,Alves,Honoré,Pédiatre,88921,Saint Patricia,Val-de-Marne,Rhone-Alpes
+13a735cd-1c67-4228-96c8-e981f87d476c,Faure,Robert,Dermatologue,67431,Pires-sur-Guilbert,Rhône,Centre
+54f8a289-ce68-4fe0-a5d2-6d289ad51522,Maillot,Agnès,Cardiologue,73224,Marie-sur-Mer,Creuse,Province-Alpes-Côte d'Azur
+495a38e4-758c-40bb-aad9-3da67cb36f41,Maillard,Michèle,Dermatologue,68058,Saint Dorothée-sur-Mer,Somme,Saint-Barthélémy
+7acb9a7d-56df-4150-9ff3-10db2c18e966,Berger,Aimé,Pédiatre,79686,Sainte MarcelleBourg,Savoie,Champagne-Ardenne
+33692ee6-914b-4c43-beed-cc1efc1fc22a,Valentin,Colette,Pédiatre,22664,Saint Corinne,Meurthe-et-Moselle,Auvergne
+7e9d9b37-b758-4871-9cf3-90610055b821,Garnier,Éric,Pédiatre,22501,Buissonnec,Somme,Haute-Normandie
+04f60f38-90b3-4129-ba9b-3daac4d7b6f2,Traore,Marthe,Dermatologue,35777,Dos Santos-les-Bains,Haute-Corse,Basse-Normandie
+47ab9015-563b-430e-ba99-d02a3fa96a3b,Faure,Sylvie,Généraliste,93646,Baudry,Seine-Saint-Denis,Haute-Normandie
+658c0e44-368f-48c1-a0b8-269601267f84,Valentin,Anastasie,Cardiologue,92170,Toussaint,Var,Alsace
+f2155a45-44b7-4e8e-8f65-d44e8730e062,Adam,Alexandre,Pédiatre,10952,Parent,Hérault,Saint-Pierre-et-Miquelon
+8d481620-6ad6-4bb4-b81d-c32e6528156d,Samson,François,Généraliste,18374,Sainte Mariedan,Orne,Guyane
+f4ddd123-17e1-4027-8047-f0787cffa537,Faivre,Anaïs,Pédiatre,36298,Delaunay,Drôme,Champagne-Ardenne
+3e53e286-7f91-4a44-b0c7-c92e0e68149e,Marie,Manon,Pédiatre,48406,Sainte SuzanneVille,Haute-Saône,Pays-de-Loire
+6a680c54-d0a3-4668-a3e6-fc6d8d198d06,Lemoine,Isaac,Dermatologue,31243,Mary,Oise,Nouvelle-Calédonie
+2e5b804d-eed1-4ff3-adbc-5a54f818701a,Schneider,Martin,Pédiatre,01261,Maurice,Creuse,Nouvelle-Calédonie
+5fe79868-fd9f-45a5-8a2f-f49cc98d8e79,Guillaume,Philippine,Dermatologue,77874,Da Silva,Paris,Saint-Martin
+7c85e1f0-67fb-4c4d-9949-84cb562ab531,Laurent,Christelle,Généraliste,48379,Rémy-la-Forêt,Aveyron,Île-de-France
+647e143b-3696-4a5e-9f36-36267468c0e0,François,Isabelle,Généraliste,51456,Nicolas,Calvados,Saint-Barthélémy
+4c48664c-6825-4bf1-90d9-e16a888045e7,Lelièvre,Danielle,Cardiologue,02099,Bruneau,Maine-et-Loire,Haute-Normandie
+a6087a3a-6c88-44a6-996b-33efd100daed,Boulay,Bertrand,Cardiologue,30112,Voisin-sur-Boucher,Somme,Réunion
+a747c09a-12a5-4bbe-8d7b-5650076c8d2d,Duhamel,Xavier,Pédiatre,74979,Saint Dorothée-les-Bains,Jura,Martinique
+06c0a7d3-d7a7-42e6-9f47-e0e84ab99db9,Gosselin,Adélaïde,Généraliste,77133,Petitjeanboeuf,Meurthe-et-Moselle,Martinique
+e16d6eb2-54d0-4d26-ba4a-ad1349abde7e,Bernard,Jérôme,Pédiatre,84544,Carpentier,Rhône,Rhone-Alpes
+f32eb631-8cc6-45ed-a3d7-9b3c3284eed6,Vincent,Grégoire,Généraliste,64954,Leclerc,Loire,Wallis-et-Futuna
+9aa5d687-1166-4404-986b-e3246db55b74,Bourdon,Sylvie,Dermatologue,86456,Pichon,Côtes-d'Armor,Franche-Comté
+a0e4d60d-6f5d-41d9-96b0-6fd0c0bdc9ab,David,Marc,Généraliste,23933,Mathieu-la-Forêt,Puy-de-Dôme,Champagne-Ardenne
+c35cea2a-a4e7-4159-b1c0-6fe956fded61,Léger,Marie,Ophtalmologue,08367,Sainte Roger,Eure,Guadeloupe
+990be27c-1305-4b4f-b273-35f577fd3c79,Roche,Agnès,Dermatologue,11172,Monnier-sur-Alves,Eure,Bourgogne
+e34e4646-d392-4bd2-bdba-d89c19da3fe8,Laine,Alex,Ophtalmologue,93021,Sainte AlexVille,Nièvre,Lorraine
+00fae20f-82ee-4866-bad9-edbce353d1ce,Millet,Bertrand,Cardiologue,69357,Ruiz,Hautes-Alpes,Rhone-Alpes
+3b4303f5-d40a-4def-9ddb-a9cc98932454,Moreno,Aurélie,Cardiologue,06897,Raymond-sur-De Sousa,Mayotte,Lorraine
+c54852d6-9873-4292-a48d-6328e06fcdd2,Pages,Madeleine,Pédiatre,99623,Lucas-les-Bains,Haute-Corse,Nord-Pas-de-Calais
+86ec2dc2-a4b2-4106-805d-ba964c0660b6,Marty,Roger,Pédiatre,76098,Olivier-les-Bains,Rhône,Centre
+0c31193e-80c7-4b1c-aa48-d87df2d57ea9,Joly,Suzanne,Ophtalmologue,19897,Valette,Alpes-Maritimes,Saint-Pierre-et-Miquelon
+60db0fd7-2d00-487d-b0b7-6c035eecdba8,Lemonnier,Luce,Pédiatre,41584,Sainte Moniquenec,Haute-Vienne,Nord-Pas-de-Calais
+29fc48ff-d4f3-41ac-b868-437276509c7b,Diallo,Inès,Cardiologue,01301,Carliernec,Savoie,Centre
+1bcfa866-1a00-45ab-9c66-35838fc3a8bd,Lefort,Astrid,Pédiatre,94290,Gérard,Savoie,Rhone-Alpes
+49c0e9b5-ea50-4e06-90a8-77a12737f3b9,Turpin,Denis,Cardiologue,56777,Cousin,Vosges,Bretagne
+5a36055a-4ead-4632-8ac4-d130910c6073,Lejeune,Raymond,Pédiatre,62885,Denis,Haute-Vienne,Corse
+e8bd0832-c7e8-4b27-913a-6630e643e396,Alexandre,Michèle,Généraliste,55157,Traoredan,Vienne,Lorraine
+400e5bef-8ecf-47b8-a3f0-a4014b1c4c31,Delmas,Alphonse,Cardiologue,87937,Saint Jérôme,Haute-Marne,Picardie
+53fea32e-0c3a-4c4f-a6bd-515813c50378,Martel,Xavier,Cardiologue,98404,Saint Jean,Gers,Réunion
+967f43a5-c7ce-48e7-a552-716551a99346,Langlois,Adèle,Cardiologue,58548,RossiVille,Val-de-Marne,Saint-Pierre-et-Miquelon
+646e8b9c-56fd-4106-82ab-ab9159fa8d51,Barthelemy,Alexandria,Pédiatre,24541,Bouvet-sur-Bruneau,Pas-de-Calais,Aquitaine
+a13c147e-f5cf-4155-95f4-368022c85b61,Maillard,Étienne,Cardiologue,73426,Rodrigues,Gard,Poitou-Charentes
+782761ec-79a9-412b-aaf2-1a975b1dc41d,Courtois,Alice,Pédiatre,66959,Ribeiro,Ain,Auvergne
+222a73e0-7f63-4843-979c-70f0e16558eb,Fouquet,Joseph,Pédiatre,00845,Muller,Paris,Basse-Normandie
+5637afd1-846f-4305-b804-eb5a00d2e2d0,Lambert,Josette,Généraliste,69807,Benardboeuf,Moselle,Centre
+28b2632c-b747-4ad9-876b-9b2d3b3c042c,Potier,Anouk,Dermatologue,36350,BertinVille,Côtes-d'Armor,Rhone-Alpes
+fa3a2d71-17cd-4bc5-ba1e-dc076f293b85,Becker,Nicolas,Généraliste,43361,Mace-sur-Charrier,Vaucluse,Auvergne
+aeaec1f1-2d3b-4999-9685-8f60a9efd5d0,Henry,Simone,Pédiatre,17571,Lemaire-sur-Guichard,Indre-et-Loire,Franche-Comté
+9f978ead-fc26-446a-a18d-aa6325d3bd1a,Lebrun,Grégoire,Pédiatre,45354,Augernec,Cher,Alsace
+59f23fec-f8fb-4550-bf74-6ff781764a7f,Besson,Mathilde,Généraliste,89683,Morin-la-Forêt,Yonne,Auvergne
+dd4f6d32-e17f-4759-aa17-a3a3dcd99bce,Camus,Margot,Dermatologue,56501,Moreau,Dordogne,Champagne-Ardenne
+7364bb41-129d-4c88-99d6-da5eb635ca8e,Rivière,Tristan,Pédiatre,97138,Lebreton,Vienne,Champagne-Ardenne
+406a348e-a037-4e55-b31e-a2ae84a37c20,Boulanger,Zacharie,Cardiologue,11883,Alvesnec,Territoire de Belfort,Picardie
+c6641203-02ba-4aa5-b98d-262134238823,Bousquet,Isabelle,Cardiologue,76908,Sainte Anne,Puy-de-Dôme,Poitou-Charentes
+9c5c92f2-b9eb-4b5b-abb3-053d883d48b1,Dumas,Aimé,Généraliste,16842,Noël-sur-Rolland,Lozère,Guadeloupe
+1770a9fb-9a61-4069-9c2e-dd1f4530a88d,Marin,Gilles,Généraliste,93768,Perrier,Essonne,Mayotte
+8d1560f8-8a23-41f0-9f5d-329dd12ab712,Marques,Frédérique,Dermatologue,24239,Guichard-la-Forêt,Finistère,Franche-Comté
+91cfe93e-f15a-4f19-8e22-036e7871896a,Benoit,Alice,Généraliste,37057,Jean,Ille-et-Vilaine,Midi-Pyrénées
+d08422d4-27f2-4929-883c-e195d8db1967,Delorme,Nicole,Dermatologue,93898,Rémyboeuf,Vienne,Aquitaine
+d84a872f-8960-4892-b5bb-c6aaeceda4f8,Lopes,Céline,Ophtalmologue,99552,Lefèvre-sur-Rocher,Corse-du-Sud,Mayotte

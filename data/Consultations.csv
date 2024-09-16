@@ -1,0 +1,1001 @@
+Consultation_ID,Patient_ID,Médecin_ID,Date_Consultation,Spécialité,Motif_Consultation,Ville,Code Postal
+d43e8756-2cc9-44f3-bb29-2fc9899f11cf,3e159d20-fbe2-4856-b57a-3d3d3ce2e00e,61fe139b-13e5-4157-bae5-524f4612bcbc,2024-02-17,Dermatologue,Urgence,Guillot,96280
+d5f73b41-1d2f-43a4-83c4-05b040c5fa12,25696aa0-3d68-462b-abdb-f10f6fec8b35,b737a4fd-feb2-4d5c-b0bc-ca6d1084f4ba,2020-10-27,Pédiatre,Suivi maladie,Sainte Anastasie,32403
+c4868b7f-891c-49bb-a6b7-f4c13c0dc6da,ea379a80-b33f-47f2-b815-02c559d73e7b,af9fa201-fc4f-42f7-94ca-ef22a160e4e7,2022-11-26,Pédiatre,Suivi maladie,Dos Santos,58800
+089bd928-32a6-4f66-be39-5cb7ade61a04,2c75abd3-c87a-4535-8b14-1aef4b333565,53930afd-5689-40a1-8407-32543afa58d9,2022-06-29,Pédiatre,Suivi maladie,Aubert-sur-Lacombe,68423
+d26b893a-8704-4667-a096-40fecd9bd37f,b3c3ba04-8c1e-4eea-8823-7b2216515bf5,04ef3786-ced2-4583-a807-0ed658c55c25,2021-03-19,Dermatologue,Suivi maladie,Sainte Susannec,26322
+c513f149-bebe-4644-8d11-1059002c00bc,512b1c2f-d53d-4271-b8d1-e133e635112c,2c7e082b-4e14-4eb0-8c3a-6c303e34a322,2020-05-31,Ophtalmologue,Urgence,NormandVille,32722
+0c59a66b-0712-4361-afcb-95aadf0322da,ce36747c-7a10-4072-8214-8dcf38b4a99f,9a32a6d3-b33d-474c-a16c-3e0a891a64d6,2022-08-15,Dermatologue,Urgence,Ramos-sur-Gonzalez,79446
+9db6b924-4dcc-4bbb-96d0-bf199584632a,6009b36b-3e1b-41e6-9a0b-e582ce9103ab,6a3a1492-65d5-4973-b122-8306694275e8,2022-07-23,Cardiologue,Urgence,Brunet,54315
+e22ddf97-3bf8-429f-94cb-b2c30dc86a1d,d50514d8-323d-4ef1-9467-79f7950a96f2,9542a98a-f9a3-4852-a226-cda526e05191,2020-08-03,Cardiologue,Suivi maladie,Saint Agnès,28684
+c69afe82-637d-4be0-9dd1-d39912cd1a5e,83a485d7-e6b2-4058-8fc8-7c1d503f2eec,1aaf07e6-933e-41fe-8410-7464388775f7,2021-03-27,Dermatologue,Consultation spécialisée,Royernec,51867
+4c9a61ec-4fcc-4061-b43d-6d11bbef17d1,f53f25c7-418e-4101-acdd-397732552bef,341ddfc7-8da0-4162-9168-990d652b5105,2023-11-17,Dermatologue,Contrôle annuel,Saint Margaux,39660
+304c9e48-ce4a-442d-8d5a-d0551ae2ca6b,e3368b73-2d1d-4d8f-8fc8-0999180e8a08,55dbb0f0-3a89-4375-bf58-d4f4c4619c33,2023-04-20,Cardiologue,Suivi maladie,Lesage,06020
+c34dbe52-33fe-4c10-8b54-a87c9eae3a8b,0da65ed6-a31a-4354-9cf6-40647a54af9d,f343445e-4ae5-4eda-aeb8-86787f26b580,2023-08-18,Cardiologue,Urgence,Ribeironec,24135
+b9e835f3-1824-4e62-a726-ec850214e018,cd56d00e-3c32-41b2-a3ec-3b3c0453c23c,88809bfa-7a36-4db7-a7b6-f105f418690a,2020-07-09,Généraliste,Contrôle annuel,Mendès-sur-Mer,63440
+f70ca186-2bb6-402a-9e12-8d0a0663203a,bb9574df-536a-44a5-bc03-529e24e127d0,675692c2-8ec6-42fc-aa91-60945a811125,2020-12-30,Dermatologue,Suivi maladie,Pottier,35072
+9306dc64-cdff-40cc-b30e-86f330acf2da,0484240d-2585-462f-b7c7-ff199a922203,a5b37414-6a33-466b-b965-98fd462c48a8,2021-11-08,Généraliste,Urgence,Giraud,53883
+090d4247-7d2f-4d2f-a4e9-7f2f6703b911,dff772ff-927e-4e3a-8ee7-e3e80627f5ea,add57e3f-fedf-495b-a0f9-c64e448ef923,2020-12-30,Ophtalmologue,Suivi maladie,Maurice-sur-Mer,09330
+7d240ceb-8e8f-4f84-b1f4-a22897ee9c29,a035f813-cac3-4ef0-a62d-dd3f61adfb58,e3961430-2233-44f1-8e05-e037feac6c1f,2024-02-29,Généraliste,Contrôle annuel,Roger-sur-Da Silva,66276
+d38b3caf-f29e-4c2c-b44f-8a190fea5cc4,79ad1d18-049d-4853-9359-108dc6445522,68254953-7913-493a-930e-dbe9fcec74cc,2021-10-31,Cardiologue,Contrôle annuel,Lévêque,56492
+4c25e905-eeec-4aa0-9567-4eaabb8cc9f8,20b3a4a1-fbe8-44b7-aa8b-7d772e0ab4c9,24d9f98c-51bb-4ef2-b2b1-069c1fc88127,2020-11-19,Cardiologue,Urgence,Blin,13969
+71fb96dd-da30-49c2-aa0a-5d1d7afda73d,aa2e8053-ca74-4e7c-b25e-bb054eb5c3b5,d616c4fc-8f27-4ece-80cd-facd8d2ff7d0,2024-02-28,Cardiologue,Suivi maladie,Dubois-sur-Toussaint,49632
+8d731134-3093-4b13-9c02-30be3f440653,241fcf90-8f38-4308-a9fa-9f1d3e54ab72,a73fe356-8c5f-474d-9d19-c275186decfd,2021-03-24,Dermatologue,Urgence,Texier-les-Bains,16494
+ad714e13-cf25-4dc5-8fde-e4f47a95ce6f,21c5c545-d006-4643-8c16-cf15c86251c2,7f31e9b0-4692-415c-97e8-db9145a3d8ba,2023-07-31,Ophtalmologue,Contrôle annuel,Charrier,76445
+2b202944-a88f-4bc1-b887-a394c0ccc2b1,c8dd91d0-219a-4c65-bb42-20f9ab7bb57b,624edafe-6f07-4ca5-82f0-c63a7011efd9,2023-03-09,Ophtalmologue,Consultation spécialisée,Sainte Eugène,32923
+f888d940-2759-49c1-a27c-88e8e6a2ce85,25860293-90eb-4b4e-8454-f9e5ba6c8c8c,7e0e7002-cf4c-4bc5-b9bd-4a4e07dc9fb8,2021-02-13,Ophtalmologue,Contrôle annuel,LegrandVille,31311
+61baf6ec-4d31-41b2-ada2-08c69d0a47f0,3c33c9b6-c061-4657-95a7-a63e1f3cd6a3,2ffc6c8a-e84e-405b-97f0-f2abdeedbaa6,2022-04-01,Pédiatre,Urgence,LaunayBourg,85120
+f27c6993-64ce-4e08-b3b1-3e7d8d7f050c,69a6f6a6-9f93-4ef2-9d92-16fca9bfa4a0,725066c2-73df-4565-b147-ff4bf6c99917,2023-12-27,Généraliste,Contrôle annuel,Tanguy,20404
+8100b681-7beb-44e0-b3b3-ebdda67c8582,5e74fde5-da8a-43f4-8fd7-f776d87ff55f,438f0fec-132c-4f86-bb35-354cdf6472b6,2023-11-02,Pédiatre,Suivi maladie,Masseboeuf,11104
+ce3995ef-87a6-4614-abe1-2b4a03c29b1c,9c0b5a98-a621-47b0-8bcd-7ff325ff6e3f,b1cfca3f-a4f0-42da-8613-17c78470a904,2022-07-18,Ophtalmologue,Suivi maladie,Sainte Éric,99408
+eaf22013-1c2a-4073-82dc-04bffc46de0e,a605f3b7-54b4-4764-9db2-719880f9824c,7f64fc8f-a84d-4e0c-8ac9-aa556ee389d7,2024-08-03,Dermatologue,Contrôle annuel,Bonninboeuf,32077
+47752f47-2302-4cae-ad83-f2baa2daffd7,018366e8-08c2-4ea1-8b8a-3afa9727968e,d9ec9718-e204-44ab-9304-f5a1fe6551e1,2020-09-21,Dermatologue,Suivi maladie,Normand,45258
+acd85a6b-3ac2-4b74-b262-88efba3bc294,cb2be92b-5e7f-47d7-8050-109005794756,92b2a872-5f6d-4958-9b9a-473b893d2fb1,2020-10-31,Ophtalmologue,Contrôle annuel,Ramos-les-Bains,81783
+9117cdcc-5475-4e49-8606-6448941107d9,eba533cc-5e5b-4d2d-a680-c5f3e27bc90b,93e513e9-7bcd-4f10-b269-76b35eed4d05,2022-07-03,Généraliste,Contrôle annuel,Bourdon,20774
+1f815cd9-11dc-4f1c-838e-fb712f9ab4e0,d8218899-9fa3-45d3-947f-2eb4919ba232,db43cf4f-99d0-4e9f-943c-179091d86df0,2022-07-30,Dermatologue,Urgence,RousselVille,94969
+ebe9fb8f-b0be-4b50-a1a9-3e4263256133,8d1f02bb-8c5e-43db-b01f-b3960f452753,a2ab2f32-36d2-4cdd-9649-e0104537a9e9,2022-01-20,Pédiatre,Urgence,Thomas,21437
+b4e9fc31-21b2-414d-ae56-8357a4dcea9c,beb8fcda-cd8d-47b7-babb-fdb9cbd71892,3dc73b9c-9efe-4806-a485-50d68f6b86ad,2023-04-20,Dermatologue,Urgence,Thibault,12662
+26fd3ff1-b292-4b75-b3c1-ff6728788883,3ffa6332-52aa-461b-a4f4-9d741ecaaefc,9ab7beb4-e9bf-4ea5-8ab6-779079fd4591,2021-12-17,Généraliste,Suivi maladie,DelaunayBourg,35062
+7eee5981-a540-487d-918f-3e096f393a60,1422aaea-7d34-4bd8-b499-3e6cdf51c948,a27b226e-f238-4aa1-9d28-b7c8047031cc,2024-01-29,Cardiologue,Consultation spécialisée,Ponsboeuf,20400
+45a6ae42-1647-42a8-bcd1-fbf4bb3a3b00,d0e05cd8-e19f-40fd-a0ad-8025c015e183,d3658c36-9216-405f-8186-a8135482591e,2020-09-03,Ophtalmologue,Suivi maladie,Normandnec,58563
+7bd8013e-3ac8-4782-9a4a-64f8812e766c,3ac04f58-97ae-4e0c-bace-688a920137ec,460fa0f5-17c5-4923-9f92-9c2c9d7572f3,2023-09-07,Cardiologue,Suivi maladie,Goncalves,88195
+b2887ebd-17c6-4d12-b608-88e5f1f8047d,64620d4d-a4ea-4bd3-985c-780b3c782779,48574ba1-fdbe-4fc6-83ee-ccc33533cdcc,2023-11-12,Pédiatre,Contrôle annuel,Besnard,27919
+9ecfecc1-d96e-4002-a69d-5007f1959c75,bcbda804-5882-4ae6-b9e5-938640a21218,af906df2-ef9e-4145-a98e-7648fd7e6d29,2020-02-01,Pédiatre,Contrôle annuel,Benard-sur-Mer,86874
+58db976e-7d45-46c5-adc0-d5e836499166,afa3c888-e2c3-431d-861e-bc1510559caf,e50c334f-12be-4e6b-9e4e-9d7d8add00c3,2020-04-28,Dermatologue,Suivi maladie,Carre,89658
+148de387-deb3-48e8-b41b-09c231cc1c17,5920d146-0246-4205-b530-376f6e62b37f,5fa6d788-d839-4b2e-97a5-099474f6c791,2023-09-10,Cardiologue,Suivi maladie,Barre-les-Bains,75979
+41aa1b16-6e63-4600-a32d-b9e3d5ae893e,9a240ba2-7c34-4814-af57-8acb4360282b,f6a476dc-fef8-461c-8edb-38f50a9cb761,2023-07-03,Ophtalmologue,Urgence,Da Silva,33856
+3cc965b8-2552-4c06-a7f7-a93f212e635a,59f62726-3685-4c0d-b1e0-4bf0dcf88d60,be9b3cf9-42e7-44f5-a8cd-6da07818149a,2021-09-09,Dermatologue,Consultation spécialisée,Sainte Benjamin,08640
+49202e8f-3a94-4b97-8ea3-26eb5ed3db6f,dff939cc-2708-422b-991f-1f52d518810e,d5722a8c-95a3-4011-827a-c6ffe95311eb,2023-07-06,Dermatologue,Urgence,Lecontenec,56287
+fc59c4f7-86ad-463b-a614-d21defe288d9,033d4668-419a-4a47-93bd-214566072326,113e16a3-5ce3-4a61-a73c-2b6414598f1c,2024-08-08,Généraliste,Consultation spécialisée,Delahaye,45460
+73c30141-f218-4bf4-935f-5b59304ee94b,f5bcebf0-f8eb-42ef-84b6-412535b8bb5c,b85edb86-3ea8-4475-9c9d-bd94e06946ce,2021-07-02,Généraliste,Urgence,Saint Zacharienec,05712
+cb6ef65f-f3cd-498b-9ed3-70885b0319ba,f2cf4ba0-642d-484d-b415-d099dee65dcb,30a4c942-d6f3-449a-b22a-14c8d8003dea,2023-10-24,Pédiatre,Urgence,Labbé,49274
+dc742f54-0f5b-4f03-8120-e86ef4b173c9,5cdabc67-f4cc-4fbc-b395-25366d9d7c35,7c8cfff2-0f40-44c1-9336-09a81b02b71e,2020-07-29,Ophtalmologue,Consultation spécialisée,Raymond,98723
+70c98055-c2b3-488e-aac5-f53ff07b3a8b,23abfed9-001d-46ee-85a1-5589d86ea788,7ed3eb69-ef2f-43db-9b81-32067108e014,2024-06-24,Pédiatre,Consultation spécialisée,Sainte Stéphane,29650
+5c90c48f-9880-4715-a599-cf9f5bf4bbf3,9f3ee2c6-aacc-487b-bee0-4e66aa75fc92,9e30d3f1-24f0-4620-a6b0-38fd9b55d4b8,2024-03-12,Ophtalmologue,Contrôle annuel,Antoine-sur-Mer,86734
+6fd3a93f-6254-43c7-8acf-b937e37e5dd3,5c2fbee7-e5f3-4cf7-8a63-05dd8cd7e99b,26706bf0-f55c-4188-b527-01986f5994b0,2022-12-06,Cardiologue,Suivi maladie,Bertin-sur-Blanchet,40371
+a029d1f4-df66-4bcd-82c7-f3450c119d5f,bca3f27b-065c-43c1-9eef-394b20494593,b2b909c5-a6d8-4921-ac3d-f5e1067ae387,2020-02-18,Pédiatre,Suivi maladie,Letellier,54131
+48603c2e-a92a-4b6c-8921-9ca8d5e66d8c,cc5154ec-0ca9-429e-ba43-2cf65100b1e8,ab4ec39d-3d81-4a65-be2b-9274b0a66e02,2024-01-16,Cardiologue,Contrôle annuel,Andre,67324
+6905d754-031d-49ae-8d42-da6a6e4c9151,f6a1f6a1-40fe-4f4e-8b81-cb836a1e6058,f7ccbc87-7a14-4ceb-9519-db614c755cb4,2020-12-22,Dermatologue,Contrôle annuel,Rousset,35815
+4a23135b-a0c6-46d6-b174-f1a42949797c,2c57341c-fdef-4bf9-9027-caf2c871843e,e3d8dc04-682f-45fe-a60a-9ed62b570bed,2024-01-06,Ophtalmologue,Urgence,Aubry-les-Bains,95336
+ff8e3154-293d-4b0e-915a-0bc2104e5968,389ebc5a-2f1e-46a9-b036-f2dc08d54034,5373cc53-1bb4-454f-a243-88b51002ac88,2022-11-22,Pédiatre,Contrôle annuel,Leblanc,35479
+ccca333e-30c7-46d7-b6ae-838ea2e9ee8e,431df44e-d5a6-4649-9e0f-929a7af296df,69e81b20-cf01-40af-a793-f14d50691a0f,2022-08-05,Dermatologue,Consultation spécialisée,Sainte Thibault,54913
+043411be-dd4a-45f2-8625-fe986ff8ef7f,0746d80b-fea4-4468-abfe-375132fb958b,aaed9c2c-5556-4a91-8f3f-c37a7b0e2e08,2022-03-07,Cardiologue,Urgence,Colas-sur-Reynaud,03343
+844d8ac3-721c-4d70-8d4e-9db100b4ab22,23fbddfe-0d00-4bfb-b59a-8519c238008f,e881cc85-e832-4084-bfbd-3fd685120d6d,2024-05-14,Ophtalmologue,Urgence,Carpentier,12309
+2a997d5f-7dc3-4f90-8cb5-5654023d290c,0c440051-8453-47c2-83f8-50e7ed54f4d1,2a48f80a-77c3-4e64-b087-d238e3a2d29d,2023-04-28,Pédiatre,Urgence,Paul,30629
+65b3889f-bbc8-4330-87f3-2eda1f54293e,3ff1f145-018e-4a2a-b371-4343ab7c4dd8,4a1108f4-3272-4fa8-99e3-3fd836b50427,2023-03-26,Généraliste,Contrôle annuel,Philippe,00832
+e554494e-bbcf-49da-856c-124a167ed55f,61a6f62a-4c94-41eb-9626-7475f4914fcf,1eff0747-a2bc-47d7-a429-fe0dbc2b04e4,2022-05-17,Dermatologue,Suivi maladie,Perrin-sur-Michel,67677
+5b3727ac-8d21-4189-8b33-79c962746e9f,6d880beb-693d-41a9-b901-b7639abaa92f,f6018dc8-6bae-4f1b-b0ad-288c218f28c2,2022-08-24,Dermatologue,Suivi maladie,Saint Éléonorenec,50069
+c3b9ba0b-0287-457c-bb15-253546598db7,c73b1a31-6577-4e83-bbc9-1df5d642b496,5a053885-ec1d-46ad-b316-08a0eb370239,2021-07-13,Dermatologue,Consultation spécialisée,Millet,75684
+acbb11cc-d3d8-47c6-9dd8-adf01d3c1fa4,d6c5db91-59e6-4146-aca8-6bfe2fb5e451,0d456643-a9e0-4d91-b39b-7416912a42c1,2021-08-02,Pédiatre,Urgence,Rodriguez-sur-Dufour,71501
+5533432b-8a03-480b-8d6d-3d7655f06928,82499d02-4072-4bbc-9c20-823d3eebfc9d,94362d02-e811-456a-9777-5a90f05c06d6,2023-07-26,Pédiatre,Consultation spécialisée,Grenier,67121
+4a564b95-488a-464c-a46c-5f8b31f07308,90de834d-631d-4a0f-b39b-db6e52411ee0,5698565d-8647-4344-92bc-a3c5f5de0902,2023-07-25,Généraliste,Contrôle annuel,Legrand-les-Bains,35340
+1cf85d09-f025-4df4-b605-22bdda9f85de,d22f6117-3bbb-40ca-a994-11127dde5b0d,c48c058b-c946-4e35-83ce-93bce4dc3568,2022-03-08,Dermatologue,Suivi maladie,Renaud,47584
+0cebbae4-c41b-4ff6-98e6-21513b422d18,a16cda05-0d71-467c-a2e0-2b821363a691,30c18379-88d9-440c-bd43-c00e058093d2,2024-01-13,Dermatologue,Suivi maladie,Valette,48431
+8de24533-b777-4f83-a441-737cb776ddca,0d14744c-6b1b-405a-b5d9-239521726a69,bed08ec1-40fb-4bf3-9f82-9aba9bd28a68,2021-03-21,Cardiologue,Urgence,Marieboeuf,63917
+19255c4a-11bc-4be0-b514-b4df7397a46a,9ee66125-68ad-4caf-9698-9b63da79dbb8,ab2aabcc-8e9b-4402-be79-9bd30b92efa7,2023-09-10,Pédiatre,Consultation spécialisée,Couturier,25126
+8fa6b973-fb66-4646-a11c-621702f93d40,6eff1498-da4f-45ab-b17a-7fc0bf8da93d,3c5d54f2-fb3b-458d-9406-41dab131cc78,2021-10-23,Ophtalmologue,Urgence,Fleury,27230
+94e8b694-5764-41d1-ae50-989b745d1eb7,c99add8b-da03-482e-8a7f-acd901a1223d,09909a31-d360-4647-9695-4afce29d5304,2021-02-14,Dermatologue,Suivi maladie,Pruvost-sur-Mer,51643
+c160a611-10d5-4521-a752-13d947f08ad1,7ff0ace7-8562-4dfd-91fa-6e21c1162469,e38807bf-3291-4336-b3d4-9d777bafe64b,2022-06-23,Ophtalmologue,Consultation spécialisée,Fournier,68715
+a4ba0de4-8126-439d-ae08-1f659fc5518f,9ae49ba7-fd2e-4f57-b843-458dc0eee62c,6ec22ba2-ef7e-43ed-8b5c-76bf99dc39a7,2021-04-14,Généraliste,Consultation spécialisée,Sainte Tristan,43373
+e2aa8bf3-b395-4432-b9b2-e0c44554efe1,61252ae6-d26b-4d3a-bec1-0eed23c02789,2248d24d-2542-47cc-bfb3-4ff93557cddd,2020-08-28,Généraliste,Urgence,Guibert,99404
+3772b3b8-f8fe-4cf8-83fd-9d7f8db2592a,2eaddece-28cc-4666-9da0-fa6ee063041f,649a97ae-3bdf-42ce-9fa4-c36b9c9c1ff2,2023-04-07,Pédiatre,Contrôle annuel,Albert,95680
+e279f7a9-f090-48a1-821f-7daa26753db4,0a7187e5-0d47-448b-b18f-9f4ddc791ee2,e848b87e-066b-4238-b0b6-cbe37a4be3dd,2021-01-17,Ophtalmologue,Consultation spécialisée,Maury-sur-Bourdon,94139
+ecd84c92-3e11-4d34-9661-0b04c57b602f,463b6ca8-561c-417a-88ca-9d3c7efd5a70,d570fc8d-d746-4d07-80b5-2cc758487c25,2020-12-21,Cardiologue,Suivi maladie,Sainte Alexandre,18994
+32a3428f-9c9d-4984-9ac8-a6a7ada5f266,b933c243-25e3-4bea-95c9-d0e694ffc8ba,208724bf-d475-4b38-ba18-f48dd6016ded,2024-02-02,Ophtalmologue,Consultation spécialisée,Gomez,14761
+1a792c4f-f2fb-4a16-8358-d409fa688cdb,9535f473-d451-4248-a3af-0f3267e238de,4d31aae6-e6a0-4362-9fd3-9eea70f30261,2022-12-02,Dermatologue,Suivi maladie,Benoit,66332
+68390295-52f2-4406-8930-f9de6d04eef9,916ac1d3-cb94-48b6-8f43-a594c88e1865,88f5c92e-9084-4cc9-8028-a54f280fbb57,2024-06-17,Ophtalmologue,Suivi maladie,Pasquierdan,22782
+a2163321-53d4-4753-a943-0fce2ad7186e,eade1b5e-0be0-4b9f-81b2-bc8ace2f03e2,18ab94f1-b227-4914-b7f9-68b8bd4bb1bb,2022-03-16,Dermatologue,Urgence,Dos Santos,69921
+70e3ae05-0994-4fe0-acdc-6d952dd900f9,f0ec0d12-670c-428c-a388-d6eb2337c110,28ad281a-148b-46f2-9a70-cb71b2fabb5f,2020-08-07,Dermatologue,Contrôle annuel,Sainte Timothée,50762
+44fa06e2-bb3c-4507-8adf-83291ecb15e8,ec5c3602-c050-4388-8222-3cba3b1ce404,8f472035-1201-49d8-a211-45ba8860af5c,2021-01-17,Cardiologue,Consultation spécialisée,Saint Adélaïde,03870
+adccbe8b-475e-40e4-a165-0a31a838a974,6adcadcf-a02b-4e76-965b-a28088655b65,a6b3c4c1-a5c8-414e-acca-0f008e86ef2e,2023-01-07,Généraliste,Suivi maladie,Bonninnec,90208
+97b97d7b-7c4b-4fa0-9df9-82b011bce0c4,4dc6225e-7b7d-4eba-8492-02074a4d708a,90b4bd36-aea1-4912-9eb0-eae1618f38e1,2022-03-24,Généraliste,Consultation spécialisée,Tessier,53614
+adcc5a80-85da-4863-b38e-40ec9f1b0178,927ac8c6-1adc-471c-817c-ec76c9fadef7,866dbcda-e37e-4b11-8574-e64e12803976,2023-11-11,Ophtalmologue,Suivi maladie,Lucasboeuf,75869
+fa1129ef-ee1e-483d-b558-382913831369,cade0bed-09a7-4ffd-8a3d-7ccc8bb57fc9,53d0df6f-82eb-46cd-b245-8a300977016c,2021-11-08,Pédiatre,Contrôle annuel,Parent-les-Bains,46683
+ecadb157-952a-47ea-adcd-015ecdbe7376,ec27b18e-2921-4223-99e7-9ee0f7a75c16,4533b2c0-6e93-4613-ba0e-71e9fad8879f,2024-01-23,Dermatologue,Consultation spécialisée,Sainte Émilie,89257
+33796fa0-55cb-47b9-87bb-30eca455c2a8,c2c6f46b-0020-4b6a-946b-174e93fc85ca,02b72791-f240-4bb8-a42c-d72595371ae4,2024-06-04,Dermatologue,Contrôle annuel,Maillet,51579
+ba171ca0-4e9e-4877-b112-023c992e3ea4,e3edc5c3-6526-4e0d-9edd-cac469c92190,5d2c03b0-195d-461f-bad3-f50da4878b9a,2021-12-23,Généraliste,Suivi maladie,Sainte Adèle-la-Forêt,31970
+1cfce852-9cc6-4dc7-9f7e-3a331bf543b6,62d357b9-f133-4a45-bb7a-df13feb2ff59,b7758a65-1750-4cd2-89a2-5ac89bf88834,2023-12-06,Dermatologue,Suivi maladie,Texier,95037
+5fbec5ff-6abd-4ea1-9190-ab3d56868307,e195e207-757c-4b2b-b570-10a933924c10,250364b3-9069-458b-abee-a7c49faefc8d,2022-02-14,Ophtalmologue,Urgence,Pruvost-les-Bains,23669
+2de5aa51-9184-4ace-8029-c0e3f4983c9d,1aa6f1fc-80b6-404e-8221-de33370a7518,36cf95f5-7e91-4bf0-9fe5-ae645bdfec4c,2020-03-16,Ophtalmologue,Contrôle annuel,Sainte Margaux,30563
+67968aba-cc46-4cd3-b402-333cc3f59995,a04fad50-d74e-42c1-a240-c41ae92cad3f,17ce7350-f122-4307-88a9-108acefecbd4,2021-05-16,Dermatologue,Consultation spécialisée,Mallet,66784
+e63a8267-d806-402d-82f5-8decc26ad194,600d6927-5937-4247-b152-2b2f1d9bd3e9,b9df6f48-d211-45e5-9c58-80e8487b61e5,2024-06-28,Dermatologue,Urgence,Sainte Diane,66998
+352832c8-65f4-440c-9767-f7795b53e638,cb762eca-ff1e-4f1e-a8e4-81ad36a73731,9c7f2c0f-4fd4-4f99-9515-65477d587cc8,2020-08-31,Cardiologue,Urgence,Besson,12918
+9db0f93f-32cf-4c58-9005-76f7f9e02779,ed26560a-1099-47fd-93ce-3b6c2a3210a5,ab9481a8-2c6d-4cb5-abe8-582d5f04f9b8,2024-03-29,Généraliste,Consultation spécialisée,Blanc-sur-Leroux,31950
+7114a1ea-9d46-4dc2-a9d4-ddbf2b5eaf29,b520cef7-3ac0-4c3e-9956-049ff1a4f720,d53c6c09-fa70-4cf5-bfe4-145191db7b25,2021-12-24,Pédiatre,Consultation spécialisée,Georges,25404
+2f524eac-d0cd-4ff1-9eb1-7e4882fdb27f,c04c8eec-d9cd-45c6-833d-8ca5f1ce8b64,798fea63-8de0-44e8-92de-509e556c5cfb,2021-04-08,Pédiatre,Contrôle annuel,Camus-la-Forêt,71938
+ffa623ea-d703-4b0f-ac07-0f15ca61d6f3,50094031-12dd-49cd-8f69-00ba85fddd7f,a8b158b3-c331-4b82-88d7-4bd140c916fc,2022-02-19,Cardiologue,Contrôle annuel,Bouvet,85936
+26ea7f8d-ab9f-4948-ba35-dbbecaa30035,6c82ca7f-2c9c-47d7-b24d-786f1b4d49b5,54876a5f-7668-416e-b58f-b5cc562abc2d,2020-08-15,Ophtalmologue,Consultation spécialisée,Chauvet-la-Forêt,54255
+1eaf6ff4-0482-4e4c-b8d8-41c6e589514d,cb11c187-bd44-4bd8-8505-e7462535b058,24aac972-8401-4797-9a97-00ad44fbeb92,2023-12-25,Ophtalmologue,Contrôle annuel,Sainte CarolineVille,09712
+f1ef98e4-c22a-4909-97da-b8dc80e3fab9,84676cc6-d0f2-4863-a334-7fd7b6b0c261,064804be-d2fd-42b5-897f-47c0d1f709f1,2020-10-21,Ophtalmologue,Contrôle annuel,Denis,98613
+516cb802-1212-4a3e-895b-f58ef767c20a,395a48f7-46ad-4b6c-99fb-5506949a8f60,491c0a0f-655a-45b7-91ca-8db9bfd48d7a,2024-05-01,Dermatologue,Urgence,RuizVille,87196
+dea1ddee-13f5-4528-bf24-d427f6576397,8bae054b-311b-458d-93e8-653d63f4be1d,0934c88c-72a9-4f29-944b-6feb962269fa,2022-08-03,Dermatologue,Contrôle annuel,Sainte Martin,58577
+5c970a2e-6b8d-4255-9287-c0851f3c4848,c820323f-cb1f-4ef8-acad-f6de16168713,2240d6b9-f9cb-43db-82bc-4af1037e170c,2022-05-22,Pédiatre,Consultation spécialisée,Dupréboeuf,45276
+105b4b8f-665f-4bbe-8022-d838c3ee1046,27dd40ec-65d7-413e-8da6-764b2641b63c,1bc18738-4bef-4ef3-a22a-1157e0a68606,2022-06-16,Généraliste,Contrôle annuel,Pintonec,18652
+c2753d43-e29c-4e9b-a308-95ab2118cbf0,c1fb37b7-018a-4c89-820c-58e0332d32fe,55dac9c2-e129-44cf-9722-d9393e5d1e69,2024-04-18,Ophtalmologue,Urgence,Charpentier-la-Forêt,69426
+ef1d9af4-4491-4da5-b087-7138481d8124,7aa6779b-1575-4ad0-bcbd-ca5c2627b817,80fdfc6f-cb02-4e38-9f9e-457d52604090,2020-02-11,Cardiologue,Urgence,Saint Luc,14870
+a4df1606-f44c-4769-8e07-1bcb7f34b631,df520a83-920f-4f7d-a798-e006df5502c5,c762f4a1-06d4-4170-898e-ade0a4e9c2ff,2024-04-15,Cardiologue,Consultation spécialisée,Saint Alice,47856
+6c4c7cac-8084-49e4-9b57-39317cd89151,1aea2ee1-254e-49ed-a527-d43ad4ea3979,ab63905c-47c1-4791-a4f5-eb97cecbd40b,2023-02-10,Cardiologue,Suivi maladie,Roger-sur-Mer,97773
+76c36622-3ed7-46ad-8d25-f80b18d0978b,bb96e180-779f-49cc-8d6d-ff9106bd1a2f,c2102632-5a26-4c50-99fa-ac55efe02d00,2022-09-28,Dermatologue,Urgence,Becker,21448
+4fb7f60f-8d3d-4f27-a36f-aa746be9aeeb,3a36b0a1-1f7e-43c2-9764-ab5cf41173e1,8281e2c5-a913-4b0d-922c-e5a5e2a685f2,2022-04-23,Généraliste,Contrôle annuel,Gimenez-sur-Fernandes,40023
+327af429-a571-47dd-b859-27a126007095,92773616-05a4-460c-8500-b3b173a370bb,7d321bfe-fabd-4c7b-81e9-1dd2bc9c543a,2020-07-15,Pédiatre,Suivi maladie,Thibault-sur-Gosselin,36030
+9af0c323-267c-4724-8a32-e0645bccd913,e489671f-2219-43ae-ae27-7070dd465ec1,af85d16d-2ea7-4be2-8de3-2294bb4f19fb,2022-06-03,Ophtalmologue,Urgence,Renault-les-Bains,25915
+318b825c-401a-4ffb-afda-7e7dcc08bd7c,3d866fee-43c9-42f1-8811-76a9d1ffbfa3,653f2fa5-76f6-4159-89c3-1b12ba849414,2024-08-19,Généraliste,Urgence,Benoit,73977
+7ef5f56e-0986-4556-bad3-96eb040bedc1,6ed17076-598c-40eb-b317-509faaed1369,1e49ef32-8ee0-44f5-a335-9fe09e1c88e7,2020-03-09,Généraliste,Contrôle annuel,Saint Émile-la-Forêt,83080
+7f3cee98-976c-4deb-b8ed-233d94e19ed8,1194d08f-baa8-4a63-8b0a-d9f51cb5da9c,24dbc4ad-4a63-4242-81ef-be0c0e7bed6b,2024-03-31,Pédiatre,Consultation spécialisée,David-la-Forêt,41424
+fd787cb6-0e8f-42ef-b29a-cb1757a85262,0bc8db87-0e6e-4692-acc0-871aad070242,cb65c27a-f254-475a-9f16-fb5efea782ba,2022-05-22,Dermatologue,Suivi maladie,Bourdon,59898
+134a8f72-8be0-4ebc-9752-71f8be782619,1602025e-be1a-4f58-b2c0-b97a0c50d298,35501d40-0c48-4d95-a0ea-36cbb8918eda,2021-07-24,Pédiatre,Suivi maladie,Saint Alice,02411
+4f739f38-b036-4e42-bd70-79bade4706b6,7def5051-51c7-4194-a881-0495d4f09624,be4c7d8b-c03d-4720-afdf-1c465435645d,2020-09-03,Dermatologue,Suivi maladie,Saint Alphonsenec,83017
+58624671-6726-45a8-859e-14ec4cd78c72,1e976192-dbd0-42c1-9420-7ccdf721e77c,3e58b003-2b1d-431a-a08f-d58e563da79d,2022-07-19,Ophtalmologue,Suivi maladie,Dupontnec,67414
+7d113c35-c244-4447-8d1f-60d6b482bacd,48584e53-0a56-4dd6-83d0-f494fb33bb41,a4d1ecd2-de3c-4558-898a-a376e93f8e3b,2021-03-31,Ophtalmologue,Consultation spécialisée,Didier,13602
+3265a1cf-85f8-4d17-820a-8b2dc2ac61b1,4bd854fa-f581-4299-9b3f-d3191eac1cf7,1b8bb668-0c91-429e-9236-0d5d41cec838,2023-05-24,Ophtalmologue,Consultation spécialisée,Marion,21429
+7cc54681-07fa-472f-8abc-7d4f2ac656eb,94c759f9-a9cc-4586-94a3-654842d4d8f7,1b081e88-e884-483a-ba2e-d27111c651d7,2022-07-06,Dermatologue,Contrôle annuel,Allain,21698
+c4bdf3e4-c14c-493f-b9aa-b3e8b1de64f0,c342d869-aa68-4a71-9957-472197f2c71d,72bb936a-8248-4ad1-9efb-831aa380cbdc,2023-01-23,Cardiologue,Urgence,Potier,83735
+09e2cf5c-35d3-4649-9f5a-76c802c21410,6aa61f53-b9f4-4d31-b899-2ba4b27557a0,3b6bb401-bb17-4c53-8e1a-d87689691adc,2023-05-08,Dermatologue,Consultation spécialisée,Sainte AugusteBourg,01304
+c5008e47-bd6a-4c08-beec-f7b769fc44ee,e4fe5473-039e-4035-a502-b87d144fd436,842ced41-db61-45b1-8609-fec9a063970b,2023-02-02,Ophtalmologue,Contrôle annuel,Valentin,12004
+81c28f99-e391-442c-8a8c-b52709c0bb42,7d254592-2164-4efb-8b09-92e67408eec8,fc4af72a-a755-49c7-bc94-d9f5eb1d7493,2021-11-05,Généraliste,Consultation spécialisée,DelormeBourg,81200
+8df7fa39-f611-455a-8c20-77895bb57426,00d930ec-a60a-4885-b3f2-e1224a9b7f96,17ad6118-807a-4d75-ae9f-4841f5a9e6c3,2022-05-07,Dermatologue,Suivi maladie,Sainte Marc-sur-Mer,26470
+f560652d-1e5e-4a06-8bd8-10ead056777c,fc20a34c-2dba-4597-ad24-130a06ada726,db987b6b-28e1-42d1-8c8a-64598b7268d5,2023-02-22,Ophtalmologue,Contrôle annuel,Menard,77620
+f88aef51-2bdc-4428-9f13-19378df9965a,3850581c-6cd3-4138-b333-f9876bb3102f,b37faf4b-c510-4bbe-a430-a9ac7b1a64e0,2023-11-09,Pédiatre,Suivi maladie,Lévêquenec,38029
+ad862306-fffe-4941-8a8d-f8ca8d4b00d8,9c4b7f0e-0f09-4c05-accb-27c58ad6b8f2,f0294974-e637-4569-8617-1726993fd176,2023-11-08,Ophtalmologue,Suivi maladie,Bouvetdan,58342
+f9e5fb0b-6290-4d2f-a44e-bfa3d3b76957,00f830b7-a433-4b64-ab53-1d22724c7199,b8244de1-8497-46ec-90a4-ded44912e273,2020-04-01,Ophtalmologue,Urgence,Sainte Arthurnec,45658
+9af86c97-53df-4a00-952d-1d14d30ecaa9,15e76add-77e7-4ea7-9825-942e7e55d2fb,646c78a4-80de-4fab-97ae-098bdf1ba63a,2023-08-04,Ophtalmologue,Urgence,Mathieu,22603
+a685597e-602c-4e8f-9106-f57592eb5146,99f86f81-4e28-4059-af8d-da9caed01e60,14cdfbbd-6a9e-4a65-9253-b0b6707150dd,2022-05-18,Cardiologue,Suivi maladie,Morin-la-Forêt,28678
+3ac001d6-f4a1-4af2-8ef1-237ad36fd82e,1b2ff022-51ea-409a-8567-ef8cabbaa9b4,49b2f36e-700e-46d1-8a01-4efdce00213a,2023-05-24,Généraliste,Contrôle annuel,Toussaint,62373
+e7a366c3-200f-4f87-843c-31c3c0224cee,796dc63e-d4b4-47be-8b4e-03c3abe0987f,d4bde723-497b-4cdd-8bf0-6a6daaf47d40,2020-11-06,Pédiatre,Urgence,VincentBourg,44466
+d4be6a6e-79fc-4696-9c96-19ae4b0d6057,781aa56f-29a9-4c0f-b566-2eca0c2aa56e,fd88b7ee-f44b-4829-bd55-b30fea9d96d6,2024-07-11,Dermatologue,Urgence,Jourdan-les-Bains,41872
+e4b6910c-61f2-4def-8d86-968ca855d6d2,04f46118-cce2-49da-891c-56096e522a6e,342c28bb-8af3-4270-a7b7-00a3c8374a55,2021-11-28,Généraliste,Consultation spécialisée,Chartier,53793
+e981e92a-a688-46cc-9305-03b02a25dc78,89a409af-737b-4cee-b0b2-076217984730,bef54ce0-5457-4430-ba02-f4ee8468c71b,2021-05-28,Cardiologue,Consultation spécialisée,Godard,66186
+a29e9bb7-0451-4ebc-9b80-6f15aeb4c792,cd685fcb-749f-41df-8b0b-ebfc134b10e6,d269c449-1223-40ec-be5f-2ce264a9a453,2023-10-30,Cardiologue,Suivi maladie,Rivière,52100
+1775aaf4-c3c8-4d93-a5f0-9b64c0f59e59,e5d827ac-d8f1-4721-9ef9-9ea89cb1c7e2,d2be2351-e843-4b07-8d91-301fbc70b902,2022-01-30,Pédiatre,Consultation spécialisée,Saint MarianneVille,09315
+18374f90-5f06-4245-868a-05854d60ae36,71d7fa1e-9e00-4f76-bb3a-a709aa7cef0b,1a3ea1e7-c3e0-488f-aee6-98938d1ab63f,2020-12-23,Cardiologue,Suivi maladie,Sainte Frédéric,86653
+a9b260f3-54b2-4066-a61d-19daec4c3974,43d1349d-8ac8-45c8-bdad-9e39990329c7,996fbbbb-3589-4636-988a-dba0a27ed1d2,2022-07-26,Cardiologue,Contrôle annuel,Dias,83545
+d4d8a062-9436-4516-b55d-734f5040eb18,70aacbe7-85e9-44cc-bc49-cbfea0215714,de87b938-9335-4daf-9e8a-71259cd887d2,2024-02-13,Pédiatre,Urgence,Dias-sur-Mer,82461
+68088532-e4eb-47e8-baad-299e876d454a,9a7ea1ac-f637-4717-bd6b-20d24d1dc12f,ed1216ef-3ac6-4cbe-a689-49a5541c9e2f,2020-08-03,Cardiologue,Urgence,Saint Margot,96303
+ba13ebee-f4c7-4117-a382-d35c38ad6393,f634031c-b90b-4152-b724-459a82b0f2ec,3e18819c-2208-4945-97c5-c3c102d3ed5b,2023-12-14,Généraliste,Urgence,Dijouxboeuf,90442
+908785bf-06cd-434b-8e1e-6da9774e4217,afb8c1bc-0fdc-460c-82cc-6e13789fd130,992c83a1-542a-47d8-a5c8-ebb64d09a536,2021-11-18,Dermatologue,Consultation spécialisée,Sainte HenriBourg,14727
+54c7002d-09df-445b-a5ed-fa7c99164058,fdf7592f-a577-41c5-a770-e3dff6dd02bf,ccd7c260-c0c9-40cf-8925-73104491ce4a,2020-10-10,Ophtalmologue,Urgence,Étienne,88268
+c282f533-91e2-4aea-a654-6cd41b5b7752,ee15d511-4c31-4c5d-aa28-b4551a922be0,3d43b37e-8ac5-4d1d-9e5a-a3fd2f4e32d0,2020-07-08,Pédiatre,Contrôle annuel,Marty,09868
+8fc4db85-b406-4ecd-b770-74502da6bb30,4d08503d-6a06-4bb7-b70f-c31e1b3f3945,7d460042-1f0c-4f47-a3a2-eadea5d2d838,2021-07-10,Dermatologue,Consultation spécialisée,Saint Jérôme,06856
+746f61ff-ca54-4709-a19a-26a0099d8a27,1b1a8968-eeae-4ac1-bc3b-5266c997384d,5feb921c-59dd-40b6-908e-387e9233372f,2023-09-08,Cardiologue,Suivi maladie,Legendre,14079
+0b30c2cc-408b-4397-8b56-62c066722195,2b951a38-ee13-42c8-be81-d4a5fdfeae80,c2677d39-4480-471e-9876-cb088e3b1851,2020-09-11,Généraliste,Consultation spécialisée,Saint Danielle,19178
+830bb307-bf35-4b2c-bcf4-f589535bdb89,4973e772-274b-4b8a-ab0d-83182301cbd6,bf11c66e-786b-4c10-9beb-1b9ba6e51bb2,2024-08-22,Cardiologue,Contrôle annuel,Schneider,67685
+1d12eeb4-1362-4239-9ca1-7bf03f9383e4,965a90cf-d330-4c49-8cc6-1a7b0961bf6e,3a078291-49c2-4527-ae6c-42d09138f7cc,2024-06-20,Cardiologue,Contrôle annuel,Saint Annedan,23969
+40eeecab-7611-4588-9f31-007fdf053252,40d4b543-7107-4500-9c06-cc6480f56057,e89c4181-379c-46ab-901c-4493ce82e512,2020-07-15,Dermatologue,Contrôle annuel,Bonneau-les-Bains,46196
+8d948de6-57fb-4c37-b49f-9e9a777633c2,f7b3e877-e225-466e-82c3-5ebb8eba8c3e,f26348a1-28f4-45e5-ad23-8ff43a25a94e,2024-07-22,Généraliste,Suivi maladie,Grégoire,46576
+dcdb7589-5fce-40c8-99c1-9031d9b3058a,fe3e30d3-db27-487e-836c-b62b32b85b29,fc1ad397-afa7-4cf6-9b1d-cc9adc7ad278,2020-11-01,Dermatologue,Contrôle annuel,Diazboeuf,36048
+352a64af-7ccc-4d22-a84b-18a88facdc30,d4f8cf80-94c9-4c61-83a1-70088a733738,87704b38-b8a8-4ca2-b9f8-3fe922dd76be,2021-07-26,Pédiatre,Contrôle annuel,BlanchetBourg,49190
+946aaf0d-b905-49c3-87c9-7b174a35fb2a,b40d9197-d4e5-4c87-927b-efa368640f56,ba7cf70a-104d-48f4-a9f6-ed0dc5dac20d,2021-09-14,Pédiatre,Contrôle annuel,Boulay,37535
+8d931e4a-8793-470e-9747-894dfd675138,1debe329-6083-43c4-be3c-8675c81917a8,21a374a7-e0a5-4ec1-b331-a6ca591fb29c,2024-04-02,Dermatologue,Suivi maladie,Henry,63642
+d0a4874d-5acd-4655-8bea-a91a34caf057,1bdc7496-f9f1-4f5d-a926-c05be38405a8,da87edea-e274-45f7-b34f-9718fa6241d7,2024-02-17,Cardiologue,Suivi maladie,Vincent-les-Bains,41536
+2e07bd39-37f7-4564-85fe-6fa82482b404,682358e0-7c66-4054-8bac-c3e925593b98,51482eaa-461c-48c1-8670-562c4c2119be,2024-08-08,Ophtalmologue,Consultation spécialisée,Sainte Mauricenec,37996
+61dc7305-faab-4ef0-a1dc-f2be2e22bd47,0cfac89d-01b4-42c9-8564-ff6d8004f508,cf01a54a-65cc-4daa-a2ce-612b23739859,2023-11-16,Cardiologue,Urgence,Pinto,76518
+5deb08f7-58a0-4879-b336-91a68955338b,c0f50ebe-0aa5-4f4f-a71d-ebb5ca532ca8,31bda3fb-bb3e-479d-a2e8-1da44f57351e,2021-06-17,Ophtalmologue,Urgence,Poulain-sur-Neveu,26615
+19dd4c38-9b58-49bc-93f8-c6d46fb1aff7,b88e35d8-f711-4b05-8709-29524efb232a,8ca965da-11b2-46e0-8089-521dbe2d4a5a,2022-07-18,Cardiologue,Consultation spécialisée,Pasquier-sur-Martin,95101
+8f6e4f44-fbdb-484b-b192-0593e12ea1e5,b3987f76-2a56-4586-bac2-2a1ce1f80165,4b0495aa-e94e-4fbb-a42f-651cb3b7257f,2022-02-19,Cardiologue,Consultation spécialisée,Saint Denis-sur-Mer,64259
+48cbc43c-83b6-4f67-ab7b-4415db7762bc,74d8b803-3bf9-4c14-9344-96da6de1e5a1,66afdccb-5beb-462f-9f90-26438d22d071,2023-06-13,Généraliste,Urgence,Morvan,36729
+bd3d945e-a8e9-4abe-b2aa-2047b137d8ae,80546323-932b-42d6-87a8-c1046394108d,c1e2c806-8acf-4dfb-b87f-916992ce17c1,2022-11-09,Généraliste,Urgence,Josephnec,42857
+307faaf7-71c4-4d89-b64b-875e6814f28b,6a289f16-a03a-48ca-92d4-3aff5cf85365,bb04f764-7212-4ceb-82d7-322f09284bb3,2020-03-14,Dermatologue,Urgence,Sainte Aurore-la-Forêt,38075
+89471d27-23c7-40ff-87a8-643f3cc293d7,f70b28e4-a000-4751-9319-89de14dc6187,98668516-08bd-4916-93ff-cbf740553c4f,2021-03-25,Généraliste,Consultation spécialisée,Chauvet,29631
+4d96f20a-1825-4c4a-9c21-7be760b1deb1,393872f1-aa54-4c91-ae93-050dc4145fd9,170b3acb-89a1-40c7-9282-9ba0a9b4501f,2021-02-12,Pédiatre,Urgence,Sainte Juliette-les-Bains,68426
+adcfc952-4d0c-4af7-87b8-fd96dad4adab,2a835183-5a04-46d9-ac57-2c3c953dde54,d3667682-b2e4-4227-929a-2ade1c3c329e,2020-04-15,Dermatologue,Urgence,Legendre-la-Forêt,61514
+e3cfb8e4-ed02-4f98-9474-f015ccbe78fa,ad447699-2e24-4219-8812-c94572ae2d81,daad2016-d95d-43ba-8051-327cbadeda03,2020-11-14,Dermatologue,Suivi maladie,Perrin,01866
+c48ef134-314c-448a-855e-f5d09ad9b4fc,79f7fe47-e5fd-4973-b1b4-d3deac7b2a05,9c4ff16a-e447-4b7b-8fbd-31ab4257ab17,2023-07-18,Pédiatre,Contrôle annuel,Noël-les-Bains,33327
+c924a487-2c55-4774-8892-0fd6e2edf989,a17388aa-b740-409a-9f63-85e16d71ffb4,1dcf7878-c5a3-4f86-b7f5-765e257f11c5,2024-04-02,Cardiologue,Consultation spécialisée,Lecoqboeuf,18047
+38413750-28cb-4819-b2ad-99b99e84c44f,8a319cd1-7670-4058-815e-09f0c76bbeea,d3c6dd94-c233-4a3f-b1ab-8645e51f66b2,2022-07-13,Pédiatre,Contrôle annuel,Couturier,50787
+a36f5e89-c6ea-4af3-9e0d-ca6ff07c4b05,30cbbf56-f493-422f-8060-fb067e8c49ae,b921da30-3e4c-4e41-83b0-25d7f9a8cb0e,2021-05-12,Dermatologue,Urgence,Buisson-la-Forêt,46328
+966261cd-a0a2-4560-b71a-dfaeda93b16c,f62b3e26-6cb3-4d24-a3d7-39e3622c026b,ab4e026f-c410-438d-9180-2f8df2c4c30d,2024-08-05,Dermatologue,Urgence,Guyon,33793
+91036bea-83ff-493e-90e6-3ae549fb769c,5429a062-b432-4ed2-b76c-3e0f69d40c90,2beaf460-b9d3-4f9c-90fa-b24bfc19c365,2020-01-31,Pédiatre,Contrôle annuel,Devaux-sur-Mer,36014
+caaa5de9-a896-4d11-9db2-9a0a12b3cb21,acc1bf9c-6731-4309-a22b-8577c77f94fa,d8692e59-468e-4198-bc43-76d70a94deef,2020-05-19,Pédiatre,Urgence,Marty,28784
+dbe7a677-71dc-4352-ac84-61af9a66dce0,c34a232c-73da-44b6-a968-dfdc354e4d65,4def7e6b-2135-4466-bdac-2aa9fe8bdea8,2022-02-25,Généraliste,Contrôle annuel,LejeuneVille,08114
+a94dbf88-526c-4872-a5ce-72e4f8e93d80,d4273206-7d6f-4773-921f-5656fcbf6844,e1731745-b502-4d5a-9d0e-a8ad23bb8303,2024-05-05,Cardiologue,Contrôle annuel,Bouvier-sur-Rey,35002
+9b345f82-38ce-40e8-ba61-85f673ede5be,7eda5ebd-af77-48d0-a114-f80368df4e1f,d1158f43-555a-4013-9fc3-002c747ad6da,2020-11-11,Dermatologue,Suivi maladie,Jean,25412
+831cbe50-da13-4497-a98c-259d9d5803c6,03341447-b380-4e8c-a3da-17327d17e9a0,80e954e8-a634-4330-87a4-290f27f0456d,2021-12-14,Généraliste,Contrôle annuel,Raynaud-les-Bains,75247
+bbf8fcd0-f6e3-4cb9-8f5a-ffd88b46eff8,ff2b9c60-27b8-4d8e-ab4e-c9f766d5bd69,b67866a9-7778-4f52-b6b3-835b68357d99,2023-03-25,Ophtalmologue,Contrôle annuel,Delmas,28692
+798b8758-88c0-45ab-a7ab-5bd398f24d62,22830d64-0be9-4c91-8a53-c175a56e4b7c,3d16590b-937d-411e-ba79-19dbebcbd71e,2023-07-27,Cardiologue,Consultation spécialisée,Richard,70013
+57b09848-fbb6-454a-8465-6e10268147af,b302ea8d-059b-481f-937c-d1d92e3f3fe1,d93e3fa0-576b-4a7f-9bda-7392a6632cb0,2022-01-01,Généraliste,Urgence,Marion,03607
+fa76b4bd-e2af-4799-8a61-53fac2e500b0,5245a92d-598e-4746-b608-c28827612de1,33c93f92-9cd0-47fd-956f-321bd2ad87f8,2021-09-04,Pédiatre,Contrôle annuel,Fernandez-sur-Mer,02919
+0c3f14ed-12ac-4b74-8cfa-3e2db82c7c47,0fad363f-e6b0-41d1-abb8-39fcf8b82684,bb95aa10-7ac6-4862-bd9c-970e21f7ef64,2020-08-03,Cardiologue,Suivi maladie,Benard,67088
+a10d89b7-6a66-4936-82c6-c2f7d8c7e054,0a053a4d-fb4b-4e1c-9685-0a82571cadee,fd8c9250-8877-4731-b099-73ae99e74005,2021-07-29,Pédiatre,Consultation spécialisée,Maurice-sur-Mer,85521
+fbcbf434-c714-4823-9a2f-9f63c66a1c7e,5a51a05a-9949-41b1-bdb2-d35c9830544c,62f45374-9150-4c51-9fbb-42fdb356a622,2022-12-13,Pédiatre,Contrôle annuel,Couturier-sur-Mer,28093
+b95296c9-5596-4be6-8a93-d1fd7680a363,5f12e8f0-3a46-41c8-8020-307e30b6f8b1,7f93d906-42a8-40e7-b7da-3346bc6ae2d9,2022-04-10,Ophtalmologue,Consultation spécialisée,Weber-sur-Berthelot,25591
+a76d3025-1e7b-47ae-827a-ecf1fe1f5960,eaf49c60-248c-4341-9e2a-2153d08c20e2,a4157b5e-1a59-49a3-bcd2-e26ec135e3a2,2024-04-25,Cardiologue,Contrôle annuel,GuilbertBourg,04734
+0444ac1e-247b-4ba8-8cfc-c453cd28a555,92415dc5-1a52-43a8-9d08-4ba2aab76978,20045017-badd-4ec1-84ea-ad195b75aaaf,2022-12-29,Pédiatre,Consultation spécialisée,Payet-sur-Gomez,20220
+df9a13ba-5e2f-4f26-a738-9f3d53a561e5,bc3c27fd-98d3-4a7c-9306-32bccac43d3b,98261817-7e23-431e-81b6-66ce163a2680,2021-04-09,Ophtalmologue,Contrôle annuel,Saint LucyVille,74977
+a5fdf490-20ed-419b-9ea6-26de281b325f,02345563-f11e-4c18-a462-59d592aae62e,3ce777c5-436d-4d27-999d-fcf7999f9f79,2020-10-25,Pédiatre,Consultation spécialisée,Grondin,80030
+46f94c3f-aba8-4c4a-9e9c-d28e21845858,0a01b5d7-4d8f-4561-87f8-1856623ae6ac,21fcc142-3ad0-4b58-ae6b-105bfda9058a,2020-08-24,Pédiatre,Contrôle annuel,Saint Théodore-les-Bains,40030
+36b8beb4-cd3a-4eff-90a8-a672e32bb1dc,85d9cd5b-dd53-4701-b73b-07f9663a889c,9f68cfd6-0b9a-4ed9-b1e7-480883061f6a,2022-10-18,Pédiatre,Suivi maladie,Aubry,47636
+67b070f0-6a09-405d-ba63-90e958e901ca,5a99fe08-a37c-41fd-9d6f-e68e663f2386,e4bd3844-429b-48f2-bcff-0b12e6ae6b69,2023-07-26,Généraliste,Urgence,Lamy,29403
+164fa9d8-6605-4a33-96b8-43ce2961badf,d145920d-669d-496f-9660-9f2c60968c17,49b40c6b-a635-4045-8415-ed99bf82bd90,2022-07-26,Dermatologue,Contrôle annuel,Sainte Charlotte,85503
+13fc7769-0950-45ba-9c2a-6ec9e5e32c6e,9a463e3e-4304-459c-97e7-d37b3ea95976,5d9f5c39-4aec-4645-8aa3-fe8bd3ac1cd6,2024-05-28,Dermatologue,Consultation spécialisée,SchmittVille,13629
+9914ed32-6718-47e3-a239-becfef7df3d6,6d8fd0bd-ddde-47c9-a741-fa2edd767dba,c81c41db-8bb0-4d70-96b9-152fe352e172,2022-05-05,Dermatologue,Contrôle annuel,Bourdon,48100
+b9308a65-74ad-44ad-ad9b-6e691ee9ad8d,db891f75-a9b0-490b-8cbd-cb736c8cb992,4798f2de-90a6-474c-81d1-b21c4f6faa8a,2021-08-13,Ophtalmologue,Consultation spécialisée,Devaux-sur-Hernandez,72854
+e95a6d71-60d4-48d4-b5d9-c484f4f0c7e8,dfd2e761-cc07-433a-ab20-5ed1599216f5,309d0fd5-1bbf-4c39-adac-a97bd2953896,2024-05-19,Ophtalmologue,Suivi maladie,Weberboeuf,34849
+5cb0c600-6db8-44e9-b9ab-5155d66729ee,12f5d41f-2afb-4310-ab81-baeb3407a2f8,fe46e906-3e83-4bd2-8c8f-455526e7db9f,2021-08-26,Dermatologue,Consultation spécialisée,Guillet-sur-Lemoine,64543
+6cc48e36-802f-4652-a946-88372c0b665e,5df82e2c-216f-430b-bc5f-eef7f682070e,7a6af603-c31f-441a-bbae-a1f003b57255,2021-06-20,Généraliste,Urgence,Regnier-sur-Le Goff,48374
+d6e33acc-d031-4851-bab6-73d2b2dc6f87,c8f5b955-da26-4f7b-8f39-6039a25dc0be,06a0664f-5ae6-4753-a90b-a5355602f91c,2021-12-10,Généraliste,Urgence,Dupuy-la-Forêt,43196
+0bac01b1-a7d0-4ac2-9375-f4e8f21f95c2,61e2203f-bd7f-41c6-a475-4a09f829d503,0d874fbd-a481-4141-87f8-d327791ee348,2020-02-04,Pédiatre,Consultation spécialisée,Le Gallboeuf,43775
+c228509c-c44b-455d-be94-2daa90ba0a69,3554bad0-4003-42d9-a140-108c8badba6b,cf82094e-7140-4094-a2f6-73bddbb2d2a4,2024-04-16,Dermatologue,Contrôle annuel,Besnard-les-Bains,75180
+96b29deb-9675-42c1-8930-cffd4fc0728c,5afa4681-8d81-4b6a-8cbc-b99ec19e13a2,9923cb9e-9fbd-4587-94d4-3494b9e1c603,2020-07-17,Ophtalmologue,Suivi maladie,BesnardBourg,71740
+9ae62262-c1bd-4d3e-9f21-34120c4be572,3cc39cd1-d980-4cf0-a171-e50db6fc650a,6ef48575-0656-4f97-b951-cc47e5313912,2023-10-11,Pédiatre,Contrôle annuel,Pereira,20415
+7fb63e47-7496-4609-9470-ed603bf812f8,7445e0c2-c161-41c7-b9db-61dc9af6e194,900d6781-26b4-4f47-b4d0-1ab219f98da6,2023-11-20,Dermatologue,Contrôle annuel,Léger,11700
+8b0c4945-4581-4bda-95d2-079540a54d87,0d88f550-f655-4b12-a950-d1d7250c9547,b29c25b6-a2f2-48f4-a7ef-2ff07effaa9a,2022-01-23,Cardiologue,Contrôle annuel,Laroche-la-Forêt,15848
+4f5102c7-a235-46ff-b2b1-d0438e6be013,8a3be5e3-da0f-4e3e-93a3-cff1f64d23d4,ebbadcf7-bdd1-4f99-b158-edbc2df7b62a,2021-10-04,Ophtalmologue,Urgence,Klein-la-Forêt,43023
+80bcfa91-87b6-4db1-b24c-efa29a59f8ee,4d33d249-f714-4f7f-843c-442fb653c925,22f65abc-7f58-4d16-8674-60a4dacfa4b7,2021-10-19,Généraliste,Suivi maladie,Chevallierboeuf,75439
+520cbb1e-5622-46e4-9cf3-8f10e27dab82,32ccb3c3-dbe0-471a-86a3-a679b7c61e8f,1e7a90c0-a5ea-43a4-8321-c27aaf7b3a95,2024-02-14,Ophtalmologue,Contrôle annuel,Didier,41593
+1f2dd184-083c-4ad0-aec4-d58a8e67268f,5610b89e-7cbb-446d-a2bd-e514deda5e6f,c26642f6-76c2-423f-b7d2-1de12b5a30a8,2024-01-25,Dermatologue,Suivi maladie,Colas-la-Forêt,54203
+5b65c947-dc63-43c6-b591-5d4e42d0f04b,d17f9fa9-8f71-4e3c-8ecd-320b799c0ee6,a75b041a-d547-4bdd-84a8-7f3e65e8a91e,2021-06-12,Généraliste,Urgence,Saint Jacquesnec,54070
+dd4ef129-2db6-4155-9053-ff3a84ec50a4,0aa03c55-e837-4291-ab6f-d9bb23768f52,b2d55a96-9570-4299-bc2d-c72ea34e4456,2022-09-08,Ophtalmologue,Contrôle annuel,Saint Alix,20501
+b1445c6b-5078-4afe-b4b4-d8c9cf4efecd,925adbce-fdd7-4e51-bd65-5ea63bf1a0b3,e15cae0c-89e0-43ef-9bc4-8d1a75d86489,2023-04-12,Généraliste,Consultation spécialisée,Meyer,00730
+b9efc7ab-c3de-435c-b52b-0863d1522fc2,52cf387d-aca9-4c4f-98ba-6411d3be76c9,47ccd225-6b70-47e5-86b1-222ab0b6931c,2022-12-18,Généraliste,Suivi maladie,Lagarde-sur-Mer,26629
+fdb9ae0e-1ee4-4e13-b4a1-d3a44dcb456e,25b78f65-be93-4ad2-8e3b-f501d0878300,07940e16-a7fc-42f5-9b4c-60f999398b15,2024-07-15,Ophtalmologue,Urgence,Dos Santos,74959
+84eb436d-91be-4531-bcd1-02c7b44e34a9,50edc944-ea46-4f4f-b5ae-4d73b012abc3,49871c42-b878-4876-b21d-def4a222aff9,2022-08-05,Ophtalmologue,Urgence,Brunel,24333
+ee2926b9-5ece-4870-a7fa-fffbf77c8f75,5fce6eb8-c9e3-4c57-94e5-4706b41cd343,f16d2771-c6b2-407e-878c-7c57796f1151,2023-02-15,Ophtalmologue,Suivi maladie,Leroux,62267
+c1482943-5018-4f40-b7f4-f234daf31216,bcfa6873-be95-476c-a6d9-197d507c1252,7e7d8236-4c1d-4213-9885-e0af223b5c14,2024-04-17,Cardiologue,Consultation spécialisée,Dupuisboeuf,79668
+4beafdeb-8ff7-4e71-b234-c5b601ee63b8,b74e07a8-ecac-43fa-b518-72906471d2f0,1c1285ff-28df-497c-9024-272f346d37c0,2024-06-04,Cardiologue,Suivi maladie,Lemonnier-sur-Blot,42926
+a68b682c-327d-4445-be6e-9636cecd45d5,1f7dd7b6-4316-4eec-862a-6bd51f8f7275,239fb2d1-095c-4898-b1fc-4fdf8cde1342,2021-09-05,Dermatologue,Urgence,Ledoux,57799
+71417ea4-a5e0-40b2-ad17-a5e442722327,8040b181-91cb-485a-9c4c-b88ee8e6e97e,7ecaf640-1c78-40b8-a520-c4e08741d6d3,2023-11-27,Ophtalmologue,Contrôle annuel,MerleBourg,64205
+8794d864-a3dd-4ce4-8e0d-d7dddccbb0c3,40321d91-786b-4382-a8e2-1c432b6be7b9,1d8fa9f9-b7b1-48f3-9212-750f889793d5,2024-03-20,Généraliste,Contrôle annuel,DelannoyVille,86320
+54e0538a-cb03-4dc5-9353-1b0e88f028e2,d3eb138f-d140-4764-9e63-49651434465b,5ba360f8-cd3f-488d-b0b8-0892425ce5d1,2023-07-29,Cardiologue,Suivi maladie,Clément,89244
+43545ca0-c8c3-40f5-9eff-2f7718c69db1,d99d650d-9ba6-4489-8cc6-9c030d3ae2fa,56749871-8de1-45a9-a3bc-ee275095b894,2024-07-21,Généraliste,Urgence,Seguin-sur-Paris,54748
+3388866c-c3be-48f2-94fe-b386d5c36dc8,f4c43e5b-6109-4f73-a765-e15a8d8a0691,bf6e1f09-d27b-485a-9b2d-533e50931a42,2023-09-18,Dermatologue,Consultation spécialisée,Voisin-sur-Martinez,08588
+926d9014-f453-457c-8816-8b7ab8c339c4,a697ae42-76de-46f5-95ea-8b59a025e602,8a0a5a4c-8904-4f71-a731-1e9aa0a52309,2023-12-21,Pédiatre,Suivi maladie,Saint Alex,62327
+398bc14e-7b82-4576-b677-2a0937d3c951,bd344090-bd71-4bf5-9d27-61ab43f7d488,e2e31030-69a2-4a10-bb0c-1b65fd0af4d2,2021-12-19,Ophtalmologue,Suivi maladie,Saint HenrietteBourg,05058
+bd748fb8-77d2-4d73-b009-2119264614b6,6d4f6951-197b-480f-ba97-28973ad57850,f57307c6-78d7-4b24-a9ae-076cf4b208ab,2020-05-15,Généraliste,Urgence,Hoarau-sur-Mer,22008
+bc8da84a-f6cf-4647-8da9-7860fde80277,e2342d40-1247-412d-aaef-2502148a71b2,3787c609-ca3f-4404-a18d-292acdd1a2b7,2024-07-27,Pédiatre,Consultation spécialisée,Sainte Tristan-les-Bains,12537
+e516de01-0362-4175-8e3a-515e9a0816ab,d26b9512-1067-4636-bc14-010ed66b5fb7,02845365-7473-4dad-8d27-6c97058b4ef3,2022-08-27,Ophtalmologue,Consultation spécialisée,Aubertdan,40394
+78676736-6115-4e37-bfbf-c49354a913d9,559dd740-7c9f-4e2c-a642-37eeec37bdc9,321be2e3-6c15-49e3-a3de-d5c22d9acd74,2023-08-13,Dermatologue,Consultation spécialisée,Lefèvre-les-Bains,33333
+dd0aa591-1f31-4e54-a2b5-389dae63db68,16b82782-8e1d-45df-97c8-5ca8e611ef4d,8c4583be-885f-4543-9981-9eee407d9017,2023-10-31,Généraliste,Contrôle annuel,Sainte Jeannine,67549
+6739f6da-4639-49b1-b12b-e612346d81b2,7249d8ac-f759-4ef1-baee-c8ea9e176cde,d6df94fe-108e-448c-960c-10a15c1d3f92,2020-10-03,Généraliste,Consultation spécialisée,Saint Virginie,25319
+838a3cce-6dd3-43df-a357-cad2867d491e,bdf3669f-1595-49c2-89c4-d3d77a8e9e86,11fc8276-5f5f-4208-ab84-46a709110cfb,2023-06-13,Généraliste,Suivi maladie,LaineBourg,71901
+77c7ce31-bc1e-405e-8249-bd8a58308b1d,d3ad6b16-6364-4ab9-b35a-ec43c43b2226,226de7aa-53ef-4a43-8741-0d0e04f135b7,2022-04-21,Généraliste,Urgence,Humbert,57675
+cb62bc29-f9fd-4e33-935a-77a188b69815,873e2599-dd2c-4462-8034-de1ece7ca11d,68ecc28e-50c0-4ce0-afea-60e62b83967b,2022-12-18,Pédiatre,Urgence,Guillon,83484
+e357dab9-7dbd-47d0-a86f-205408f59b41,d4ad6c28-ebc2-4e21-82b9-6b758ce3a90e,639c1918-6fc4-44a3-af62-f110f025c8f1,2020-07-19,Ophtalmologue,Suivi maladie,Gaudin-sur-Pottier,48807
+7c21fade-2fb4-4a72-9aa4-c429bafad563,974bf54b-b930-407f-8808-ed2ac2b33b49,6a4c1cf0-446f-4da7-bc23-e2c210140715,2021-03-30,Ophtalmologue,Suivi maladie,Saint Thibault,17515
+95efbf03-345c-47fd-adbb-c736400426fe,4e77a359-d98a-434e-a9a4-c9679a2f7623,addebc96-3675-4618-a061-8f0acb035cbf,2022-03-08,Cardiologue,Suivi maladie,Saint Sébastien-la-Forêt,36946
+14b2a47c-3740-41f9-9960-062921c22a02,c58b5598-cc64-4076-805f-8561cd5412a2,295c111c-3a00-4e10-a32a-d2cc106cfa1d,2023-01-26,Cardiologue,Urgence,Tanguy-la-Forêt,57021
+06d35b39-da6a-457a-ab62-11161e364132,bba231f3-358e-49cc-adad-bec860477fad,d33cc978-487c-4f0e-9322-d2aabf480ed8,2021-04-16,Généraliste,Contrôle annuel,Perret-la-Forêt,82290
+4237b71c-465a-49f6-ab2c-0e5e2d4887aa,96698817-d405-4ba7-9035-81d1875d46dc,06f4861d-01b1-4bd1-a537-2cb9bcab07e5,2024-03-17,Pédiatre,Contrôle annuel,Sainte Suzanne,44006
+3c5d2081-408b-469d-a220-b7099441282f,bb3c484e-6507-411e-9397-9aab1ed0c4ee,61d9ef78-5aac-4578-aa98-3aa56b085719,2023-04-02,Dermatologue,Consultation spécialisée,Sainte Grégoirenec,47062
+20d75246-97f2-431a-9573-8216350c8b9d,8b3438a3-9010-4b30-a372-18cd7f00192f,8f8e0ecd-50fd-48cf-9aaa-748b53f4793c,2022-06-12,Dermatologue,Urgence,Da Silva,42856
+e47df826-24cc-4f31-9842-87346f9abe70,15b8f9a1-0bf1-4611-8ae2-4637f55d32cf,399c2ee0-f074-4a69-9e0b-0a6023e9d6c4,2023-03-06,Ophtalmologue,Suivi maladie,Davidboeuf,11157
+43dc8a3b-a55f-4f4d-825e-711f92dde832,e8fe3a1d-675d-4e86-9072-ed9092016fb1,d6bcbda8-1998-449a-afa1-91dc5672cd58,2020-11-02,Pédiatre,Contrôle annuel,FaivreBourg,45293
+5fd702ed-fff0-4cbc-ac75-0653431272e7,c3c75fd0-48d6-46f2-bba7-02d682db05e7,eb4fcd22-b8d1-4b86-9984-12e304343a77,2023-06-02,Dermatologue,Contrôle annuel,Brun-sur-Mer,96562
+f26eb6bc-2d08-4e83-bc24-caaf4841d358,9892a5e7-74ea-4931-952b-5f67fa30b3c5,64cf4aee-f86b-4160-913e-7643867c7530,2023-05-04,Cardiologue,Contrôle annuel,DumontBourg,47497
+be8a7225-f928-46b9-ae44-a2b1afb61b2d,214a6f8f-73ee-487d-8b41-8cbfbc1bd959,c255886a-6b54-4f92-8ac6-9c6e5b3ca9e6,2021-09-17,Dermatologue,Suivi maladie,Marty,04755
+6e8ea59c-1cea-49b7-9855-7cefe3bf789a,c998f550-6c89-4e51-ba94-48cbf7aee852,7e90b257-4106-4098-afbc-f4eb0ac0cc6a,2020-12-10,Généraliste,Urgence,Allain,51686
+528c732b-50eb-4089-889f-de146303feef,af9c0a70-2ccc-4dc5-9496-d1920419e771,cf0a0594-8a8c-4090-bdeb-a5b48a84c2a7,2020-07-29,Ophtalmologue,Urgence,Saint Richard,78989
+499b0b1b-5da0-4df5-bb70-d01a94e0a70e,0ecd1080-6f7f-4e98-8f06-3a13c05b7f82,1fab34db-3a03-4d35-8aac-3436822a9937,2024-01-31,Dermatologue,Suivi maladie,Joubert,39655
+a53d1bcc-b0a1-4644-890c-4a1e1d699147,5c367403-c153-4151-83c0-4848ea6b9c35,2b357029-a805-4b24-98d1-ebc5c1477fdf,2023-04-13,Cardiologue,Consultation spécialisée,Raymond-sur-Cohen,14408
+de39f2eb-d1c1-40db-9b5b-ff6314e1799b,e18e25c0-97e5-4068-9789-7c7594233300,55bc3236-9065-470f-bdda-13a4b48923d5,2020-12-12,Ophtalmologue,Urgence,Saint Jean-les-Bains,18767
+d5ea2c3e-286a-4d10-80cb-59ab641d78cc,a3db7a5e-a337-4e82-9073-264e34c589cb,930aa937-bbb3-4e68-bbbb-98d7361ffc80,2022-12-09,Dermatologue,Contrôle annuel,Hamel,50242
+fc5155da-0aa1-4ebf-99ca-1362488b4a88,4a6cf173-a6ea-4db8-94c6-d0e7e3f2b22c,b76d65e5-f42a-4fbb-a838-6caf4e1a4c19,2024-02-06,Cardiologue,Consultation spécialisée,Roux-les-Bains,95948
+2f97091a-4685-4844-b179-59bea6e0052b,37190567-6c1c-4e4d-acd6-8ab8dbff51f8,1b789104-c8b5-4b36-ba22-9b09c39945d9,2021-01-13,Ophtalmologue,Contrôle annuel,Marchal-les-Bains,32818
+c108ce53-fd60-4754-ab0e-411eeefaf030,3cc97a72-c2de-4d54-a52d-2a0d4008d16f,e77eeaeb-6932-4f9b-9551-b6454bca19fe,2020-07-27,Ophtalmologue,Urgence,DuboisBourg,28869
+64008634-7a38-4298-ac8e-afe056eb67dd,0e3a4b30-563c-4cf8-9593-a821482b017a,6d44d947-8260-49a4-a752-4975ae66d005,2023-10-15,Cardiologue,Contrôle annuel,Delorme,01553
+6644a63b-e836-4d72-b966-da786ed1cbdb,1ce3cd64-f4dd-4e57-809b-4762e90dcef0,4478498e-38d5-4ed8-9c33-e0c929b312da,2022-02-11,Généraliste,Suivi maladie,Roger,07873
+d48be39d-1e04-42c1-861f-6bd6c66ad35b,f4647fb1-cd87-4c4c-96e4-109271f5b414,00498d17-ba0e-4bdb-9482-6a018708e84c,2022-04-09,Dermatologue,Suivi maladie,Ollivier,84192
+9259f6ce-730c-4f2f-b6f6-650c0a764edc,9af3df1f-1206-4b0c-80d0-517619e17527,c32500bf-c8cc-4df7-85a0-6a2eb390fa94,2022-10-02,Dermatologue,Contrôle annuel,Saint Frédéric,07093
+752bed2b-ebb9-4ebe-abbc-a7a2a358ad7b,bbda0d91-5bb2-4159-87c1-deb66c61638d,f84459bf-286c-45b6-b195-b616f0ccc609,2020-06-05,Ophtalmologue,Urgence,Renaud,24548
+0facad2a-a275-4827-a98c-af038db0f325,a480ba40-b2ae-4bee-966e-9b2ba961aea5,ce654ba7-8703-4ec0-9b88-44e936648bec,2022-11-15,Pédiatre,Contrôle annuel,Hoarau-sur-Gilbert,35194
+141e0097-72d8-4e2a-9c2e-0b4f3e7923ac,0d97c45a-772e-4b72-a578-f9c0b056796e,7cdeb435-404d-401f-97b5-4bc0cae35c33,2024-04-01,Dermatologue,Suivi maladie,Bourgeois,49748
+f6307d99-1190-420d-bbe4-6c336f2a9c7e,6ffb7be1-a090-43e7-b057-e733c6a1c8ec,5cd815fe-5807-4487-b1ab-e293ffeb628c,2020-08-26,Pédiatre,Urgence,Sainte Moniquedan,63723
+d42224a4-8d8d-4db5-86df-964a706b0c7e,d257e4d1-d873-4820-8edc-f052b28dc37d,3ae65275-b65c-47bb-af95-62e98801192d,2020-01-07,Dermatologue,Urgence,Becker,36957
+a6e3330d-cdd8-46d3-b616-4cf5bb485c0b,5be9512f-8a5a-4675-b4a4-3632793550a6,433ca1c3-c4fe-44b6-abb7-8b7f007c6cda,2024-07-19,Généraliste,Urgence,Da Silva,38034
+2c86d489-78f7-4833-8ea7-efe1cc7caa34,73e13131-e2b9-4dc1-89f2-c5ba1ed3643f,80e29efd-42fe-4c16-8146-4b737d66a5a3,2024-06-10,Cardiologue,Consultation spécialisée,Caron-sur-Auger,10203
+0250770f-114f-4cd8-a017-c90e9b87168d,4d70dc9d-45ea-4409-a8a1-61244622c70e,a32c1e56-cd75-4e75-a1ab-3556fbac908a,2021-08-03,Pédiatre,Contrôle annuel,Sainte Benjamin,97346
+d57659ec-52b2-4e57-a187-e8f7107ac069,3d97cce5-0ead-482a-9cf0-feace2770880,643bf706-ad46-450b-aadb-de9bfd144c2b,2021-09-25,Ophtalmologue,Consultation spécialisée,Boulaynec,48327
+fa5a02af-0b6a-462b-af02-d00bdbd59f89,17ec3e45-86e1-4c9d-9e6a-9056d2f26a03,cad7895a-78cd-482c-ad5d-c8d9a59d15b0,2022-01-18,Généraliste,Contrôle annuel,Saint JulesVille,96704
+32ad9c51-ace5-48cb-8e1b-a76e77de2645,78b6e5fe-2dd2-4e17-9cb5-cf0f040751ea,4a37750d-0b49-4a13-80a9-36ea1ff926df,2024-01-05,Cardiologue,Urgence,Sainte Noël,36498
+383301ae-0d6b-41fb-9e17-c5d11f1d5184,7dfa98e1-2cf6-4942-99a7-65a9a64e74a4,b56317c2-ae16-4902-b47b-354e4f07678d,2020-07-20,Ophtalmologue,Suivi maladie,Guyotdan,98791
+3e687c40-c8b3-457e-96ee-369d07b18b23,c1aa27aa-2916-4aae-9819-0f6f6972ca00,67634460-1d86-4924-80ad-70cb67eb6011,2023-02-17,Dermatologue,Urgence,Sainte Marguerite,67153
+2767de1a-2989-4ac7-aa2d-016316f42b0d,7fc345b7-3a35-4812-a176-b35d18bda0eb,2e8f4b0b-e089-42c5-8cbe-c9a41bfda7f8,2024-01-25,Cardiologue,Consultation spécialisée,Renard-les-Bains,71235
+84d94b79-8ac3-4e9c-972a-2cff544e9ebe,71b91d2f-1c6d-4b9f-946d-df3875838919,7ced3835-6f35-4f42-911c-8db475c543eb,2024-02-23,Pédiatre,Suivi maladie,Lucas,39995
+1e81c68a-7a61-485f-8a69-49d8056956bc,b9c783fa-0fec-4801-bd1f-551a408c935f,905e743d-4fa2-48d5-8022-c39a2a3e6d13,2023-02-07,Pédiatre,Suivi maladie,Robert-la-Forêt,99512
+61a5e3f2-bdaa-47db-b354-aa6982f59a13,3133e6b0-2595-4ab5-82b1-f932f80c4754,c8f085ef-a1ad-423b-8f67-773b4285e433,2020-06-16,Ophtalmologue,Urgence,Boyernec,34283
+d6fb6c63-08f8-497f-ac39-b2d40537fbe3,1f469060-9f59-49ad-9f30-d792e9e1f73e,d466193a-12e2-4597-a2b7-441d2a53bdb9,2021-07-25,Cardiologue,Contrôle annuel,Clerc,78829
+d121de0c-684d-4d16-9afb-ce7e01445fc1,5dd38db0-2e5e-45b0-9207-3fd51192752d,781470d4-92d9-45e7-af32-7eb99e664426,2020-04-18,Ophtalmologue,Suivi maladie,Sainte Vincent,86810
+c41be10c-0069-4289-ba86-d407dd37281b,5378b53f-be0b-4773-9c88-39755499d83f,01afbd6b-c9ba-4aea-8f34-508e04e797b5,2023-01-27,Cardiologue,Contrôle annuel,LemonnierBourg,76760
+08fb2da1-c55a-4876-b7d3-2a979920b2ad,3bc6dfa9-541c-4bdf-ad86-350a2ad6fca0,f7e106fc-67b0-4aac-893c-9ad7666f1115,2023-02-16,Pédiatre,Contrôle annuel,Gilles-la-Forêt,65532
+87b43b39-dfa0-46f7-8811-4bb6f57e8b28,dbfbcdd1-763b-4167-8b04-2418a703a508,a562bf28-7ec2-4739-9f4b-8e438c0ba5da,2022-02-11,Cardiologue,Suivi maladie,Saint Antoinette,07704
+29dc7e79-7e6f-482b-a2db-5fbab2b9c59a,d6360b2f-6545-4b68-a64d-8a4b5e23987b,bea15413-0f1c-415b-93a8-367a15680055,2022-03-18,Ophtalmologue,Suivi maladie,Robin-la-Forêt,94601
+9c79f894-ee50-431d-932b-f30aee979a63,c2b63efd-7883-4e19-b435-c78a8b27b530,4e992152-db50-487a-95de-65a16249c376,2022-07-22,Généraliste,Contrôle annuel,ChartierBourg,39381
+0eaff260-59f7-4d69-b9f0-849196787cf8,51095324-1f18-4f1c-817b-d2c9e4c32c9c,a586bc33-5939-4e1b-a2a3-417f8da07cd8,2020-06-03,Cardiologue,Consultation spécialisée,Barre-sur-Mer,78604
+2456a23a-73df-4cfd-a085-352de1b6c9a0,45a695f3-a53c-4f0b-a919-e21c464f8683,921f0673-0b64-4852-a39f-7bd3d0bb78e5,2022-05-13,Pédiatre,Contrôle annuel,Mahe,91417
+06344316-e3e1-47a3-899c-916278dda2f4,ab997513-a932-4a68-b7f4-d1d97c252205,a9df9924-cdb2-4a23-93df-9891573b59ba,2021-01-15,Dermatologue,Consultation spécialisée,Perrot,51440
+d0ae5b9d-e926-4fc0-a678-02184c604105,9abda140-7444-478b-a01c-8eeeecfd5c65,d8b7db27-3de2-4d07-8242-5574490f1755,2021-05-22,Cardiologue,Urgence,Allain-les-Bains,02047
+b3478933-52b1-4c47-8f56-75f5f4541988,c7ce3191-c3f0-42ea-91fa-59227f0d160f,4efaff9a-fc43-42ad-8977-bb303288b4b8,2022-08-15,Pédiatre,Urgence,Valette,67192
+4aac9717-df7e-41d9-a9bf-cf1303cdedcc,58e4ab7c-a55d-4cde-a5d3-196046e86d06,a1f6dd94-bedf-433f-8c8b-507984c60bae,2023-07-26,Généraliste,Urgence,MoulinBourg,38855
+a8e0d005-25bc-4d7d-8fa5-72214eeafbc1,b45d5615-12f2-4a4c-bfa5-8b9bed110621,05962d40-2eb6-455d-8da7-d2c1025e4908,2020-10-03,Dermatologue,Suivi maladie,Hernandez-sur-Collin,70981
+09822361-88ea-4687-bca1-a137e4b318f0,1dd375b1-6a6e-4cc1-8507-ac5d222969dc,27a6a5ce-d568-4ff9-b066-3b8c3af888fc,2021-01-26,Généraliste,Contrôle annuel,BertrandBourg,81164
+f99f8333-9ad0-4957-9104-c24da9eaf824,5687c742-0ee0-4d60-b28c-f4516fd4dc34,eda2932d-cbb1-424b-a922-8fd76262f703,2023-09-06,Cardiologue,Contrôle annuel,Valette-sur-Lemoine,88174
+4d5bf223-19e6-4c07-bd26-a8df0df014fa,cf30cdbf-7642-49b4-86bf-dff7ce773a8a,b4c8b04a-eb87-423c-a21b-73a32884fd51,2021-05-30,Pédiatre,Consultation spécialisée,Sainte Nathalie,45274
+af3ab4b3-70c3-47a7-8fa1-989e26f7b18f,f61ac8d1-4233-4696-abd6-fc9f82120d7a,6ea293aa-2a92-4c05-b5c6-0d96ed2bf8e9,2021-03-29,Dermatologue,Suivi maladie,Duval-sur-Maurice,38069
+45b024b1-8546-4dd5-a9f2-c71c37404cfe,73388480-46a7-4cf8-a890-ed63b6613fdd,736cc8fb-1176-4e7d-8282-fe2eefff9f68,2023-09-13,Généraliste,Urgence,Pons-sur-Pierre,15842
+6032145a-47e2-4753-9a7f-eb507428b110,430e8bc4-f537-49f6-8ae3-1905daba8c15,52f99874-f21e-4527-843c-5ff0a81b7369,2023-04-18,Ophtalmologue,Urgence,Letellier-sur-Mer,60112
+a238475d-2a5e-473a-89b4-7b1ccf16a2a7,93ade272-8262-484e-aca0-734289878fd2,5c996781-66f5-45c0-91e5-f9c30f4020bd,2022-04-11,Pédiatre,Contrôle annuel,Pons,62328
+9047c6a1-b177-462e-9102-2e3c5755b7d5,d2a09f3b-c2d3-47f4-a11d-379c25199d95,aac34d4b-a280-4e17-b5f8-67118ea9a708,2024-08-02,Pédiatre,Suivi maladie,Saint Hélène,05907
+b629f246-5971-4fc7-b04e-0021c0a80c1d,edd6e35f-226f-420a-bf47-5b59fab50746,c03934c2-885e-4ec5-bb2e-9473b0fb3a65,2023-12-16,Pédiatre,Contrôle annuel,LeconteBourg,51513
+1bfca2d5-acd3-4900-90d9-9c552220cb6c,32664434-1467-4bd7-b569-ca4003d39d5d,5f2ebe21-f78e-42a5-898c-9ef4a54a024a,2021-08-24,Dermatologue,Contrôle annuel,Danielnec,14195
+d2ba1260-9fb1-4df5-be64-2c963589c735,04f3bfbd-6857-4f46-80ff-50184f0f130e,2a27dc05-316a-4ff8-aeb3-8ff1ae38cf0f,2020-04-14,Ophtalmologue,Consultation spécialisée,Blin-les-Bains,71263
+4d0916b8-d279-4c71-ba6f-07fe52ee5583,05369d11-429f-4d69-ad24-24b8061f0926,6f6f5a88-d272-411d-af88-3a3d68a55232,2024-06-05,Dermatologue,Urgence,Fischer,41013
+79a0a079-7985-4a30-a613-962ad29c7ee7,962613e2-c945-426b-a215-ebd1e1ebf96d,ac33afdb-0b51-4d6a-a6cd-67f234675ba8,2020-04-21,Généraliste,Urgence,Beckerdan,82933
+92ddaac2-ef37-4d09-b198-9fa30984fd46,4a7a8f8e-8534-43ed-a704-11924dfb0029,0d85e61a-9494-41ed-bcd5-1be149ba7d28,2022-12-20,Dermatologue,Consultation spécialisée,Saint Jacqueline,19737
+1646dd9e-b7d9-4ffc-919e-cedcbe406f91,27b96864-af85-413c-8f4e-e133c59b9846,fa614188-e023-47d4-80c9-25b2b6336db3,2023-02-04,Ophtalmologue,Consultation spécialisée,Schmitt,36110
+1a384228-1d0e-4c60-b506-816045dbc9b7,bcbbe765-44dc-44ed-a4a5-c09c2746287e,202adcaa-771e-4418-bece-d23b82c00fe7,2022-11-03,Généraliste,Urgence,Sainte Inèsnec,81784
+1194ba1d-2c4e-4922-88ae-f1b4fdfc979b,47f6af12-92d8-46c8-978b-6c37f33af0b6,43e6b6d5-399c-49e6-be65-208986b47979,2021-10-15,Pédiatre,Contrôle annuel,Hebert,48741
+20c5235d-a931-4d3c-8db4-57caab5bf9c8,3870556b-a4a8-48b4-b4ea-3304652770df,1bb0eba0-c3b9-4382-b387-4f9dc4c65a3b,2024-04-05,Généraliste,Contrôle annuel,Saint Émilie,56013
+a4548cd0-8752-41a9-8ceb-409deb373670,94542ddb-547c-4aa6-8e43-18c490fe5477,57ce1c80-5d45-4428-a1d6-c39447ed3a47,2023-09-28,Cardiologue,Contrôle annuel,Sainte Célinanec,32915
+62db1fa1-7207-48c9-bbdf-89880fa3088d,763fc7c2-a474-4574-9fcb-74839c340f62,bdb3bcfb-93a4-4e1d-b7ec-9a2a5296e042,2020-07-19,Pédiatre,Consultation spécialisée,Leroux-sur-Mer,57273
+e9bed4b6-52a5-47f8-b54b-3382cf62eae4,f0355064-6c27-47dc-97ac-9381f2641d5c,64eff27e-2997-478e-b772-f1c8bbbcd2f8,2023-12-02,Généraliste,Consultation spécialisée,Paul,84561
+b6d0cda3-df40-4a4e-a98f-893838bfe980,eec5c3ed-7dbe-42ae-9dbc-448cbbf506ed,e9cc017a-5613-488c-b305-5be2398116ba,2020-03-25,Généraliste,Consultation spécialisée,Sainte Claude-les-Bains,73399
+33923e3a-7f03-4f3a-9a21-5ddb23c12b96,e952079a-4a6b-45fe-8eb8-332ca449e592,ef87b327-a3a3-404e-8997-cb3af4f31c8e,2020-10-30,Pédiatre,Urgence,Pinto,65299
+7f23a8ce-56ec-43d9-ac63-7525240f2f5d,92c59a35-4303-43ce-beed-32d57491e6de,573571b6-6276-41b2-8c38-1c4738e35bc6,2022-08-12,Dermatologue,Consultation spécialisée,MasseVille,31714
+dddc2c85-c82c-4fc0-9cea-66862d365033,c8ab5f2d-cef2-4393-bfb4-2ceb04cc0bbd,00f454e0-c347-4d0f-a071-d9fab315c629,2022-06-20,Cardiologue,Suivi maladie,Pasquier-la-Forêt,91414
+d41d56a4-6035-486e-bb24-78a2d51f2a5c,0d4479aa-c3bf-4a5f-a318-3ca375ed23fc,08d70cff-f7ef-4dca-a38c-4efb2be5e63b,2023-07-31,Cardiologue,Contrôle annuel,Chrétiennec,80689
+d1bdec29-9f96-4bba-bdc9-86c3db48e961,d8912b94-11a6-41d8-a526-59b734bd8834,8356f828-5f53-4fbe-bbdd-d9cd4fe97b40,2023-09-20,Généraliste,Suivi maladie,Chartier-sur-Gallet,69023
+8a0eab52-d0eb-43ab-bec4-96d100f9322b,e7c93c9c-c00b-4633-8598-a20f94d56851,ce090a53-a91a-4795-a799-216008dc8649,2021-03-01,Généraliste,Suivi maladie,Marion,11687
+05b18a34-b40c-4d58-b36a-f5630ebbe027,25401459-5e80-4b32-922a-52fb1cdbd248,4e8526df-85ad-4c77-bc75-89ee9a0a24d2,2023-01-04,Pédiatre,Consultation spécialisée,Mendès,99818
+1cf66e09-7b05-4e56-9808-c047de05cb81,17352067-6563-4093-b2d8-433a78440367,a3d76e5c-1e5b-4222-9c6b-d160bf747906,2024-09-01,Ophtalmologue,Urgence,Jacques-la-Forêt,71366
+68dcb5d0-507e-4a1d-ad1a-06a9d568f0de,ed26fe3a-823b-4d31-bd99-7f7f3ad9180f,20d34302-a35c-4e17-986e-2ac08415ad18,2023-07-31,Cardiologue,Consultation spécialisée,Saint Jeannine,44799
+e4810a4f-89c9-4467-826d-44eb6224dff0,4f03af44-dac6-4b0a-bcfe-b177d0e86232,738385a8-32e3-450f-9086-b57851997123,2021-10-19,Ophtalmologue,Consultation spécialisée,Allain,18676
+f5c16bb1-407a-4556-9b8f-50400ea24816,ed0ed8b5-e3ba-40dc-bc2a-ad208fbdc426,c3565923-4f46-4b28-a2b4-186db155c463,2024-04-17,Dermatologue,Consultation spécialisée,Bruneau,89418
+206f469d-07ec-410a-950b-f624ec22ab37,652bee2c-3d43-4d0e-b213-eaf394186e48,1472b083-c7a3-4b62-a465-4d35add7bfb6,2021-12-25,Cardiologue,Consultation spécialisée,Vallée,74037
+0880d893-bf1d-4c23-b5cf-f328b4dc1a86,ccf4d650-f4a3-4c1c-8fc6-6156e47b8c64,013a9775-119f-44eb-8a07-342f72139ed3,2023-09-23,Dermatologue,Suivi maladie,Huet,04953
+c3d49f72-68cd-416b-b4a4-ef4236a70418,a7e281c1-4095-48cd-98c5-827f436ff9e0,5f4c86f7-052e-430c-a9c1-1dfb048f3f8e,2022-09-27,Cardiologue,Contrôle annuel,Sainte AlfredBourg,07909
+041dba19-9d8f-4e5e-9eaf-6fc2bb3a96e1,5c4e4c18-f0ee-4397-8f9d-f2a4bc48dc73,1cce3a80-0056-451d-86b9-5fba9f90960c,2024-09-08,Pédiatre,Urgence,Garcia-sur-Langlois,98772
+e0fbea5a-3c4e-4bd5-a55f-65c2fe07b5de,a1128f45-09af-42fa-9bf3-1897d314da2d,d8c28e70-41d3-4c6b-bd7b-9154072f37ec,2020-09-21,Dermatologue,Contrôle annuel,FerreiraVille,23357
+d46c2de3-04b1-4f91-8322-2c3775bda27e,a3af6c1d-d90f-41c6-922c-d4a6d7ea5530,5b3395c3-1b15-4237-93aa-514de8f99c30,2024-07-28,Généraliste,Urgence,Chartier-sur-Martineau,28966
+0cd05304-4a39-4a8f-b2cb-a497c19c71f0,c0fc4328-96b6-4066-b4ec-6392e3b73846,d06d6902-b89f-4066-821b-5f36111fe33f,2021-04-06,Cardiologue,Urgence,Blanc-les-Bains,30789
+2bcf3d3a-24cb-46a3-9332-1020187c40ad,1ff29c53-8d63-4e05-87b9-675a38ec31c3,d5c70852-fe01-459c-99b8-3aa72d1dbd46,2022-09-23,Ophtalmologue,Urgence,Carpentier-les-Bains,27170
+01f63c14-3c3d-4b71-a7fa-2d7ddcaf247c,e9dac096-6ea0-4088-b8cd-6f75f83108a8,5cabfc65-500c-4e8e-9f8b-3b36e90f0333,2021-06-07,Cardiologue,Consultation spécialisée,Fischer,09445
+fe5d7d7d-b966-4a10-800d-91e84cf3af0d,e3454bcb-8f84-4e32-97de-06db72e1036c,1ae6c9b4-6313-4769-b38b-88201684f7b8,2024-06-16,Ophtalmologue,Urgence,HebertBourg,90415
+c54356e6-f96a-4a97-affe-66eeddc693d3,3fb45a71-63e4-49df-acb0-69cc62d902a4,a039dc7d-851d-499d-a115-24074d17791c,2020-05-18,Ophtalmologue,Contrôle annuel,Sainte Olivie-la-Forêt,20223
+7cf5d219-5251-48e8-bef3-9fdf55cf52b3,b02d9546-53a7-448e-8d01-8419c79f4fba,321ee17c-b8db-4fdd-86f9-820fd8c60f30,2021-12-08,Pédiatre,Consultation spécialisée,Sainte Nath,92064
+65313712-991f-4efe-af0c-8c0e8c837c6c,34d6d200-4149-4cd5-9e47-86871790dce2,f70b6df7-9117-431c-9f8f-89b85d52b3d3,2024-08-30,Généraliste,Consultation spécialisée,Gimenez,70351
+27eb2565-5442-4b25-8c9b-3775415e93c0,8d4a259d-d1bf-4fd0-844f-e9b3167eaca5,ede48b80-3fa9-414a-92ac-ffe048b299b4,2024-05-24,Dermatologue,Contrôle annuel,Bertrand,78692
+cc477096-d79a-463c-8f06-6016a46b200d,eb4daf00-355a-41aa-bc09-0d4e05511236,ddab8252-eef4-4375-a410-cda2dd8760e1,2021-10-02,Ophtalmologue,Suivi maladie,François-sur-Foucher,43282
+35e11738-a98a-4a5a-8f59-3537f392f956,35c96e21-dfd6-4a30-9be6-e438bcfcbbcb,5d950e38-4a78-4181-99a0-d3670d3f0bf2,2021-02-12,Généraliste,Urgence,Menard,64415
+05b3a38c-5dbf-4aeb-a8a8-367807f329c3,5a4cb133-5006-46f2-aa80-f04e5593e993,6d7414ea-705b-4220-b1d4-92293ccee47d,2023-08-18,Dermatologue,Consultation spécialisée,Hamel,19842
+37255468-64e7-4fdc-85ec-b230fe20d2dc,77041fda-1161-4bc7-8ffb-3d00b0f21d9c,4d0413cc-9ac5-4c25-b5df-46e9ed806926,2021-03-18,Dermatologue,Urgence,RodriguesVille,77094
+84844cf7-0df3-4f64-b90c-d7d0389c8b19,685d85c3-1242-4634-a3d9-0e143c0e3336,7addf7b3-6554-4f96-af4a-6fee695fb02b,2021-02-04,Ophtalmologue,Suivi maladie,Sainte GabrielVille,44324
+22850efe-147a-4905-9e92-6ee6c66d7503,bd044412-b47b-49c9-9c05-c4a4c6a56410,0bf185b6-a499-46e2-b9e3-f4c187404816,2022-01-28,Cardiologue,Consultation spécialisée,Antoine,60366
+701ccf62-209e-4a9c-9a9a-2cfee300466a,0180b4e8-6ee5-4649-9a60-b168fc560127,b6a85918-9d38-4f42-a4c0-4890533ddf53,2021-09-01,Ophtalmologue,Contrôle annuel,Saint Aurore-la-Forêt,24147
+27abe81f-001f-4122-854d-5c5ed94e4e42,754f2776-a6c9-4407-ac04-cd06b64f182c,95a35acf-aa6b-4b82-b60e-c45d0f9921dd,2021-12-31,Généraliste,Suivi maladie,Joubertboeuf,68459
+7641efa9-6ce6-4d29-abbf-64f9dcf3e170,87f757bf-9cfc-491d-a084-c0851f6b92dd,649769e4-7df0-415f-8ecf-13df278e91f6,2023-06-24,Pédiatre,Urgence,Teixeira,57850
+aeb81b7f-da73-40ea-844d-7776beddc717,5261497d-3895-40b0-b5c2-e927639e6754,040d575b-ec19-4245-8b95-8bead114233c,2020-04-05,Généraliste,Consultation spécialisée,Morel,07391
+037eff13-fd67-4623-b45d-5ff85b1ab6f0,069e9b7e-46db-431c-9064-679ce5e2201b,89fcb045-5b1a-4346-aca7-bb444d1284d1,2023-12-24,Généraliste,Contrôle annuel,Sainte Anaïs,32959
+5c189da3-94a8-4763-80c5-c291869fd1a5,701a1119-fcbb-498f-88de-e9d5177ac94b,45984ccf-7152-498d-8cf4-1621a075a1ff,2024-02-29,Pédiatre,Consultation spécialisée,Bodin,34381
+e98ce4e3-db3f-45e9-9033-130b4013d2a2,170076cb-cad3-4484-b412-58b496b428f0,c53ec736-696d-4f13-bc8f-8f1553e132d5,2022-08-28,Généraliste,Suivi maladie,Marion-la-Forêt,51835
+6f4d6c1a-7453-43ff-8beb-1a27e3bb61c7,55d333e6-6a20-4f0e-8502-7f4483f1db1a,da96d227-bec3-4c70-ab27-5ad1ce5485c9,2021-04-21,Généraliste,Contrôle annuel,Marchand,48626
+70cd08f8-44ab-4fb4-a342-3671d82f6691,bc219cae-6a82-4ac7-b286-10580f374c7a,cd9d3946-16c7-419d-b64c-989dfaabe369,2024-06-07,Généraliste,Urgence,LecomteVille,11771
+50aa20aa-76c4-4b5d-a9ed-6fbeb0eba28a,8fb91b99-1c5e-41a4-bcca-53f06b02ed46,8e2c1fa1-b3d8-4a0f-a38d-4136f34ec857,2022-07-15,Ophtalmologue,Urgence,MailletBourg,14815
+dcd3b3d7-0faa-4914-bf44-9b2ee92bbe61,b0dd54a4-0e10-4db7-9773-f6062318516f,36c0eb36-91fd-47b6-a3bf-c8e23392593b,2022-04-27,Ophtalmologue,Consultation spécialisée,Leclerc-sur-Leleu,95984
+3cc28bf0-a90e-4d78-8e8b-82363486e2d3,a9d3533d-5d94-433d-a546-6b3da115d3b9,56f21e53-15f1-4650-b9bc-baf30611166b,2020-02-14,Pédiatre,Contrôle annuel,Sainte Louisedan,07838
+de2aca17-3a83-4c8f-90f1-1640095fe9b4,0e9ab715-0166-4dac-9072-e7413980f6b9,189fb890-2b6f-4d7c-93b8-410826f336dd,2022-11-28,Ophtalmologue,Consultation spécialisée,Maurice,19384
+b936eb99-26f4-4e73-a63b-2152b2a2b4ef,a4d4222c-7e10-43d0-bfa9-606cb8689ea1,74459d35-99d9-45b1-be7f-bf58bd485e0c,2022-06-09,Pédiatre,Contrôle annuel,Samsonnec,20603
+17df8398-6906-4193-bae6-157f9a6b74ab,ae25b963-ca87-4609-9915-b35034677f22,6863e1d1-ffd6-4d71-8adf-7fa95ea2e9b6,2024-03-06,Pédiatre,Contrôle annuel,Laine,06127
+58ae28a6-26ec-4802-aacf-938108b9c732,fc0995bf-9f8e-4c26-8e4b-79964ade0047,68fc32ac-d23f-4514-ae14-136900afaa31,2020-08-15,Pédiatre,Urgence,Moulin-sur-Mer,39721
+4c961f3e-ea54-48cd-885e-60b6418fad33,34d93530-1405-4cd5-996a-ba37d56267c0,4fe361f5-fed5-4967-b217-67448f2165fc,2021-05-10,Cardiologue,Consultation spécialisée,Garnier-sur-Lefèvre,95985
+b943c29f-13cc-4a59-8fe4-fb5a8792bff9,922a1cdc-a6dd-402c-8a6d-f0af76024743,d85e8e4d-1f7e-4be4-ad28-0ee239eb6e72,2021-09-20,Dermatologue,Consultation spécialisée,Bouchernec,42097
+cfbaf96d-3cd0-40fc-b761-c764234c077e,7c9d5e24-0ef9-418c-a025-eaa5dc934a6c,47aa3e02-702e-487d-829e-b2dd91822170,2021-05-18,Pédiatre,Suivi maladie,NguyenBourg,85967
+33561cc7-7750-46dc-b8c8-89f7d39d3e52,dadcf2cf-0742-4edf-975b-0d6dce3a9d6f,dcfefb90-c1d8-4421-ba84-39799fbacf2c,2021-12-17,Ophtalmologue,Suivi maladie,Peltier,16502
+edc74029-33f6-4d83-97ba-d830cf3e40c5,aaca946a-b309-4f1f-82cd-417412d1a1bd,8bd27efc-c86f-4698-b623-e1063bb9f6bd,2024-02-15,Dermatologue,Urgence,Sainte Agathedan,63479
+ed6714eb-ba09-4f1a-96cb-7697c766e969,a3ea6b1c-5598-4966-8124-8899307a76d9,8d7669de-4b9a-4c7b-8fa7-776e9bb2b0c2,2020-05-23,Dermatologue,Consultation spécialisée,Lebon,03409
+fc62897f-0835-461c-96e3-e7fce32fb5d7,603a18f2-7fc7-4c93-b5b9-360cfa1b2da4,2473ce23-bd14-49db-9f5f-0cec4f76e509,2021-02-02,Généraliste,Urgence,Sainte Laetitia,51804
+d08d9658-7035-4ebb-958f-3d777a4d8671,0d00441c-e63c-416c-a48e-0af1d0cc96d4,175e5bad-e710-4e38-b8a5-3b489c5a9dcd,2020-02-15,Pédiatre,Urgence,Legros-sur-Mer,53649
+3df15dc7-bd4a-413b-9422-df452118e8d0,1b3d3cfc-a24e-47fe-9d8b-1c8c59687ab7,7ebbedc5-e1dc-4d42-953b-8da0ae13314c,2021-10-28,Ophtalmologue,Suivi maladie,Saint PatrickVille,85849
+d627673a-f060-48e4-a36a-c06bbc896e40,54e362d3-114b-4a38-b078-beb05bff5110,bb86c856-8bdd-462f-a998-b9136ff0446f,2023-03-27,Ophtalmologue,Contrôle annuel,Hoarau,36189
+c286ac2a-61d0-48f3-b0ae-93f0857d104e,46bed833-19e8-4298-84fe-55c54c8f8f7e,148d0b59-a073-45cf-8e91-d222047eb39a,2020-05-06,Cardiologue,Consultation spécialisée,Bonnet,34335
+64a6f63f-9206-4e06-a914-c54d008b41bb,32684fab-2739-45ac-b1d4-7616b07e649d,ae4548d0-0b01-402f-a155-84f072ac346c,2023-06-23,Généraliste,Contrôle annuel,Ruizdan,82044
+8fbf4b0e-ef10-46b7-86cb-76f6f49e54c6,ef500f51-7e4d-4e20-943d-3841465778f8,3c1fc6bf-d731-4cac-a3d8-dc4d472aa83f,2020-02-17,Généraliste,Suivi maladie,Voisin-les-Bains,06989
+2b0a5525-9e26-4024-9eda-12710f904019,2b2f97b3-88d2-48bb-a1ae-0d8f38ca0ab8,6229eb71-6b60-41c0-a432-3d9ae85a1dde,2022-08-12,Ophtalmologue,Suivi maladie,Payet-la-Forêt,37470
+be8f5747-3d30-4b70-9d8b-8211075fb23f,da1d20db-022a-44fb-95f9-2edb000f4a73,459ce4a8-7162-4995-a50e-cb7a2547e8bf,2021-09-20,Ophtalmologue,Contrôle annuel,Sainte Jeanne-les-Bains,34927
+7a2b18a5-9941-4648-9879-b746afb74d22,ad948a30-8be0-4151-a417-60b164359599,e0c2c40a-9910-4c58-a708-6617896852d9,2023-11-21,Pédiatre,Contrôle annuel,Sainte Laurence-sur-Mer,46412
+ca6b3613-bfad-4b6a-a626-4710a4aadeb7,aacbff57-7a28-4d79-a48a-ac6381acfc24,b1af75e1-ffc0-4586-9fe8-8787418b4c86,2024-05-25,Ophtalmologue,Suivi maladie,Saint Chantal,42157
+d7b8a57f-0bc4-45f6-af7a-e622ea5a9dfe,0ef85b3e-45ab-45f5-b700-2d3ba4555d80,d900f1a7-dd61-4b4e-b028-fbdfb9227e1f,2021-12-19,Dermatologue,Suivi maladie,Hardy,80723
+d0f005bf-6743-42f0-b236-abc1557ebae5,159094a9-539b-4de9-b42c-12251079a886,995e5bcb-3890-49fb-ab7d-4e34bcc5e450,2022-05-12,Généraliste,Urgence,LucasBourg,64153
+f9454bb4-9b69-4b7b-a74a-1bf3639975e9,a7eb1149-2781-4f57-996b-c6c0116e308b,6a5ef369-f265-4836-bee0-c1deaf5344a6,2024-02-26,Ophtalmologue,Consultation spécialisée,Boucher-sur-Valentin,86194
+714d3e76-e728-44d4-824c-f590c509a92b,a6d41580-6a34-4e9c-92ad-3bc469c6dee3,6d67d499-4002-48fb-bc3b-23cbd4d4bbef,2021-06-14,Généraliste,Urgence,Buisson,53535
+0ca49e17-074b-432f-8e73-b7a72d592a7d,1e0d79f8-64c3-429e-94df-f948ee94424b,802cef34-1caa-4e31-9264-60db3c610477,2022-03-29,Pédiatre,Urgence,Dufour,88137
+0a2cee27-4461-4516-9e72-e1cbb5d6eb62,5e4eb7b7-03c7-4e3a-8d0d-eda9391f877c,996b2e36-757b-4791-a048-831bce462092,2022-05-22,Pédiatre,Urgence,ParisBourg,36136
+0b022556-00e6-4d1c-b642-e21761820a2a,ed55ef1f-e147-40ac-967f-65a0cb9d816c,9da1f109-8bb8-4e61-9d1c-fc5126b5f449,2024-08-02,Cardiologue,Urgence,RossiBourg,88952
+ffba71c9-eb72-41dc-a869-bc9e26580408,af043e0d-5d76-41cc-82d6-ea156473f2e0,8fae0081-1460-46d9-8b8a-8a504166b8de,2022-07-19,Ophtalmologue,Urgence,Sauvage,64565
+ae815aa5-54ba-4ae3-99d8-e27cf709c54f,a327996e-e34f-47c4-9cbd-189218415856,a447cb5c-ae3e-4f11-86e6-0e45cde848b7,2024-02-09,Dermatologue,Contrôle annuel,Gosselin,74945
+1898f3b1-e058-472d-b5c2-fa12fd9617ff,a5d695c5-e761-47f8-9efa-986828ffb57a,fb6f8675-06ec-4250-918b-6107b3ec0b4d,2022-09-05,Pédiatre,Contrôle annuel,BouvetBourg,62787
+9552492e-b109-4e2d-b01a-a09266895144,fd71c130-65ff-4659-a290-dfb5854f4ea9,1e92fe69-4aa3-4cf5-975a-f1f13d1db21d,2020-01-04,Cardiologue,Urgence,Gonzalezboeuf,93445
+adc5bc73-2fa4-45c0-856a-c527c23086ec,1a5759f0-218c-443b-9366-ddfd7c16d9f2,d6971311-5448-46a0-a6df-edbe00f85251,2023-09-21,Ophtalmologue,Urgence,Lefebvre-la-Forêt,94978
+b7ae0064-a9c1-4d21-a875-9a0ca09240dc,257fde10-a788-44a9-8ca9-3c9760b912a1,5205f5ad-f8c2-4465-8ded-ecd724e97560,2021-08-31,Dermatologue,Suivi maladie,BodinVille,21970
+72249085-b3d0-4361-b670-c5033576dd18,46bc0246-fd59-400d-944e-b3a1a26337d0,62113755-154d-4761-acb7-7fa9222f3c64,2020-08-31,Cardiologue,Consultation spécialisée,Perrier-sur-Marion,65762
+63a05997-6789-4c76-8acd-5b713b33efd4,76b736ed-dd1a-4b9f-b60a-b77d4419913b,ed80889e-c84f-4d91-9e2a-314797c6bfd6,2021-12-19,Généraliste,Urgence,Thierrynec,81204
+b639aa32-eba4-46f1-a58a-35a2a4078607,2ac04bc4-5087-440e-9ceb-c4cba9a29d36,5d1fcd43-b1ee-4779-89ea-0f13963ac47f,2024-02-25,Ophtalmologue,Suivi maladie,Grégoire,11979
+0ab0afa4-8dc4-4987-b60a-3e2673a8b75f,daf04158-eb60-4e59-851a-35b6131acfa2,12c90a66-2460-4101-baac-70f3a17e2fce,2020-10-05,Ophtalmologue,Suivi maladie,Simon,97378
+c64697b3-b239-4c17-99c7-51b4c9469f2c,6cb7db0a-7445-4093-9f99-37cec3d15245,2ba60d87-92ba-4205-9936-af6ce1c5a88b,2021-11-08,Cardiologue,Urgence,Rousset-les-Bains,24737
+3372f778-56d0-41bb-b12d-43a1c3bd4432,a6775d0d-0e7a-41cb-892b-a06592914c4f,ae5a844f-fdc9-419a-a49c-bc38bda1f17d,2021-01-20,Généraliste,Urgence,Ferrandnec,12734
+bbb7a574-b92f-4309-823a-ee2939d4da5d,b572cb1c-2767-498a-b09a-080c4559d079,210685af-be9f-49b4-9c6a-092c722b240d,2023-09-20,Dermatologue,Urgence,Saint Tristan,98449
+4fa71cbf-6589-4f32-828f-7fd46d6e5165,95fd225a-e80a-4c5c-8d9e-b6478da5cdcf,3803bed9-fde7-4a90-b29c-95a0d4966f60,2020-06-01,Généraliste,Urgence,Pruvost,33488
+e7e95bc6-2737-4cb0-836e-40f6abf35d6c,c400c4ed-c71c-4932-af27-32298bece2cb,27722b8b-8eab-42a4-834d-d934a92897a5,2023-04-22,Généraliste,Suivi maladie,Guillaume-la-Forêt,28683
+47bb99ee-12ee-4042-af1f-5d1bcc8b8275,335cbf86-737d-4ed3-9af8-fbf2c7f4ff90,588beb90-17f8-4939-881a-cdf28d2a4225,2023-03-26,Cardiologue,Contrôle annuel,Perrin,11665
+10871f66-437d-4d45-b305-0c3375e3b31d,a97c2289-88f2-43f6-bf5e-adeae20968f8,7ced2279-3155-49ee-869d-a83a54c61000,2023-06-23,Pédiatre,Urgence,Rocherboeuf,18588
+27b28cd4-6747-432e-8412-411f9d5ed315,c5381f57-f509-48eb-8f48-bce7647632bb,0d3d16a0-00ed-4d6e-8dfb-184f74c67497,2023-02-10,Dermatologue,Contrôle annuel,Bourdon-sur-Bruneau,18820
+8c3ebd70-e382-435f-8542-8d85284d7b8e,84209293-6ec8-4270-96e7-93cf2348ed6b,863f3f3e-f7ce-43eb-b880-945bfea29cd9,2021-09-06,Généraliste,Contrôle annuel,Saint BertrandVille,82827
+6e22fcb6-0cf9-43d8-a818-ca1046641b3b,cd605759-d146-4c08-ac63-860a0597cb76,cd2f55b1-9006-4bb0-83ff-5af05fbdfc48,2020-05-17,Pédiatre,Contrôle annuel,Lemaître,04004
+7b982702-5749-438e-9e4d-9a357eeca307,8aff2c5f-78ca-46dc-bdb6-2f03b054afd9,4e1f40c5-254d-41a0-94b4-84fe0f249368,2022-03-19,Pédiatre,Urgence,AubertVille,32371
+db1e288b-0f2c-4df9-a137-bc704031c949,9519e60d-f4ac-42ab-96a5-34600d1100a8,8fa2b904-1422-47a3-a08e-b939d5d49316,2021-02-11,Généraliste,Suivi maladie,Lopes,80303
+931150f3-17ee-46df-ac7c-5029dd44f49f,9b2da092-26d8-44ae-babb-71cd6f8f2d14,e85553ca-5021-4dd3-a2c6-89f39f8a9046,2021-04-05,Dermatologue,Consultation spécialisée,Perrin,64560
+f3cd85ff-8426-4132-8408-95f864098f9f,15c7006a-afb2-4bbf-88aa-27dbc03641ff,d62dcfdd-b16b-4886-a2ad-f4a19b034956,2020-11-23,Dermatologue,Suivi maladie,Saint LaurentBourg,86669
+3a88daed-7c3b-4565-b301-6c677130cc1d,8fc7c867-1796-4223-9fcd-0ddb4f60253c,05ce63f6-560b-4ff3-9d2c-508085d16379,2023-03-09,Cardiologue,Suivi maladie,Rousseau,06552
+acfdb706-6019-4d63-9c9c-f272efb48e8d,693c3f8a-2917-4017-9780-4a4f412023da,d158c2c4-d574-46e3-b876-9f29ae689584,2020-11-16,Pédiatre,Consultation spécialisée,Jacob,99816
+d60a60a7-9f8c-4fdc-9932-e85b877986eb,44a2843e-bf80-4ece-8a18-6e1016b7b5a0,a4f43864-a8c4-4976-aecc-050704147250,2021-06-07,Ophtalmologue,Contrôle annuel,Richard,93424
+9d32484d-2779-4675-a931-55b4d3e33de0,29842425-b43e-4a75-97a5-35eb2ea40850,1232dee4-1e5d-40c2-8391-84067b237b0d,2023-09-02,Dermatologue,Urgence,Gonzalez,27198
+735626c1-937a-47cd-b7d2-0c0d210cd376,c4523f54-6c21-4b9e-94fd-581ca83ce781,21d596cf-19ba-4c43-b4fe-678dec326ac9,2023-08-06,Généraliste,Consultation spécialisée,Martinsnec,59724
+3d982348-3acd-4132-80ea-692327e241d4,293f83c9-0e54-4708-aaaf-83a740a629d6,98875238-d712-4672-9b83-ad38b138cb0a,2023-05-14,Généraliste,Contrôle annuel,Thomas,17908
+a945bb49-52ae-47e0-9ee6-1ad717baa45a,d9da8822-88c6-407c-af70-a95e008b0df1,5d569e73-f9c5-4cde-b04a-797903bceff8,2020-05-17,Dermatologue,Consultation spécialisée,Germain-les-Bains,57500
+02831b63-6b50-44de-8216-76e81f233c16,e1d9938c-9e86-415a-96a8-aacde3ba3893,35b7d6ea-4ab4-4cdf-893c-2b608bc3de84,2024-02-11,Cardiologue,Suivi maladie,Sainte Pierre,58816
+e6e809c7-0a04-4935-8524-eed8582288dc,3648557d-5135-4683-96c2-e0ef84d8fd11,4d2e2b05-6ebf-496b-bd3a-784356a8e4bf,2021-01-05,Cardiologue,Urgence,Marindan,39296
+c3e8347e-a7dd-4785-a522-8fcd31b8547f,40ed1c85-0ab9-4b18-8e6c-95e4c65c03eb,8068f797-678e-4a71-be71-5b873004ab4c,2021-06-15,Généraliste,Urgence,Rey,37547
+98d3d20a-7867-4157-ab95-e00153ef3633,326f0938-de93-44e4-9bfe-f0786d9c9c9c,c7a8c7c1-5cdb-4a6d-89f6-c20993f1b702,2021-10-24,Pédiatre,Urgence,Hoarau-sur-Richard,87019
+4fb65d23-1830-4c8c-9baf-8f1e94fbf667,36332102-82ad-4467-835c-ea8d70fd5a80,33a910fe-66fe-4733-bd6b-b6a6ea4aa69d,2024-03-16,Pédiatre,Suivi maladie,MunozBourg,61862
+ff31b4a3-9261-4015-a1e9-f19983bdecdd,1ba6c91c-82d9-48a5-bbf4-bbec7bbbcbae,2db4d41c-60b1-4eac-87dd-a9b6eeca3ca5,2020-10-05,Pédiatre,Consultation spécialisée,ColasVille,97836
+68bd3383-7911-4506-9594-22c0d325bdaf,bc747196-819c-4d5c-9443-19357dc137fa,d840148a-8265-4517-a01f-7349eebba620,2022-03-29,Cardiologue,Urgence,Lenoir-la-Forêt,55457
+2e6d07b1-dea6-4fcf-be1c-81d1d4bd4d67,215484fd-be38-4acc-a912-807a3914a4f6,72928500-4a84-4600-b75f-6d5ee9d623e3,2020-07-01,Dermatologue,Urgence,Humbertdan,74043
+b89de93e-7aa1-428b-9360-c44ce297b7ed,396a11f3-ff90-48b8-a9ee-5f60896510f4,1689df4e-ebc0-43c1-acac-b321159a088a,2022-04-07,Généraliste,Suivi maladie,Morel,25729
+3dd5665d-e280-40c3-a70d-97817c160793,66e657cb-0cdc-40e2-bbe7-fed3a16fe608,542d5121-8566-4d6e-b24d-d8c20061fe2f,2024-01-27,Ophtalmologue,Urgence,Marion,34569
+5107f133-62d5-4d1b-8ce4-d621f1ee065a,d104c31b-8323-4fed-be82-d25633273dc1,d81c9144-fe1b-49da-99d7-858f53d4345c,2021-02-20,Généraliste,Consultation spécialisée,Boyer,61262
+6d2464f0-adb2-486b-8d4e-f2d6e960e5d4,81f02a33-36f1-4637-b15a-984dbccfbc45,356c14f8-8daa-4354-8b7b-5a260b63df84,2023-10-21,Généraliste,Suivi maladie,Brianddan,94342
+e18f7814-ad65-4883-9352-900a6c1850f7,77edfd1e-6319-421c-8176-e0401f1a4795,77a3d11a-3c5d-4de9-b0a1-3978a9227be6,2022-10-21,Pédiatre,Suivi maladie,Buissondan,54079
+4d4d94a3-ccf6-4146-909b-e9884535531f,e38f66a5-d49a-48be-a152-dc8373ca8265,71ad14dd-91cd-40a7-8759-ed5b36bcfc33,2023-04-15,Cardiologue,Contrôle annuel,Martineau,81381
+043c4e64-dd43-41d9-b7cd-3992c4e7b389,f3281b75-a5e5-4456-a122-0f749c2c1fc5,f941471c-916f-40fe-9cb9-07b43eca63c5,2020-11-08,Dermatologue,Suivi maladie,Didier,35634
+7b8a7f79-15ba-4b27-93f4-a446d8d05229,8e6c7555-8774-490c-a058-e892b5652025,a6624bf1-9881-4295-8a93-a23bc26dc17d,2023-01-11,Cardiologue,Urgence,Guillonnec,96007
+59095113-06bf-415e-bad6-4d63d1ed4c29,ea7cff60-af34-4b94-9235-64c814f9a6f5,1bf97dfd-35f4-4d6e-a034-7d1e5f441de8,2023-10-30,Ophtalmologue,Urgence,Legros,80395
+abfa09b4-9d30-4d27-a4ad-8c6249c6ed77,98274d65-b182-454b-82b9-cba66f00e33b,291be474-9a61-40c2-bf57-81a83953d370,2023-09-10,Pédiatre,Urgence,Jacquot,62643
+a44910fb-5fa9-4acd-a044-0439ac64f5ed,a58bc05a-f873-4928-916d-f91c3e67c777,f47bc41f-7bd1-4ce6-8748-aaf386152ba0,2022-07-26,Pédiatre,Urgence,Hamon,95974
+29bdaab7-9084-45db-84fb-54fb6912de91,8a130cd0-d515-44ee-bee8-48bf601b351e,382f2f2c-9dab-46ec-ae19-5b7885a34c0e,2020-06-09,Pédiatre,Suivi maladie,Nguyen,11217
+330832ff-2705-40c7-8b94-810563bedb70,4da879f0-26b3-4598-a9a7-3e17fd3f2a8a,e10027bc-0bbc-44ba-89d6-18e82530c18f,2021-10-27,Ophtalmologue,Urgence,Neveu,50910
+6e43e502-51df-439d-8a4e-7ba2ac73da4c,a2d51a43-2823-4b5e-8a89-4f79a472e673,31daa089-2ead-4ed7-b7ad-f0e42968bc70,2024-03-31,Dermatologue,Suivi maladie,Delahaye,00097
+b1a56191-2ea8-41e5-971a-c0de81223512,c6dc0629-9b55-4bfe-b734-52a1c9032a03,05846949-dbed-4b4a-b9c9-1a8d9a10aac9,2021-11-17,Dermatologue,Consultation spécialisée,Da Costa,01078
+8dd39149-aa8c-4953-83d8-3dd3a610ba70,82083e05-e9ec-43d1-9c65-09eb09e563ea,3ef65d05-cf95-488e-a3be-78f3dd1b9305,2022-06-17,Ophtalmologue,Contrôle annuel,Andre,17613
+01e56700-4ac5-4411-a15b-f05ce7f8a900,5845464c-0f0c-4586-8e8d-dc7de5d3d654,c7438fec-1085-4d7e-a81f-ab56d54a83b0,2021-11-07,Ophtalmologue,Consultation spécialisée,Poulain-la-Forêt,90287
+341a293e-2885-4592-98b2-1383acb1889d,4e6fa2a6-fd88-411b-bc95-7f359c8876df,9d5eec3c-e686-41e9-b003-c9e5552dda3f,2024-05-10,Pédiatre,Consultation spécialisée,Baron,91674
+4b2d24e7-6cfd-4c06-aaf2-94708fb797a6,b3cf787a-6194-4e2d-88c9-068112bbf3ea,037d1561-ab83-40b9-9cb0-d16885d8555e,2021-03-19,Pédiatre,Suivi maladie,Saint GérardVille,74747
+1eab237e-2be7-4e71-a5a3-c081e0b019ad,404a9d33-a143-4e04-b75f-93d28f744b72,32a6ec14-475c-4ef3-a61c-b07e3feadfb5,2020-04-22,Pédiatre,Contrôle annuel,Jacquetboeuf,41250
+a819a0a7-da28-4946-a44b-54adf71a6bae,c5f2ab60-10c1-42b7-a8aa-808e30f4f0df,14a835b4-5451-4ef6-85c8-1e666c0b3d95,2022-08-28,Dermatologue,Urgence,Fabre-les-Bains,49190
+d626cdff-2f21-4dc3-b4a4-f6baaeb64960,7dda1f96-39c9-4de6-acfd-25dbe2fa9c01,097440bd-3454-4bca-940d-80c0d4cdb1ab,2020-11-14,Pédiatre,Urgence,Le Roux-sur-Dumas,41525
+3f9efaab-8011-4d91-a545-40b2a7084201,7722f0b5-ba89-4b6c-b5ad-cefe6795a882,d039295b-4c63-4251-b622-4d37c3c1e4dd,2024-03-03,Cardiologue,Urgence,Lévy,06813
+ce0dd361-9366-4c41-aa4b-5b4a3b108378,8722dbab-5303-4e8e-93d0-3f8ef01fe503,9ba494ee-da5d-48e9-a717-d8e8b721bff9,2023-09-09,Généraliste,Contrôle annuel,Saint Nicolasboeuf,03209
+deac7f55-64e2-40bd-8097-8de7aa5730c5,f07c5acb-e073-469e-b02d-79b4adf5e308,5821bf22-3f39-4fcc-beb3-d00f6fbee4a8,2020-09-14,Dermatologue,Consultation spécialisée,Andre,23997
+c08ef566-475f-4e4b-9793-5741fc7e3cdb,c6d1b2e8-5024-4ef8-a8c3-88cc4902d046,314cca1a-daea-4026-bdde-31665f761e1f,2021-11-29,Ophtalmologue,Urgence,Sainte Jeanneboeuf,16114
+3e3d74a3-f639-47c8-a4a0-558fb65bc254,66ecb9a0-1e3e-4502-87b8-bf9a9c9de2b3,333ba24e-bb5d-466f-bd0d-70260164f1e2,2022-03-05,Généraliste,Suivi maladie,Rolland,61284
+4f2802e9-3592-4292-9c6a-85e7e02a5edc,c6f8eb6d-6d87-46a7-8fb5-08e1c49e9b2b,21609a60-dee5-48a5-a1a1-8361513996ec,2020-11-25,Pédiatre,Contrôle annuel,Sainte Éléonore,08734
+8f50d0cd-d5b3-4ce0-94a6-7fbb408c6156,599dfa58-a3df-403e-a9b8-c504eb2fc5c9,93672fbb-abb7-4ada-848b-5a9952bce349,2022-07-28,Généraliste,Consultation spécialisée,Neveu,70030
+37b7c9f4-3233-41ca-986e-6cc8c7c1e93d,c3c3be8f-2703-4113-a80d-86cbeef5490c,029250d5-37eb-418f-ba7c-d4a7156267b1,2022-02-18,Dermatologue,Consultation spécialisée,Louis-les-Bains,86488
+6573572b-7542-40a9-93bb-6e3a7ceea164,456d2154-b8b8-4f62-872e-853a2e07c657,79057b9c-c133-4c31-be75-17b9d1495d70,2023-08-18,Dermatologue,Consultation spécialisée,Paul-la-Forêt,94345
+86f865f5-de00-458e-957b-97be9a1e9c87,bd4bfe1e-f974-4d38-8f54-136298e1bd7c,ea8138a2-6201-422d-b2ca-9fc074b45594,2024-03-05,Généraliste,Contrôle annuel,ValetteBourg,35203
+0d0d7faf-14fe-49e5-bff1-328c6b874855,629f505e-3719-4cbe-90a5-55d4aa2c992f,63092821-a6c0-4dc8-b6cd-b31d0344a86a,2023-12-09,Cardiologue,Urgence,Ollivier,26730
+f248421c-e8ba-4df2-a8bd-ff852c9e4443,1f2fc697-bddc-4130-8622-202a53af8be3,4dca6443-06ce-4074-ba4b-693f8e0c7ab5,2023-12-08,Ophtalmologue,Suivi maladie,Lefort-sur-Joly,81311
+6822579f-d4b4-49c4-8c93-d7f2546e75ae,894450ae-e487-4ef7-8d25-fcea92e82f54,17daec9d-91e0-4635-8538-fda4a4e6b283,2021-06-20,Généraliste,Suivi maladie,TeixeiraBourg,17269
+65868895-44dd-4f3b-8218-e7ceb9217ee8,33586c24-f093-4c5a-a3b5-6a237163359c,0db2d24c-5746-4457-a3db-a26aa15a5e48,2022-05-24,Cardiologue,Suivi maladie,Saint Andrée,80429
+7ac50240-39d0-4b43-a2cb-102c809832a4,19bf3017-b57c-4878-bc89-9f34f8d02ce8,362c5546-4ae3-4ba2-ae8e-a2ad9f73ef8e,2020-10-02,Dermatologue,Contrôle annuel,Poulain,60964
+e5c4858d-47ec-49f6-984c-d1de6ad5ea01,c5acfb7e-1bfb-4877-ae63-8fd87bb79b16,3f6fc7ec-851e-4c89-a6f3-5920faa0e3cd,2023-04-19,Cardiologue,Contrôle annuel,Tessier,83112
+bf460ab4-0dcf-4219-b74a-87420dc32a02,4ac49d03-c8d4-49d9-9888-03ab4991637a,d97c271e-5a31-4e46-a9e3-986536e05eab,2022-07-30,Ophtalmologue,Consultation spécialisée,Regnier,44286
+d9364db8-ecf4-4beb-a371-43bff90ec42e,7633840e-55ae-42c5-ac86-7acc387f5b05,d0ff9af1-27a0-441d-b8cd-18feb0fc66a8,2021-05-05,Ophtalmologue,Suivi maladie,Saint Frédéric,97001
+6cc6f4ea-e262-4ada-9c55-0169ecf66404,984a86ab-f915-4eab-967e-a171e65e4217,14b21fbf-2998-4ce6-a3ff-c2a429fa50b4,2022-09-05,Cardiologue,Consultation spécialisée,Jourdan,64520
+af9ba5e0-10ac-4191-a08a-37a1cba3a581,3910c5cd-582f-4622-a014-4050c61806e8,378f6279-d151-4ced-af86-df8ba5fb21ca,2024-06-21,Pédiatre,Suivi maladie,Meunierdan,58769
+03fe496d-f73c-4f6b-b81f-11123b1a633b,c8612c7d-b601-46b8-8096-e47f0f6bf958,82fafd13-aa60-452d-8a9d-8d2a595d542c,2022-05-01,Ophtalmologue,Contrôle annuel,Saint NicolasBourg,51795
+067f8734-ed45-4123-99b2-a12df38657cb,f03b18e8-cf88-4a41-84b8-78415ee995ed,87ad0975-bf44-4548-9aa9-d56e141366d1,2020-11-23,Cardiologue,Suivi maladie,Chauvin,37095
+2365bbd6-1ddc-4437-b34d-844d3ebebf99,ed58a8a7-efba-408c-a98b-4d2f8fae3cc8,3f95d2cd-4eb7-435f-af4a-7be9bcca6a8c,2021-04-09,Ophtalmologue,Urgence,Hoarau,01968
+b832e843-c83f-48c5-8001-19adc99535b9,d385ea66-5bd1-419e-92e4-b02a9e0346b3,7ab7b331-e551-4bb1-a541-05c895ccb789,2022-07-18,Dermatologue,Consultation spécialisée,Mathieu,95609
+f528f3c9-41fd-43cd-87b0-7b4b2d84fbf1,1ca0bfaa-ac97-4f4b-9512-62291b4ebe78,12ac3490-8ec5-48e8-8580-0e9e43daeb2b,2021-09-30,Généraliste,Suivi maladie,Collet,01338
+846925d8-28e0-4c15-b664-ece004c3273e,7f09e39f-50d9-46bb-940c-99990e926d9f,5935352c-19c6-49dc-a565-eaf19b8dfadf,2024-06-17,Dermatologue,Contrôle annuel,Camus-la-Forêt,96810
+167ad50d-154a-407a-bd4d-b7746f3e4b7f,9127bab7-424c-4984-b246-6f0b9debf5fb,74e4f2e5-fb8e-4da2-971e-e94ef63bd196,2021-01-10,Pédiatre,Urgence,Duboisboeuf,02987
+00d0bdf9-05f5-43af-a88d-e1917d539f85,846d8e38-b40d-4744-a3e7-bf5a33aa55b6,15adb9ea-82b1-4987-a2df-ca9d04ee1f18,2024-08-09,Dermatologue,Contrôle annuel,Charrier-la-Forêt,79480
+efd1dfaf-e8d2-42a3-8218-18dd74ce7a3a,a62de445-ed36-417a-b87a-e248342308e1,d090199f-971a-4cb6-99fc-a00e323f39d6,2023-11-18,Dermatologue,Suivi maladie,Guyon-les-Bains,32791
+3b229d84-00fe-415a-8b83-b653e06aa22f,749bf8ab-70df-4ef7-80af-5b8c13074e03,9278a248-eedd-41db-a862-5eead8c6ffe9,2022-02-28,Généraliste,Contrôle annuel,Mace,79186
+5b5ceec7-4eba-4375-8c9a-fdcc64b6db55,32981922-6842-443e-b6bd-4c265af02a0a,171b732d-06a7-40bd-8d9d-88fb4e17c101,2020-08-08,Ophtalmologue,Contrôle annuel,Allain,04893
+9f00e830-295a-4d02-a0ef-ef30d11d3299,dd64b04c-f94e-4dc1-88ee-22d2fc8c6ef6,eff7dfa4-4a65-40d0-9d56-8e03403dab07,2020-06-04,Ophtalmologue,Consultation spécialisée,Pelletier-la-Forêt,20891
+248c4af0-ef14-4e99-a2b4-d3a179106dd9,6e3acd49-ea4e-4e56-85b4-ff284ca3cf3c,4ee1989d-1c02-406a-a83f-17efe804b8ed,2020-08-01,Dermatologue,Suivi maladie,Delmas,49386
+73032cd7-053b-4ddc-bfd0-2afc6521759c,5cd21e23-c06e-41d2-8539-9668d79646e4,790bfe4f-35b4-461a-a6eb-b52f76778f76,2021-01-23,Pédiatre,Urgence,LévêqueBourg,11246
+29ec35a5-7422-4f4b-b3a4-e3627c2312cf,87adb228-8e89-4638-acac-6bb9d4efee90,b6262f8d-1941-43c6-b699-393bcfa28e48,2023-08-20,Dermatologue,Suivi maladie,De Sousa,10605
+35c39737-c0d6-44a6-94f4-e06f811c78e0,58298b2d-bd06-42db-9a53-182ebc95798c,0d0adcd7-0fe2-4352-8ad3-2640a818f453,2024-08-24,Ophtalmologue,Urgence,Grondin-sur-Maillet,56869
+24842ed1-8054-4ded-b288-f97a6293a042,87e15de4-66b5-4c29-8610-ffcb956208a8,34a76edf-8bdb-44c8-b997-365d55209687,2020-12-13,Généraliste,Urgence,Antoine,21868
+7a06b4da-d8a6-4558-b5ad-5169544164b4,c0cba2b4-60dc-4278-aa63-71c9501eef1f,4f243b28-3e0c-4c1b-9bfa-fd08bac88b04,2021-05-25,Cardiologue,Urgence,Bernier-sur-Mer,94663
+d8ec8d25-3ad2-4c4b-9af2-9465d7936815,35920243-f082-4e63-9582-6574396bc769,5bfb20ca-57e5-4e43-85be-2e9c0faf3c50,2022-06-04,Dermatologue,Consultation spécialisée,Roussel,90138
+d5d5ccef-65dc-4c7b-a8a3-6a11bf4a0006,4fdf8d85-f543-4b3c-bc42-f9c204c28b91,a73edf9d-c868-42c8-b2f4-10c558f6f4e8,2022-07-16,Pédiatre,Contrôle annuel,Marion,67917
+055ce6ec-d4da-47f3-aa1e-ffab37720e84,bf1f9f9c-4722-453c-99ac-01714cf273f4,04f1c2f7-475a-4c6e-bda4-180da0759783,2022-07-12,Cardiologue,Suivi maladie,BoyerBourg,47213
+47827a24-bedf-418d-af55-891c01841c1b,b2ba9767-7c13-44f0-9a7e-6995626610b1,e744e63e-cce6-45f0-938a-67271e1afcc4,2021-04-05,Cardiologue,Contrôle annuel,Meyer-sur-Garcia,75882
+6ef04acc-345a-4260-b041-b9d1354b7bd6,8a4fe643-615e-4a8e-99d5-88035736be5a,71da03be-0ecc-42c2-9531-ecbe8af2714e,2021-10-25,Cardiologue,Consultation spécialisée,Roche,83593
+ce96ebb2-b2ff-48d3-94c4-127f3b5c82c9,45d8c62e-f384-4927-81d1-78f43d9d4348,50a24109-4747-4eb5-ac56-ea49924ed2ea,2023-10-25,Ophtalmologue,Contrôle annuel,Petitboeuf,69558
+cd5f9772-08b4-4892-8f2b-13c5d2e311c4,dc4d7674-bf4e-4cfb-aea1-d5e329484485,3718868f-bb5c-436a-addc-2ef26cd5aae0,2023-05-18,Généraliste,Contrôle annuel,Costa,87197
+38551920-7a05-4933-942a-364247aa8243,105ba360-e4e3-4a87-9e67-f4f759821f1e,edcdff9c-8a94-4814-aa21-0077251fe18e,2023-08-07,Généraliste,Contrôle annuel,Sainte NoémiVille,80556
+65f3f10c-71f4-4337-b59b-47a24772b4e8,7f1bf249-7736-4e7f-81a0-6d798bc32f50,3dc74178-3869-4049-9899-52dc39f61652,2024-04-14,Pédiatre,Contrôle annuel,Saint Thibaut,48134
+538e34f1-bd48-4689-8e9b-c7f52613a8c2,d0a3e35a-4ff3-4ef5-8574-caeacdfe6f43,fbafa90d-b097-43ca-9714-6135e5efd80b,2021-06-02,Pédiatre,Urgence,Loiseau,46759
+1c57264d-7151-4149-98f6-5ec49e483d03,097c1e64-d50e-405b-8384-f4e1eebb5f6c,2dec99bf-bbbb-4364-b45b-b73aa999d20c,2023-06-29,Cardiologue,Urgence,Perrier-sur-Navarro,50856
+858a6986-1ce8-4f88-9216-aeeef3648dea,5e860148-26a9-4554-b3d8-b7eaa231e7c6,72b4e4b9-02f5-4e09-9d1a-c3dadf17bda0,2023-02-28,Généraliste,Consultation spécialisée,RollandVille,73477
+8241dcf8-8c21-4c15-afd5-5c1930cb476e,b25af544-fca8-44c4-a68c-77abf691973f,a8d6b8f0-fd23-441e-91f4-a35900989634,2020-07-26,Généraliste,Consultation spécialisée,Pasquier,00140
+de0962d0-2b33-418c-98a9-7f48c4d626df,6c413a3d-5c73-4c91-bce3-4cc431868f48,bdb4d8ba-d196-4042-ab57-b9114bd2e18b,2023-04-16,Pédiatre,Consultation spécialisée,Leblanc-la-Forêt,53464
+b1949731-352d-48aa-b1f8-b4b66a3c3645,8023e416-092e-43f2-894f-e625a7082664,e2d084a2-2bfd-4092-815c-951cc394f806,2020-02-19,Généraliste,Contrôle annuel,Lemoine,07403
+93a28325-2f08-4e85-be8a-2297e6b55a21,8e1aadb5-5361-4ff2-ae04-a59b735dab95,f7be7d8a-5428-4536-b0ce-88827a1f1294,2020-07-24,Dermatologue,Urgence,Saint Nathalie,29063
+8af06301-7b2b-49b8-87b3-d2e043af406a,5011fb7f-688e-466b-8504-e5f774441386,609abe7f-b4a1-4bf9-b63b-8448427b607b,2022-05-21,Ophtalmologue,Consultation spécialisée,Leroux-sur-Robert,09490
+f200934c-d1a1-4b72-869b-8bf71317ad1f,2fafad02-e0bd-4d3e-b532-747a2186bd3d,a2cac4be-bd07-4c4f-a071-4bb103885f26,2023-03-17,Dermatologue,Suivi maladie,VoisinBourg,04602
+b85f6abb-6766-4c15-b020-d6984796c8f9,5cd90d12-a771-4827-9bb2-a6e237098cac,56b9a8c9-54c1-448a-be42-c88a0cc5bf9d,2024-08-24,Ophtalmologue,Suivi maladie,Navarro-sur-Mer,54240
+06e3851d-cb92-42f4-9159-f3825ad20895,d3b94bba-4d9e-40f2-a89d-f078c9e4b4be,cb20024c-21ca-4d07-975e-2e0673531014,2023-07-24,Cardiologue,Consultation spécialisée,Martin,06007
+49375586-0b7d-4e15-9425-a663096cc9f1,d8495f5f-1729-481b-b9e1-6b7569dc4ee6,f9b2cfa1-43b6-4dc6-8703-0bdf0fae6781,2020-09-02,Généraliste,Suivi maladie,Saint Édith,96366
+a2c1d3f5-100f-4752-a997-d3dd985ff62b,5720b4c4-522a-4e3b-9ade-91e0d9b9de1a,9b81461a-b224-4577-9093-fbaf96c6ce2d,2023-02-20,Ophtalmologue,Consultation spécialisée,Sainte HenriVille,13790
+2e04f9d9-8516-4d5b-ba8c-dd1266f99a4b,3cd0b94e-5e0b-4791-a8e9-33db00f952fa,b385670c-4f2d-465f-b158-012f133e9819,2020-10-09,Dermatologue,Contrôle annuel,Paul,30124
+e37d9add-8ef1-47d0-b247-8ec49eff7c12,4ab2e99a-28b3-463b-855c-698b238a1d07,1ca11eed-fb9f-4252-855c-a602c2a7aa57,2022-05-21,Cardiologue,Contrôle annuel,Boucher-la-Forêt,75212
+10e82ccb-b621-4246-8b71-5a9f3d383c9d,72dcdce7-e2e5-45a3-9871-05d02c30eb4b,7ca483a7-7b74-4b6d-a33c-5e33caa63dac,2020-08-17,Pédiatre,Urgence,Bouvier,95360
+22bdee73-85c9-4d87-a119-5b0508ad5fa9,0f2abe71-4543-4875-b4e8-f149ffca1fed,354c34f8-b5b3-4b5e-80ea-ae52735b8123,2020-08-07,Cardiologue,Contrôle annuel,Leclercq,50700
+b714ac06-fdc5-4461-9158-5b66853e7d77,632664c2-8140-4fd4-905f-b614bb1561a5,a1753e50-b459-4ebb-8384-06e17512c39f,2021-10-19,Dermatologue,Consultation spécialisée,PottierBourg,73974
+e09b895f-ff45-4e5e-a260-359ef0cbe410,6b6c0161-4375-485b-b0ee-0eae755314c8,8ed5b93b-fa2c-4995-8542-59c0c7941dce,2021-02-21,Dermatologue,Urgence,Lesage-sur-Mer,34485
+dffac87b-9401-432b-84fc-11251834e46e,4c6d1dda-f1b7-448c-81aa-f52361f1c5b4,5b308cce-6b13-44f1-b37f-a3ad8e961ad0,2022-07-13,Pédiatre,Contrôle annuel,Turpin,04414
+fe3c0d08-f218-4ead-bed9-c6f212137883,fc4021cc-b91e-4027-8d35-818fd531585f,c96ad30a-0916-4574-ac29-10284bef3a6f,2020-09-10,Dermatologue,Suivi maladie,Sainte Geneviève,13396
+1ddfe29a-bbc1-42dd-8fa1-46532b1f7e03,421f8eb4-84cc-44ea-b34c-64f7f695da44,69d72e09-1a56-4dff-9ed4-c318f82a6d4d,2024-04-16,Cardiologue,Urgence,LeclercqBourg,71407
+8840d53e-7f3c-48af-9ae1-db38e38c6d1f,1db01bd0-fc91-4967-abe3-8a331605a0a1,d6744747-9171-4093-bb82-6cefe7881e07,2024-04-22,Ophtalmologue,Urgence,Sainte AlphonseBourg,92824
+7c66527a-2ae5-4002-9900-09992f996cb7,43c50f61-69cc-47d6-a750-78414f0be50e,48fe7477-75aa-4cc3-86b5-042669e28592,2024-04-29,Ophtalmologue,Urgence,Huetboeuf,98787
+29ab9090-5b50-48e8-be71-02cecdc3e7b7,b5d34067-da98-4d5d-9f51-9b199018262f,935a9cfe-9a54-461e-befd-614c4ba8a30d,2020-09-26,Ophtalmologue,Suivi maladie,Rémy,98303
+f94659b5-2db6-4036-a1d7-6ae421e49325,abd56006-b5e9-4b8d-b9c3-f0f4b2f791ae,18ad13b0-80ae-40b1-bfd0-9dae99c0e171,2021-04-19,Ophtalmologue,Contrôle annuel,Saint Roger-sur-Mer,71330
+7c78b820-21d6-4dd8-830a-1b05c262a71f,347fc27c-fd55-45ef-bb6b-4de6da041617,fceb314c-4a1b-4c33-a7cb-d683a848cdb2,2021-02-08,Pédiatre,Urgence,Maréchaldan,12866
+f3b11ad0-2fce-49c6-b74e-b8810d8ba7ea,d60efcc7-aff6-490a-984b-82b26dcde203,a340baf3-2b53-4b8d-8d29-415489248621,2023-11-19,Cardiologue,Suivi maladie,Mahe-sur-Lemaître,60151
+40011278-fbbb-4899-a5fb-334ab5470042,8fde383a-b126-42d5-8d8c-572356f6b539,edc37153-d3c9-4065-b2f8-c5f6f42d0097,2024-06-28,Dermatologue,Suivi maladie,Saint Martin-sur-Mer,89888
+d5bd0e55-0f49-43c4-8623-15b78d6edc0a,10ae3fb8-d404-46fb-8b5e-11b794903519,6f6b17cb-a1c6-426a-80b4-e7d3a7a46600,2021-03-01,Dermatologue,Contrôle annuel,Saint InèsVille,29633
+fa6d7409-ed3e-402e-9eb5-760885482b2c,09591dfb-195e-4005-80bd-176f699fc645,9cf80d46-7526-4ebb-8210-14b7ae739005,2023-04-12,Ophtalmologue,Contrôle annuel,RollandVille,96536
+1ce0378c-d6d2-4bab-acad-00cb4d65c05b,f3290cdf-8dae-4123-9243-44cb7794dcaa,b579d584-05dc-4a54-8b46-b3ffbf74f3a0,2020-10-27,Cardiologue,Consultation spécialisée,Boulay-les-Bains,55651
+ef89c40f-9076-47c6-bf6c-1ea6a7f7dd05,719a522b-2890-480c-b1b9-fcb3ddb5a457,d74acc21-e9b7-43f9-9154-1b7d3504808d,2024-06-08,Dermatologue,Contrôle annuel,Gomes,49828
+502e1853-d4d5-46e3-a12a-1dfe4a22633d,b6be6e6a-7693-455f-859e-01b8c189f426,f6fb4b28-2aa9-49ad-aaab-b6232f2fe6e0,2020-10-18,Pédiatre,Contrôle annuel,Mauricedan,19861
+e532fbce-b93e-4b00-99db-690ef0be80ec,7ad8a105-da70-4fd0-a43b-c791e98963f2,4a2f1e5d-6d33-4583-a102-a130781665f1,2024-04-09,Ophtalmologue,Urgence,Godard-sur-Fontaine,27878
+4b54fb9c-f65a-4e16-8f97-7402ad4b08e6,e7dcf3c9-c431-4089-a8a8-a35f543b712c,deb60f46-ab17-4844-9b1f-d1dd9dcc33c9,2023-05-15,Dermatologue,Suivi maladie,Gillet,43972
+53a6e886-ab88-4308-9da4-20388226af45,6c3f6096-9231-4439-a2b1-20eb818c4197,1773781b-c965-4559-8183-4ad8ad317411,2022-11-20,Pédiatre,Consultation spécialisée,Allard,20543
+11f9c283-c431-4fbb-a65f-99d3359e48bf,54257c91-86c3-4966-bca7-e1e99216159d,5655a9bb-c1e5-49c5-8507-f9e670a42c81,2021-05-25,Dermatologue,Contrôle annuel,Sainte Roland-les-Bains,71024
+b7481540-363d-4ca6-a557-16dcd8b65546,730ab54a-052e-42ab-8818-1300b9a516ad,3a9d2ab7-960f-431f-b89d-e1b845402734,2024-02-15,Dermatologue,Urgence,Gay,25611
+dd7ecba9-f979-428c-bddd-8f57a00cdd55,03456380-7ffb-4ad0-aeb8-cdb3fa039cfd,a1716daa-ace7-4f72-8ef5-5c96ec46e800,2022-03-04,Dermatologue,Consultation spécialisée,Nicolas,38366
+ef0fe3e0-035e-4f8a-826c-6240aea80305,4d0428d7-e3f3-4b83-b10a-b75538d79815,bafe5d15-ee2e-4125-a420-60a7bf5cf135,2020-09-08,Ophtalmologue,Suivi maladie,RuizVille,11813
+86eebc32-62d0-4b4c-91c9-2165d14a05ee,761ee696-b5ad-4377-9c46-fb0ce4021d54,62dbd2e3-ed26-4523-bfba-be2c455faeab,2021-04-28,Ophtalmologue,Contrôle annuel,Ruiz,98008
+eea6803a-dc03-499b-bb07-060df506dceb,dc9d6a4e-dff3-489d-b548-dcd0ce7e5e84,800859d0-0776-447f-a337-5988f96e4447,2022-03-30,Pédiatre,Urgence,Guillon,02238
+149dfc94-8007-46ed-a7a5-c3eb3ae51ae1,f3c8a190-02c9-493c-8fc3-3ca2b240777b,90093f06-4174-4c66-b258-713fd0e0fe1e,2021-10-10,Généraliste,Consultation spécialisée,Alexandre,88597
+eae89a48-885b-459a-916e-f05e13e2f132,aeb43873-f44f-48c3-9400-9b9be8a9a4cf,b2e4dbd2-4288-400f-9f39-dfac2fb0751a,2020-07-04,Pédiatre,Contrôle annuel,Carre,52719
+bb9dd0ca-aa61-4689-a479-8cfaee312003,6a139f29-0261-4e42-9523-c9cc634c10df,01d3eafa-7a7b-4b54-b351-24337426ee15,2021-07-04,Ophtalmologue,Urgence,Fernandes,93782
+af4043d1-a891-4282-879a-d2d0115cbf64,8d98417b-cbf8-42b9-a49c-a30689dc03cd,09912020-2491-47e4-bf8d-1d7aa916f2f0,2020-11-23,Ophtalmologue,Consultation spécialisée,Hernandez-les-Bains,09890
+9e57cc62-bbed-47a2-94f9-3cd457577fd4,c542a5d4-8286-4dcb-9fd8-dc872b99dc68,23df62cf-274b-470a-9524-ac1f559403d1,2020-03-27,Ophtalmologue,Consultation spécialisée,Bourdon,05676
+764a1a09-f6fa-4873-b0c9-334dc6df692c,03b134ee-26b6-4825-b31a-7cc49af4c6b0,ce39bdfd-3cec-403a-9552-920713a553c3,2023-12-01,Généraliste,Urgence,Delattre,05190
+d2470704-060b-4493-8f9d-a5047ba8c11f,12a91fc9-a78d-4682-8484-684f39acdf6e,52f6d578-b5b4-4b59-bb3d-349bc4af8ae4,2021-02-08,Pédiatre,Consultation spécialisée,Guérin,77505
+3bab8f63-2745-4161-b227-d858ea9029f0,a9b83c72-59f5-4137-b988-ad86e999ca5e,5965b27f-480a-4157-9adb-e7721d7f0680,2020-05-20,Dermatologue,Consultation spécialisée,Sainte Josette,74035
+547320a8-09f5-4304-95bd-a6eb80c7c9b2,a4e8fc16-8839-4ff1-ba0f-cb64c58594ea,05cf4276-b401-4a00-ad20-f7efb0c63427,2023-02-13,Cardiologue,Consultation spécialisée,Bertrand,84421
+afbbaf8c-75e5-4241-a8ba-1a0cf959c4e9,253d14ae-5178-4335-8829-cfb678d585d1,02645c4d-b9bb-4ab5-9884-0209a2f61b0b,2024-01-28,Cardiologue,Suivi maladie,Michaud,08861
+c7f14de2-103d-4e56-801b-738237c2eef6,86f3b0cf-bb8e-43dc-922a-6729493d5d18,2f2339aa-0799-4d51-9a0e-6cc4e134828e,2024-05-31,Ophtalmologue,Suivi maladie,Saint Roger,97746
+618f3f46-8ff1-4596-a863-ea2de8447391,062430e0-453b-419d-8903-0f4c255ab0c4,40904977-cfa1-4e40-9a09-3bef6cb978a0,2021-01-21,Généraliste,Contrôle annuel,Fournier,19094
+4705f7bf-8e5f-4c94-8963-df695bb93c8e,7eff1c30-f51d-4ad8-b04f-88c905326fd4,1477318a-92c7-4168-a2e6-b0001a9d0e7e,2021-05-31,Dermatologue,Suivi maladie,Weiss,04745
+da575a00-776d-4e3c-bfbf-efe03eec6b1f,c35f8510-f8f9-4b42-b12b-eb66c3d60515,6e6b682b-b964-491b-9e5c-bcc51269dbdd,2020-08-22,Dermatologue,Urgence,Saint Maurice,82545
+f1c3d856-806b-43c5-854a-b53b77b06424,a9f026ef-4dfa-46fe-80dc-1a77c3d21072,972f295c-c163-409d-941e-d7ed0dc3b1e5,2022-08-15,Ophtalmologue,Urgence,Sainte Eugène,75937
+548f0b3e-5a03-4900-bd41-9641773b72dc,d79c8351-d651-4535-add9-cd66434054c4,94e86515-52f6-4c4e-b11e-1258d272b260,2022-09-21,Cardiologue,Suivi maladie,Rossi-sur-Bègue,03068
+528ee8a2-9b27-4fb6-b0e9-1f4f2fea5ee4,715c3f9b-d411-4da5-b901-76d4222bb608,5ef1c964-c11f-4bff-8c94-dfac35be1bf5,2022-05-06,Pédiatre,Urgence,Marin,59507
+b1be131a-1683-4d0d-8ae3-26cd9d84db57,7d1742bf-12c4-4b0a-a2d7-6fb2950179dd,3f12e0d9-038e-4d51-8737-d01b04068cbe,2021-04-25,Ophtalmologue,Consultation spécialisée,Leconte,77021
+c769c2d8-2d8a-4952-8dc3-8f18ad21a051,9f559122-17a6-4e16-bda3-624a9d8c560f,1bd41c68-7039-47f5-bb7a-b50496629b1f,2024-03-30,Dermatologue,Suivi maladie,Saint Astrid,00782
+18921d8a-37e2-4ffb-a28c-6ff5d6ce8c2d,21133439-c332-4764-8038-f5c48c6e1b9d,b7d4bdd8-63b4-4010-8961-21323ea92fd2,2023-03-01,Pédiatre,Suivi maladie,Vincentdan,15701
+10726fa6-4d4a-45d6-8274-ceaf953f535d,98149c2f-2488-4af9-9251-6af1074ba06e,5984085c-b635-4fb1-909f-d3b83d4cb918,2020-09-24,Pédiatre,Contrôle annuel,Barre-sur-Ferrand,07884
+e6df2f85-e860-47c6-8774-49abdbdaa44a,83d13cb2-3647-4648-9917-aa682a16aa6d,bd9ff8b9-aaae-42d3-acc0-eeb5d4e5f038,2023-05-25,Ophtalmologue,Urgence,Sainte Vincentnec,06436
+571ae41d-0075-414d-b3f5-eb5847c14225,a7264372-c52d-44ee-a731-b649f13e92ea,a9bf6e72-de3d-48b4-ade9-e6d7038d6fdf,2023-07-14,Ophtalmologue,Consultation spécialisée,Sainte Michelleboeuf,97873
+050de7fa-77bf-4bbc-8acf-e229130eb579,19c9417c-6785-4ec8-81d8-a0a51bbb8d12,ce41560a-7f97-44d3-b080-16968e74ad7a,2024-05-24,Dermatologue,Suivi maladie,Laporte,59600
+05926cd9-0807-48bb-81bf-d98c9920b417,ddef530c-3909-4356-922c-4a3b414a7804,dd3c1335-15cc-4f43-afd8-405261fd6a20,2024-06-21,Généraliste,Suivi maladie,Saint Lucy,71694
+43645d07-43c0-42c9-8d63-f4f507cfc083,de97f26e-ef13-48b0-9d20-c227c3f37446,6b549ab8-a365-4035-896e-afc9dc151133,2021-02-19,Ophtalmologue,Suivi maladie,Boucher-les-Bains,01890
+b412be96-7c52-4f3e-ab40-6751c526eae6,66dbcdc9-d85b-4336-845e-946645ac6698,9cf55c70-04cb-45be-a5fd-6114e638ca08,2022-06-01,Pédiatre,Contrôle annuel,Saint Georgesnec,78768
+fbf6ab5e-0756-411f-83ff-e93a04e58293,5aea926f-87e5-45a6-a779-83418e7ecd0f,e0c17085-34d0-47f6-b1fc-348fc54ce142,2022-04-17,Cardiologue,Suivi maladie,Letellier,12021
+e71b8334-a3b0-4768-b089-a9da79883783,cfb9f1db-7285-41da-9311-997351ad2a0f,0d478c12-df57-43f2-ba8f-b57877efa162,2024-08-02,Cardiologue,Urgence,LemaîtreBourg,07214
+5e5748a7-2a5a-4cc9-88ee-90003288f572,19b18e73-7167-490b-a660-93a8ac95bdfd,fa08f9f8-df65-4e1c-97ef-a9336fd20e2d,2022-02-21,Ophtalmologue,Contrôle annuel,Lévy,73928
+7cb7fdcf-1f62-4611-b753-bf9a88e5a3d9,80684375-089d-4c3e-abb9-9f2ba3c45fdc,7c8a585a-83a4-468b-b75c-87baffeb4941,2023-04-21,Ophtalmologue,Suivi maladie,Perrin,88878
+efb42343-1407-4259-bd7c-7d900e262e72,da2d62ab-a59a-4a66-a5d1-7fe7103c85c7,deb4f824-cb1b-4827-996a-f5948242f183,2020-02-11,Dermatologue,Contrôle annuel,Martin-la-Forêt,87861
+b89dcc9e-9380-4259-9ea3-c13272d6ca4f,12a4de26-c132-489d-a7be-fe545a7ca48b,9636655a-21e1-428b-8a1f-cb73e44d5e3b,2023-01-25,Cardiologue,Consultation spécialisée,Rousseau,63397
+837971cf-7ede-4838-bb70-45bee62ea864,7812e761-73ce-4512-b555-ad367509e313,25420366-7613-4112-a975-303e6f71603e,2020-01-17,Dermatologue,Consultation spécialisée,Dupuis,54766
+64c08567-122c-4cd2-8b54-6f7e68b546ec,71a1fce9-de04-4c1e-969e-d980af5ec1da,019b416a-2332-4299-b4ed-a3187176ae93,2023-08-17,Cardiologue,Consultation spécialisée,Dias,75661
+5ce2aaab-83c6-4cd9-8ed9-1bb75b190c4a,12d249a3-f955-4a4c-9c36-72b260ac21ce,e5d6fdaa-319f-4508-847a-5faa03399e16,2022-07-11,Généraliste,Consultation spécialisée,Sainte Élodie,13128
+da1f2bbc-087c-4d59-92fe-f45a9ff43542,b4934972-f19d-4cef-a336-413327cc8f4b,c60c66ea-10eb-4faa-98ea-a405d64f2acb,2022-02-14,Dermatologue,Urgence,Normanddan,63788
+c211ec0b-5a0f-4e9e-93d8-26976913eb5c,19acd535-429a-4a81-b388-64e983dc660d,c90c740b-953d-4be9-b9c3-92f2573e9fcb,2020-06-13,Ophtalmologue,Suivi maladie,Sainte Paul,58112
+0ea33990-8e66-4a21-94d8-e8b3f869714a,3a7dacb1-2c45-4894-a4b3-6b8c8c1ac934,bf6d5ca5-1ce8-40dd-b2c8-0c390a89ea9c,2022-10-27,Dermatologue,Consultation spécialisée,Reynaud-les-Bains,61415
+23bb0285-c445-4423-ba56-9be9b216b266,4e9048e4-a995-4fce-aa38-cdd931726512,330951ec-de8e-44a4-a4a2-ee960809182b,2020-07-18,Généraliste,Contrôle annuel,Sainte Laurence,72408
+a0bcb377-1648-444b-baf4-b6504ecd5487,e8a079f8-379d-4543-8a95-b63051b30efd,ca9cf084-98af-461e-8640-b42a2b7e8119,2021-12-01,Généraliste,Urgence,Benoit,70184
+48297763-e25a-42dd-9568-a12076e814d9,defbf6b6-09dd-44c0-9963-112fd28db6cb,b3a3be33-0bbc-4334-b1a4-ab396e6a68ad,2021-05-27,Dermatologue,Urgence,De OliveiraBourg,60074
+08bd8413-cd6c-4cf5-8ed6-6daa981076a2,6ac3865d-0296-44ed-949e-39e686a13ff3,4d2fe0a0-8e97-4c4b-a692-fe744fbbdbc8,2023-05-15,Ophtalmologue,Contrôle annuel,Girard,72971
+e73e715c-d7c9-405d-9846-7efd01dd9baa,1f939e99-3981-4eee-a570-b887c7a7b75f,1c05c36e-e3b1-412f-93a4-64e2b73cbf7c,2022-07-12,Pédiatre,Suivi maladie,Étienne-sur-Mer,17825
+2791f32d-a890-4233-953c-b8ff890026af,9152e3bb-3746-45e8-879b-991a5086452c,4ebcc840-ddb7-4963-9977-803ee7b3b413,2021-05-06,Dermatologue,Consultation spécialisée,Sainte Amélie,48970
+ff0d2b22-2918-4666-aee8-d15423d631fd,aaa66117-4c8c-488f-9e72-ec3771df49f0,2c514b85-4f37-4182-b737-c07cb7447a97,2022-05-22,Dermatologue,Contrôle annuel,Saint Geneviève,25668
+f60e97b9-b6fe-4c6b-894d-72dfebbde057,1c9c8211-ed6c-4a3b-88ba-86d40937e1eb,4229460f-e2a3-4773-8527-56f3b9639c0d,2022-02-19,Pédiatre,Urgence,Turpin,12162
+131b14f4-731d-464a-825a-ee4a688bd35d,00579825-d082-464b-8da9-4e944acf7ca1,f3f9d314-ce27-410e-b789-b37a492fdbf7,2021-10-23,Cardiologue,Contrôle annuel,Langlois,83115
+9485b33c-70af-461b-9be8-bed819a706fe,2a11242d-aaa0-4960-b18a-1cc3482591d8,1208d8bf-fc38-4921-a570-cb6c3f56500d,2022-07-08,Pédiatre,Consultation spécialisée,LangloisBourg,36201
+21c96ae6-c2e6-4608-80d5-9e48e711d174,1ee14bab-705f-4dc3-86f2-92f5b44b0685,0f04822e-341f-4c37-b0dc-51dccea813b6,2022-11-21,Pédiatre,Suivi maladie,FontaineVille,23020
+56f3472a-acfa-4824-be16-f022735a91f7,f5a3d7ce-eac6-4f37-9717-476ef9a550b0,22d3b96f-8dc0-4311-bccc-4e680a3401b1,2023-11-13,Généraliste,Urgence,Sainte Susan,00698
+b616e647-41c8-4282-8076-19ce55761ccd,6a0e762b-cf7a-40a1-817f-b0a1728a9320,456bdb2b-02ec-45e1-87b0-cf4a978318c8,2023-10-30,Ophtalmologue,Urgence,Da SilvaBourg,45681
+6a1cd1d2-9957-4c66-bcfe-9a2e43d97b14,b1423bd9-06f6-4243-a617-eb402e9c6e8a,515460d6-60bc-4437-9fa1-15bdc15c6cc8,2023-11-14,Dermatologue,Consultation spécialisée,Lelièvre,47605
+5c02b89c-41d4-48ef-a5a3-d84fb324fb44,46b08f32-c65a-4b38-9df8-7e052749af02,fa454c21-509d-4f01-8c0c-b5ac36765d81,2023-08-13,Dermatologue,Urgence,LévêqueVille,17561
+6b5e5c41-df09-4b55-97e9-0df4a3445c1e,42163314-1be0-40bb-91d0-5cd86b40cbed,0ec28636-d7fe-4fdc-b135-8e236429983c,2020-05-30,Cardiologue,Suivi maladie,Sainte MarianneVille,14289
+640cdca6-78b3-4280-a059-42dad5921e98,4940a4e9-8e0f-4ff1-b35f-82deed338593,5c33ccf8-ad82-4d2f-a195-ea05df4cc6a7,2023-12-13,Cardiologue,Contrôle annuel,Dijoux-sur-Bouvet,82457
+72f77104-3b3d-4702-8365-b608d14ae827,f00dacd6-b62f-412f-a7aa-b8d8cd5e6d6a,a5ab6590-cab7-4981-bb2a-e04b40734157,2021-12-06,Pédiatre,Consultation spécialisée,AllainBourg,11972
+7ab7b54a-00ed-4708-8838-8f97b09b63b5,07fa23fa-e1d7-41ec-aa25-3e2c946e2d2d,ee833230-0a23-4233-b627-c60cd4edd7d5,2023-10-01,Généraliste,Urgence,Besson,27434
+7dbbe552-1b14-4ccb-975c-9ebc8d5fe9de,a65d00db-67a7-4478-aa38-7c4208162f61,a2ccec07-11ab-4a5c-9948-bc67d627b71d,2022-05-19,Généraliste,Contrôle annuel,Saint Dorothée,91213
+2bfdc433-e2c9-42c1-a094-f485ce113cfb,948fbb09-00eb-4e5d-bd62-b89e29f0a848,856b9a1e-080c-4dd1-aadb-7209521b296f,2022-10-29,Cardiologue,Consultation spécialisée,Charpentierdan,48339
+7d03e8d9-4fb6-4410-80eb-bbcc93cd1b40,88e8810a-2db7-441e-a1e0-1f14089d1269,ffa246af-749f-4d7d-9d9c-00c8f4a96e12,2024-03-22,Cardiologue,Suivi maladie,Saint Margot-sur-Mer,80769
+b963496f-8fde-461c-a57e-7e560b49402f,a7186369-5ec8-46e8-ba5c-88811c867058,60c6a846-7e05-4d85-b725-a27cc5bc2b8b,2021-07-15,Cardiologue,Urgence,Fernandes,89695
+77d09281-9dd5-42f8-bab0-14bdb7bca1bf,2565e5cb-3471-4653-925c-d63b4b852933,12bbe686-6bf2-43d0-b1ab-ea07af3bfebf,2023-01-09,Dermatologue,Urgence,Sainte Marcel,94163
+0a8522c1-3338-4d78-8550-4e014149cf4c,df36544d-fda1-4f92-911e-2045fd0f7d26,f397abb1-8330-4c17-b209-442449a2f5c9,2023-02-13,Dermatologue,Contrôle annuel,Salmon,78629
+532ddd6e-c432-48dc-bc42-d1461cfd10f1,45a23e35-dbe6-48eb-a76b-795a1e46c027,1ebcf9f5-32d3-4014-a5ff-8a122f30a082,2023-01-07,Généraliste,Suivi maladie,Renaud,58513
+f730771b-5708-4484-b59a-7a93112e6b8f,d4f9dae0-16b5-48f1-bee0-be8d38dd98eb,4637e16d-1e55-4de0-9af9-b258366e4b1d,2022-07-17,Généraliste,Urgence,Sainte Diane,49769
+da55fe4d-c0cd-4ff7-a045-01ea4c62ff0b,bb1e195b-6a03-4c9f-85fa-a03b95e2444e,860fab51-4567-4667-b42a-f135c660082f,2024-05-07,Généraliste,Consultation spécialisée,Morin,34072
+a5e9f9d2-9f20-466e-a88f-c57f4c9ab44e,0110b5e5-d480-41a2-ac53-27c5618c1afd,6b8d770e-d71f-4a2f-a7c0-27f8c3b33e34,2024-03-30,Pédiatre,Contrôle annuel,Blin,39556
+4e37490f-41be-4eb5-9023-57e0fefa51ea,754a1349-2b3f-4dcc-9677-77c69368f6c9,a74b8023-f875-4e12-8465-24305a1d49b2,2023-07-27,Généraliste,Urgence,Sanchez,93362
+6c942da9-6274-4848-b0d0-bcb0a0134d27,560272e3-9c2d-4563-a986-198f69bb62ca,d6180b95-86f1-464f-ac37-509af208723a,2020-05-13,Cardiologue,Urgence,Saint BernadetteBourg,73314
+7dd7b51f-40cd-4d79-b9a5-ec641e033555,14a1a4e1-2c5d-4a1d-a14f-5d29e74f618c,8b90ace9-e864-4ee8-8d5b-5901fed96216,2022-06-11,Dermatologue,Consultation spécialisée,Vallet,84319
+5ce7e898-8a98-4398-a575-d8f950651107,74b23370-11da-414c-8be2-101b58922dab,a2f2797a-6e2c-4749-9f36-7d864afc6d91,2020-05-26,Pédiatre,Consultation spécialisée,Vincentdan,28551
+1211acbc-ba0b-4d53-9851-2c5215f4ada5,74fac3ed-a035-4564-9804-8284d1e83016,1620ef6f-a399-45f8-b647-e5f00f322187,2022-08-31,Généraliste,Suivi maladie,Dumont,50201
+8e9b6036-2566-465d-9b6a-95cf2c2019d4,eccdf4c5-b6d5-41cf-b0f1-e97d5415a3f5,01f871d0-bba3-4101-bbca-cb79fa9c9b32,2020-07-15,Généraliste,Suivi maladie,Maillet,91704
+161306d4-b45f-4dd0-8a8c-e8b2ce9197bb,2ed7e67b-83f0-44c1-a599-177b58cc070c,13914736-21ad-40d8-a588-27aec40645c5,2021-09-25,Dermatologue,Urgence,Leclerc-la-Forêt,63430
+9a3fce02-8f55-4232-95f3-3fcb4de65e61,18f6db20-12de-4eaf-8035-e3006dfb9e8e,f2454474-aed4-40a9-ada5-19cde06c43b1,2022-08-22,Dermatologue,Suivi maladie,Sainte Martine-la-Forêt,47744
+8174fdb4-193f-4a97-94cc-7894ce72a672,31a9f71b-a17d-4957-b192-6f702e573be1,f08a3e3b-1430-4590-8357-435dc1cb1886,2022-02-20,Ophtalmologue,Suivi maladie,Andre,10988
+54cf6fdc-4ba2-42dc-be35-1aae0af58b93,f58e34b5-6f36-4449-988a-2e537727f6b4,dfd706e0-57e5-4c1c-b61c-13d10294c8e5,2020-01-28,Cardiologue,Urgence,Gay,03063
+e5ee3fb7-cba6-4299-bfbf-294cff675d0d,56a38ba6-ab91-4754-975e-452ce348cea7,62629c62-6c0f-45e1-b347-44cf46168af5,2020-07-09,Pédiatre,Suivi maladie,Voisin-sur-Lecomte,34818
+b9ad6359-e4db-485e-b930-791a63c1d4f1,eee68c2b-2cee-4d79-bc81-673ac415db2e,ca3b4cc0-5fde-437a-845f-3f6f0a0cda29,2024-06-06,Généraliste,Suivi maladie,Navarro,85515
+b74f6ad6-7241-4811-873a-38c60dc2876c,845dd77c-1592-4556-987a-4a6437f158a4,a5864ccc-26fb-444b-bc18-543dfebbd556,2024-08-01,Généraliste,Contrôle annuel,Sainte Jeanne,82309
+b4e02471-caf0-4936-924d-0e26e51f174b,1a6ebf2e-6f1e-4ffa-ae4e-e18327225011,632973b5-fafb-4656-a6b8-2cf9250cefa9,2020-07-25,Ophtalmologue,Consultation spécialisée,Gay,94723
+ea02a559-2f56-4df9-8f58-7c93a9c769dd,81d86cc1-6134-4396-9add-9c7c6a4cad78,6a39c983-3af2-4631-9a2f-fa82622a5156,2020-05-17,Pédiatre,Urgence,Lenoir,68083
+ab8f3fdc-44a9-474b-916d-519ae72d6c72,7f6479c0-2e10-43ba-baea-7c8494a4f9ee,f7c4254c-8dce-4b90-90a3-9e57cf2d14cf,2024-07-01,Cardiologue,Consultation spécialisée,Saint GillesBourg,27812
+4b765d81-ba43-481e-8c00-372263478a63,d1e0482b-27d4-4475-8fb1-ab0d2097e94d,d83af684-85e9-450f-908b-28e95f7a1b8a,2020-06-15,Généraliste,Consultation spécialisée,Leclercq,74898
+f3257bee-4da2-4a50-b91d-82d723b9075e,0c7d9d4f-0db4-4195-a4b5-394b771ca91a,09308a68-bb66-42d7-b3d9-90cdb9b4e703,2023-02-26,Généraliste,Consultation spécialisée,Gérard,81320
+706b35a6-91d9-4e44-be6a-74dedc7e47ee,d0cdb7f5-da0d-4da7-b4fe-84b81edfe32a,d357a6c4-8de6-4395-bf42-5c8f1f35e8ca,2022-01-22,Pédiatre,Consultation spécialisée,Beckerboeuf,18396
+d89c4e47-41d7-4c4b-af9e-6b97edad6f8c,b139cad7-921b-4953-ba9c-11e6fdaee7d9,2fca95be-622b-4e3d-8130-5f22c696fe63,2020-03-14,Ophtalmologue,Suivi maladie,Sancheznec,53848
+d6b6c0f0-847f-41f6-8746-d2601312728d,97269ecd-3a1a-4a57-8312-e3bcbc0a6e3e,e6f72b68-4adb-4ee2-9f33-349d250bf651,2024-04-01,Cardiologue,Urgence,Sainte Alexandria-la-Forêt,84741
+037f1831-c3f2-45eb-a665-52c5f21fc2c2,336ca61f-47a2-40ad-b935-b8e09d1f5b3c,b80b7d4e-90f2-4725-bdef-40f34216a674,2020-01-01,Généraliste,Contrôle annuel,LacombeBourg,55664
+0982196f-8428-42d3-a964-708f694488e9,34d9fce6-6d18-4ee2-a564-e30ffac2316c,5710915d-1ad7-4d17-a8e0-a20b5fca57ee,2023-03-24,Ophtalmologue,Suivi maladie,Lecoqboeuf,25024
+97b5ee70-ac84-4597-9f6d-9dd45a4a5fc5,005e05bb-dc0a-4ced-83f6-9e2d43ce8619,5e0dae1e-b086-4194-807a-d4dd105f33e0,2024-06-18,Ophtalmologue,Contrôle annuel,Laurent-sur-Pichon,66943
+d54e268d-bf94-4bb6-8c74-38e8749b35bd,7e1135db-819e-4f8f-8aa3-52b399f13e8e,3c7de2df-123c-47f7-8147-9d977ef0f245,2024-07-28,Généraliste,Urgence,Saint Guy,28467
+3df4ada1-b87c-4c82-99ca-3cdd60fe7183,a265b4d7-b040-425e-a5e0-8d13299205c2,522aa52b-ea47-46b1-b9c1-91b5d5eab399,2020-08-25,Généraliste,Urgence,Saint Roger,90750
+6774e39e-f695-47c7-ab89-7b74ba823c2c,89735d8f-a1f9-4c47-bef6-4541ae4a2032,27f32467-e3bd-41f3-9bb9-05b9a201db7a,2022-12-23,Ophtalmologue,Consultation spécialisée,Saint Isabelle,44724
+1cf9e4e1-b893-4cba-a7b0-99a6cbdd09eb,2de284a4-aba9-4b42-9f9a-850370806fda,561c12a5-3a0c-4b16-a6b5-a27c70150a77,2023-11-03,Ophtalmologue,Consultation spécialisée,Pineauboeuf,84374
+80a104ba-c42b-4369-b0d4-25aad4d1cfbd,80c84709-597a-4395-8557-02695f561006,9cdde43c-bb74-4046-b450-53999f7b60ae,2021-04-03,Dermatologue,Suivi maladie,Le Goff-la-Forêt,53331
+a35d5d3a-8632-412c-8af7-2887226b2b32,dff48bd6-f527-4853-aec6-265cf0d575dd,3ee6d1b1-3fcb-4bbd-b99d-df36d404a990,2020-06-15,Pédiatre,Suivi maladie,Roche-sur-Mer,10152
+a9aff9a7-331b-4c86-bff5-8218819e6dd2,2c7d99cd-a137-43e6-89cc-c2afeb924bf1,86d7ed6f-197f-4d1f-a075-caf35f015660,2021-04-08,Ophtalmologue,Contrôle annuel,Fleury,09477
+3cb0969b-437e-4e61-9c07-6266f4a1ccfa,1a022523-89ea-4a95-bebe-fe0a5263a24a,297fae3c-909c-43c3-a002-2f953e682340,2022-05-29,Dermatologue,Suivi maladie,Le Goff-sur-Mer,14897
+b16ad86f-2a28-4d3f-8387-41e6b051beb4,8ef4d1a4-e505-491d-a336-b34704dd416c,ec90ecb1-c29f-44ca-896c-ecd317cddaf6,2020-11-09,Dermatologue,Urgence,Saint Deniseboeuf,96534
+8744fd2a-9c1c-4464-b7a8-9e3dc6a54f79,a44fc325-9e3d-4733-901b-7672d0d3f25c,209d4f46-1539-4162-9fb6-e93636a33cb1,2024-05-31,Dermatologue,Urgence,Laroche,07387
+79bc1505-e6e4-47e9-acab-10bfcc3f2a44,64111667-6149-48e2-a060-053f0b19978a,0a5a8f98-ad78-42fd-ada8-7af31ae59e5d,2022-09-28,Cardiologue,Urgence,Garcia,02107
+5263fa16-8cfb-48e9-979e-b4823d5e0413,0f0b30c0-7820-43fd-aad6-827ba89aaa7d,0989cd8a-4d06-4cbd-ad16-ac1b83829268,2022-08-02,Ophtalmologue,Urgence,Bègue,71417
+992a917e-c402-493d-970e-6eb8d6304b35,cdc6fdb0-f945-4832-9ca4-39eafff56f09,be27c132-3c1e-43be-ae24-051a9b271e21,2020-11-22,Dermatologue,Urgence,Maillard,81132
+79bb763b-3dbe-4476-96cf-094ce8aaeb1d,07922a17-d118-4956-b51f-f1f051674311,495a5d4c-d663-460c-9450-97d2a704c9cd,2022-01-23,Dermatologue,Urgence,Brunet,47815
+06414b45-63ac-402b-84a5-a2f30d6bb6b1,db1c540a-f90d-4bf4-b7e4-6e1e2e68efde,ca54c9c1-8abb-472d-9183-12c5c7070e98,2024-03-22,Cardiologue,Urgence,Benardboeuf,80969
+9372b70e-d499-4352-aa73-7a1b5f2bec00,59415c90-26eb-4bf1-b360-c9a497fa0850,a8164254-e82a-4de6-859c-676b5bb01715,2024-05-31,Généraliste,Urgence,Coste,78305
+cf101ba9-95e5-4f4a-be3a-ff45a6c95788,2511e3be-f6ad-476b-9bf6-ade71df26d39,0cd718d6-afab-4b36-aa8e-c3018e6e4d44,2023-09-01,Dermatologue,Urgence,Hardy,48789
+5547d82b-d9b8-44f0-a816-2649d04a266d,2e929fdf-8205-4ded-aac2-c7648b4a891e,5b8e1e1c-f312-4fde-a3ac-824151a8c6d8,2021-10-16,Ophtalmologue,Suivi maladie,Gimenez-sur-Boyer,34601
+f711489f-a31c-4c09-a05e-f55bd170b9f5,d5d1683f-81df-479a-83fa-e68dd4c2a3ae,4fa3a3b3-0ff3-44a8-a414-01bd8f5c03b3,2024-07-31,Cardiologue,Contrôle annuel,Blondel,88864
+7411fc2b-0469-4156-b1d0-4af3387c7fb5,f1f7b93b-0649-4971-acf3-5c29a2853d73,2cfb0ad4-9ae2-4dc0-a435-af7f24d5fead,2022-05-17,Cardiologue,Consultation spécialisée,LefebvreVille,62444
+62aa45fc-9743-484d-bd03-d4c9d337d263,6e3666ae-a689-4d55-badf-4ad50089ece3,6baf3251-fdc5-4688-8447-c9fe302aa5de,2020-01-03,Ophtalmologue,Consultation spécialisée,Dupré,58877
+3c9949bd-52fc-4d8f-95e7-ec994453ac65,9b44794f-e2a0-4f44-95fb-1257954fbc7a,6cc4c823-5d32-4c8c-8790-11b6a11315f4,2022-10-11,Pédiatre,Suivi maladie,Françoisnec,52381
+0b91fc34-3c8f-4521-acdd-ca833dfd9ada,dfeb78f2-2885-4fb1-b5e4-3a6c3cdf4192,73176223-756c-4ca9-af04-953ff6a91239,2023-12-01,Pédiatre,Suivi maladie,Lainenec,42437
+bee3d069-72dd-4bf9-b291-933ab7ade375,3269aa6a-15be-4f17-b09c-c24945fb6f3c,9033566c-3d3e-47b8-b441-143520df2005,2024-02-26,Ophtalmologue,Suivi maladie,Gay,67810
+995e6a91-6ee7-4341-8ec6-db0c4b5f1c81,4c71ffcf-0cfb-4034-94f4-6f2d67a96c61,76ad4aec-6416-4f2a-abe5-90490d9f8c03,2023-05-29,Ophtalmologue,Contrôle annuel,Teixeira,52355
+2d2d6f53-2853-43a4-9f2a-b8de2b72a852,ba7137b6-41d1-4a92-bf3d-043ae83cd99d,94b39630-c025-4765-bf2a-790a23a687a4,2021-10-13,Ophtalmologue,Contrôle annuel,Aubert,75529
+12588d49-ff11-4510-ae60-2cc34707ffe5,f9dc5bcd-74fc-401f-b8e3-63fe6991ae80,52e26300-c8c1-49cc-9c47-8c2a0bf3b72c,2023-04-25,Dermatologue,Suivi maladie,Letellier,45596
+612e6f55-4b80-4f33-848f-3a844a6a6351,814260be-e59e-4e2c-a583-a73a7ca76b41,44b982f4-0e7a-4d8d-8ac3-0682d8d75b09,2023-08-25,Pédiatre,Suivi maladie,Saint Hortensedan,73713
+62a0af0b-c45f-49a0-b079-82917938d99d,aa20e290-4758-492b-acc3-58a76c468581,83dfd55b-78f9-4b4f-8b6c-7928d2c7d974,2022-04-03,Généraliste,Urgence,Thomas-sur-Barre,29233
+3dc59c72-de3e-48cc-a42b-869e94b92210,4a301d67-86fd-45d6-be33-4a1f12bae87c,c788557b-016a-4906-92a1-f00ffc61a1aa,2020-12-09,Pédiatre,Consultation spécialisée,Blondelboeuf,27901
+0a0e1c89-7bb6-4f6c-9a12-cc24e08c369e,02cee66f-6d96-40a9-8aee-d69394d0cd86,cce469a7-ce18-4415-8959-847e36bb430c,2021-01-07,Généraliste,Consultation spécialisée,Rossi,59760
+c7f14e88-2132-4ecf-ab80-812cf8e49128,78c1e7ef-9b42-4eaf-bb41-144586d3581e,14b42140-0731-4715-a13f-a88b3d2baadd,2020-01-17,Dermatologue,Urgence,Brun,52274
+48f74c3e-e982-49ed-b743-7fdaa6f557d4,d214dae5-35a0-4866-98a5-c54ad5aaea7d,14669fab-74cd-4978-9116-e5f82e9ea560,2020-11-12,Ophtalmologue,Suivi maladie,Saint Margaud,62929
+07f52d2d-86e3-4291-9892-405f0966f96d,b5eecdbd-77f3-4261-b323-a79aa8e55609,a1401d03-9578-451b-9210-55f4dc69687f,2021-11-17,Généraliste,Consultation spécialisée,Saint Claude-la-Forêt,00832
+a6cffff0-efa2-4048-8fbf-ddfc8482b43c,882b29e7-2599-4cf1-915b-57be1ad8d1e8,405dbd48-1e7e-4073-b4dd-5047961af9a4,2023-11-03,Cardiologue,Consultation spécialisée,Saint Roland,38335
+7c955712-2d9e-45c5-a823-013d5d3b3929,6074b738-3090-48bf-b7d3-4f356a5183c9,4f3c0a23-c47c-47f9-b39b-de4490c8708f,2020-08-11,Généraliste,Urgence,Riou-sur-Fleury,50830
+f5c85beb-53bd-4376-a1f3-af2515189d4a,77d02c57-3a7f-41a2-8ffe-84c82eebc9bf,1f10b635-cff3-4dfd-b0aa-e6307412b478,2021-01-15,Ophtalmologue,Consultation spécialisée,Mahe-sur-Garnier,03685
+85bec4e6-39dd-4568-b9e8-ee91ac0a156c,c91aae4f-3136-45ca-8fb8-061c97891ed7,765416e4-63ec-4609-b1a4-7eee0098af73,2023-04-13,Pédiatre,Suivi maladie,Mercier,23219
+350e4dcd-2c51-48a5-a582-37ecdcd8dfbb,fe451a29-4694-4096-a1d9-b787cb2e364b,ac9e6136-475b-4a3e-bc11-75321100cacb,2023-04-20,Pédiatre,Consultation spécialisée,Moreau,92224
+e803eba0-397d-4cba-851b-45cfecf79e2f,5996d838-0488-48f8-9886-d29668d4ed6b,45b00b3c-ed37-4111-b2fe-7a03ea18e14b,2022-07-18,Cardiologue,Suivi maladie,Saint Anastasiedan,56275
+dcb03d01-cc59-4519-b292-abdf9d56cc26,fb89dcdf-f4e2-4705-9a00-f5e12ddf0fd7,d2147872-e620-49a5-88d2-2b7264fcb8a2,2023-03-12,Ophtalmologue,Contrôle annuel,Delannoy,27694
+e44cee16-a30b-4da8-99d4-3e31c69bc1a3,6b755a10-fd21-4b1e-8de7-80089ccf608f,bcdf6a5d-ca14-417d-85b8-83634c9670f5,2020-10-09,Généraliste,Urgence,Saint Gilles,82111
+981bc665-502e-401b-b4ee-9f105c91ec1a,c7625d3d-5077-4e12-a1fb-ac1fe73f14ac,c1fbe1bc-c326-43ab-b91c-2a97f7f8b5f7,2020-07-15,Ophtalmologue,Urgence,DiasBourg,04205
+ba96f005-3628-4c18-9718-86067f5a42fc,5886e325-0a44-4fc1-b506-8e59f9f86b69,e8b000ba-d934-4f5a-8351-58d849d89fe6,2023-04-12,Dermatologue,Suivi maladie,RocherBourg,32282
+4f65b92f-53c3-42fa-a6df-b9421709fc71,80728959-55ad-4c78-a03b-01de618bf8bb,ed26d082-124b-4cb1-8493-6d3d1565f124,2022-01-02,Ophtalmologue,Contrôle annuel,DelormeVille,03915
+48c22492-3b44-4829-81e6-46e66344e3f0,3c3839d7-0bed-4390-b40f-1145fbd9a5aa,c9ccd759-f281-4d19-811e-287e1718ed44,2024-06-03,Dermatologue,Suivi maladie,De Sousa,82583
+10a898cc-7fea-4c41-a5ed-8b9ccd856195,a2a47fc0-97fa-45f2-8310-570bb9b3e777,8e0e718f-9913-4336-90e7-bd5596abb819,2024-02-28,Ophtalmologue,Urgence,Le Roux,75147
+40ef628f-51cc-40fc-a1a3-e89b6ba9e4c5,82745ce2-0d9a-45e9-a65f-36d8d662b684,099f6f57-8f83-4a56-a8df-a5e974fbaf86,2022-08-18,Dermatologue,Contrôle annuel,Sainte Julien,76185
+b9a59bdb-5b52-4df5-8cf3-6907e1b98ecf,c67da1b5-5047-42e3-8091-a9e8fe5f97f9,5e53e00e-3214-45e9-b7cb-e1fde5620fa8,2020-01-21,Généraliste,Consultation spécialisée,Dupuis-la-Forêt,65545
+f937ef5c-2672-4bfc-b7dc-d0cb8b7aa6e6,40de54fd-3fac-4f1e-aaf8-0d70586fa4da,3bc36d63-d386-4cf3-9cff-e988c9cd321c,2021-05-03,Généraliste,Consultation spécialisée,Gallet,24990
+409d7869-0e2a-40f9-acfc-82c56546df57,867df6da-4053-4204-a37d-fa13a4058d9e,248a7fa9-158c-4a46-96d4-bd3f6d516c59,2022-03-27,Ophtalmologue,Suivi maladie,Martinnec,46973
+16f82d11-67a4-44d5-87d4-b637d0098ed4,00921cb8-f64a-48c2-afc1-5a34d9a8744d,ac9462d4-8f2d-48e6-a20e-585fe48991ed,2020-01-03,Généraliste,Contrôle annuel,Guyon,51511
+926d94ae-5cd9-4a0c-88de-618f4df28efc,f4b4f90c-3c27-4193-8854-36e4747986b2,4292d851-9da7-4481-a800-6caf0aed898b,2024-07-16,Cardiologue,Contrôle annuel,Berger,29043
+3dbb84b1-b9fe-48dd-8807-628ce8e5bc76,e7eab6a3-7160-413a-a15a-9593bedb39e0,e86b12be-b88c-4ccf-988f-3bbde29b5c63,2022-05-10,Généraliste,Urgence,Reynaud,05220
+fb4e3783-d871-4997-9af5-a7c134dae4f9,a928ed5e-8382-4a86-82aa-fc1b6717aac7,056e01bd-999b-4be1-8b50-bcc764af45ee,2020-08-14,Dermatologue,Contrôle annuel,Coste-sur-Dupuy,20695
+2252bd19-454c-4ed4-9ee1-5a4f2117812f,7103303b-20f3-4af5-b20b-9480af31ce5c,dec5269b-6af0-4dce-9022-844449506f96,2022-09-22,Généraliste,Suivi maladie,Perez,56012
+08131c79-ada2-4158-ad21-043e1b5766e9,c485b160-70cf-4100-8013-b2691a95898f,1467320e-de23-4fe9-a89d-b6925d01448e,2023-12-11,Ophtalmologue,Consultation spécialisée,Sainte Olivier-sur-Mer,37465
+e80ad01b-ed7e-4f76-9e0a-2fa45f2d9e9f,4c1d402d-1d27-41d3-8abb-285c3ca8f2d2,0f17603b-443f-43ec-a509-2cf34d2827d0,2022-04-13,Cardiologue,Contrôle annuel,Marques,01663
+da8eb813-948a-4c89-b79c-58a829db3cb2,24abafe8-e751-4556-9e79-3d7211314f47,6e373f0c-a46b-4f2c-9315-5c72090e9d5c,2023-10-02,Pédiatre,Urgence,Lemoine,17007
+e8a62e1e-4d31-448f-af14-3c3a5288aab0,72a35665-ce64-488e-b651-fd14d2b33753,a792325e-33b1-477f-8290-aabf9c3f431e,2023-03-10,Généraliste,Suivi maladie,Simon,40513
+21793a09-1c16-4268-abf6-0fc35ee9baa9,a80a3b88-cb44-48e5-9d02-00b6817c19bd,6408dcca-7ec9-47eb-ae97-c4d5b2129549,2023-06-01,Pédiatre,Suivi maladie,ThierryVille,92816
+27735faa-e1c4-4832-8ea4-966df901cf3b,00594ed4-1a3d-49ff-8b46-13657e2534fe,ada3c04e-bb42-4c8e-97b0-9fa076acfb78,2023-06-08,Pédiatre,Consultation spécialisée,Lemaîtredan,05146
+ef4abb7b-45a0-4a01-9e46-bacd7246d1e0,9bf4d0ec-9a5d-4374-8679-0bc3f1d5a79f,6c2162a6-38bb-4505-aa3d-9c3cac070778,2022-01-09,Cardiologue,Urgence,Sainte Michel-les-Bains,85756
+0f40b967-5cad-48a7-a553-1fd0b3cd0470,f731fe2b-b939-4a68-9ffb-c6ec8520c1d5,d16b7413-a1b5-4cde-bd34-ae5c70f0d279,2020-05-07,Cardiologue,Consultation spécialisée,Grégoire,03305
+4e608b5d-e437-45ea-a35b-8957a1304de3,911d6767-1c84-42b3-964a-5573889108a8,8372fd22-7ae7-4311-95e7-2509031c41c6,2021-07-17,Cardiologue,Urgence,Da Silva-sur-Bouchet,86743
+394169ce-4242-485c-8d94-761624913b61,b67eeef1-1f4c-4cec-ac8e-f597e1ef3535,30050196-9582-4180-a2e2-d5c3c11dd737,2020-11-19,Pédiatre,Consultation spécialisée,Goncalves-sur-Monnier,92674
+4270edc7-41a9-4ac7-b0b5-984f278529c4,6583f071-e2cf-4913-a9ec-04639b0983f4,b266002e-8220-4667-91c4-8a38ef7570b5,2020-01-08,Dermatologue,Consultation spécialisée,Rémy,68955
+a0e86377-5d89-4d01-bbcf-3570db93196a,8280bf75-414f-4e37-80d4-a966761c6df0,44e250a3-ce9b-4e8a-bc3a-89cd4a42d605,2022-06-25,Ophtalmologue,Contrôle annuel,Deschamps-la-Forêt,47556
+e6a9ef9e-e997-4cd0-9284-cad36f07b398,faa63f1b-af3b-438e-a21e-b60ed48b515d,e2ade356-57f8-430a-a08a-e1fbbf747ce1,2020-06-29,Généraliste,Contrôle annuel,Faure,85685
+82f61679-b974-4b2d-a061-cecaa7a26da5,02078b42-c25e-44d7-a819-19e8fff101be,4a0fabe1-964d-40d1-b0fd-3a0fd07935e4,2021-06-09,Généraliste,Urgence,Garcia,86954
+5026fd48-43aa-417c-be88-8f3a8449c65c,439000bc-e194-46e7-aac4-3851ba995a6f,5fca28cd-2727-4238-83b4-9563135ef372,2021-05-24,Généraliste,Urgence,Goncalves,12335
+e792762f-6c1c-4156-9c97-9af4be2a6a78,4978adf5-88cd-4ef0-9120-5f93a1ae9637,13140cb7-0718-4448-a084-3c01ea6faddc,2021-08-03,Ophtalmologue,Consultation spécialisée,Étienne,45315
+063a8f2b-53fe-40f7-b86f-f4934f2b1ec6,3714063b-d69b-49b9-b41f-393aadb66d22,74e007bc-8970-4acf-9a22-42e48ac8fe64,2022-03-10,Cardiologue,Consultation spécialisée,Muller-sur-Marques,75398
+9dc5d044-5025-46d5-9a11-a72b4ea7cbf3,d7934c43-373a-44cd-b371-bd69fded2fbf,cdef7921-6f5d-4e17-b08a-f25302cceb05,2020-05-11,Ophtalmologue,Consultation spécialisée,Sanchezboeuf,97431
+2fef17db-bee0-494d-8aa0-395abe250e4e,d72e4e55-5717-45c7-ac0d-8d30212fa48e,a8f60f57-4cdf-4a79-851e-fc8fd260a2d1,2022-12-20,Pédiatre,Contrôle annuel,Blin,98100
+6e3d325c-d0d0-4ef4-8f3b-01fc74c23d26,aeba2d30-c844-4ae7-b9a6-d52d376fe167,0a22b075-12a5-4c9b-9839-f78e6903cd0e,2021-11-30,Dermatologue,Suivi maladie,Renard,29645
+5560e8a4-83ee-4f6b-892b-c80e8e502a82,80d2ae05-96f6-45b5-8282-f64cb808affa,6eeaf944-51ba-4f46-8dba-83f3bac8e8dc,2020-03-13,Dermatologue,Consultation spécialisée,WeberVille,65300
+d9a9c7ff-153e-4b13-b92b-76adecaadc2d,7857b6ff-90c7-4778-8f7f-fddff1f3ca88,51e82089-9eb1-4fc7-b8b0-19bd5707ec07,2021-07-14,Cardiologue,Contrôle annuel,LenoirBourg,91098
+4521a2ad-7416-4544-9d83-2f3648f289a8,61fda499-0cda-4e21-a4cd-341fe79f1bee,960d746e-8923-4798-9585-22cadbc09a1e,2022-04-16,Cardiologue,Consultation spécialisée,Gay,22139
+79126a9c-a649-4d0c-a814-27c753dc80c2,893ca3cc-97ef-4961-bb1a-860ff7a310bc,d26be62c-b82a-493b-84c9-1879745c9926,2024-04-22,Pédiatre,Urgence,Lefort,43357
+e57591d9-4f0e-4252-96b1-7b9d1af05dd8,97812e2c-acf6-4d2b-9623-06a90b336de8,44cc4001-5dd2-4b31-b437-c4260b86a089,2021-05-15,Ophtalmologue,Urgence,Teixeira,92494
+1bdc05b5-651e-477b-85ba-21c9bd2a708d,10e3861c-5d1c-49e9-b8e7-362ee056b046,235cd919-538b-416b-9f07-2bb7912cced9,2022-09-23,Pédiatre,Urgence,Sainte Maggieboeuf,67962
+3d200d6a-5c7e-4f4f-ae0a-072aad616278,d9ca6a1c-8809-48da-9942-b1c0eca10b85,93ab1d06-9c76-4c0f-b6c8-4eaafad6b451,2024-03-03,Dermatologue,Contrôle annuel,Bailly-sur-Blin,66059
+5b29d888-6ae2-4730-a600-da95e473606c,909fed91-2fca-4d36-8072-73a1af28a920,12010259-5931-40a2-988b-69a95d28b00d,2020-05-14,Ophtalmologue,Consultation spécialisée,Joly,82122
+d54896df-2b6e-41d1-a1b4-dffca3c340ce,954a06ff-3abd-4e9d-829e-b2c1dd3fe22e,5d9d7862-6b64-4b5d-875d-cbda2c59812b,2021-06-18,Pédiatre,Consultation spécialisée,Lefèvre-la-Forêt,72851
+31fb22a3-7a9c-4bd4-aaaf-7c3a959cba53,4c317485-3483-4a9b-b7dd-24a6e7fb953f,fc2f8e6e-8942-4cda-84a7-f92dd38ab9da,2020-06-02,Généraliste,Urgence,Saint Capucinenec,93840
+2b40e579-719c-4349-97b7-ab4fbc5fef58,639248a8-aaca-498d-936a-53218e3f15d7,ffc22fe1-bd45-49cf-832a-7acb5e4654a0,2021-09-13,Cardiologue,Suivi maladie,Saint Nathalie-les-Bains,61855
+c79e3750-c29c-41b1-bd22-a46907b90f83,a3a170e9-d7e4-446b-82db-65e7b8d97bfe,cf981a9e-d4a0-49fb-b3bb-162fce66856a,2021-10-07,Pédiatre,Contrôle annuel,Sainte ValentineBourg,86779
+74310a94-d710-4467-baef-09e5ff12e570,65bf48a5-d1fb-425a-804e-3eaf56710c51,4dd9232a-bc66-45c9-83c9-5f33576f1484,2021-01-08,Ophtalmologue,Consultation spécialisée,Martineau,43365
+f4b93744-2cb5-4308-9176-1a8c72fc096a,6b4701d8-1187-4824-aaa4-531d9bc32bad,3da39d07-3ffd-4c3b-94db-1942a1e836c7,2024-05-08,Dermatologue,Consultation spécialisée,Barre,66615
+a4a81563-13bf-403f-9f9d-f11238083ef9,3bfe5fa0-8b66-45e0-8df9-433ac4b08c86,b798bd8c-f6ae-4157-92a4-4faa7f3b3702,2022-10-07,Dermatologue,Consultation spécialisée,Collet-la-Forêt,58054
+ea428d0e-c46b-4001-aad9-19f3f0db5787,fa1bf4a0-534c-4d5d-be1e-35ff64a8924d,20b1869d-e50a-4d07-bfd3-98b01e828fe1,2020-10-21,Cardiologue,Consultation spécialisée,Marion,92539
+eb5aaa32-1ece-4e7d-877d-f1bf35ec7dfb,5e22ffa8-af1a-4df0-a28c-ae45ff830b73,14c827ab-8bf2-4938-b40e-00368185b6a7,2021-05-04,Généraliste,Suivi maladie,Dupuy,82601
+8360a646-7c35-4a8d-9365-85afd370ee58,6e6a7279-f97f-4e33-87bf-fdb2cbe8f4d5,180ecb82-1d60-4994-9672-e63f6058d921,2023-04-14,Ophtalmologue,Consultation spécialisée,Sainte Marie,76776
+d0b243d5-86b2-489d-b763-7b2a8b37ffc8,43bff1c2-686f-4e65-aa5e-e85ca66da7cb,30c5cef3-338d-482e-b566-981a6baef953,2022-07-26,Ophtalmologue,Contrôle annuel,Saint Suzanne,14251
+0f50f13b-57a7-40b0-8ade-9eaa19d2d516,a0505609-8443-46b8-acc1-93835dd2c245,ceb9c6be-1849-4ece-9df3-94ede36d728a,2022-11-25,Ophtalmologue,Consultation spécialisée,Leroynec,35316
+5080ee64-fa51-4228-b9a9-03933f1149c9,c07dffd7-e908-4dd1-9110-f8ffa38dcb49,18b9b78b-855e-4eac-baa9-c54f1976c91b,2022-05-06,Dermatologue,Consultation spécialisée,Sainte Paul-les-Bains,95866
+8664baf5-7f08-4927-b778-2c9f6a70f8d6,fa54f826-f22b-4b45-a7af-37661fda0c66,76f4168a-917a-4032-86f6-225b14a564d7,2021-09-03,Pédiatre,Consultation spécialisée,Le Rouxnec,71491
+65264e31-35c4-44d6-b933-834a0d044d10,9bdd9b6f-5fb5-4720-95fb-cc6e3a43c232,a87a597b-cf83-470c-9832-859edf23a75d,2023-08-28,Généraliste,Urgence,Pascal-sur-Louis,77921
+cc5abfea-dfa4-4d83-8c67-711d7a0feda1,ec0a0149-5753-4f33-acf9-1f7dab15f1bb,99797062-9752-46f0-b83a-b81b3211f747,2023-09-05,Cardiologue,Contrôle annuel,Saint David-les-Bains,58261
+9a3c63b0-7647-416c-926d-cb2ad5692ae1,7a09e1a6-d41a-47a9-8635-c9d02f72f9bb,42ce7585-4f29-4fe1-8e60-9e0ef6d12167,2021-08-14,Pédiatre,Suivi maladie,Carre,18852
+f6663510-12a9-4492-a343-7f94ff23a64d,dcbd00a3-76d1-48de-b93b-9b8ea3b525f8,f6bcf9fb-13b0-4c03-868e-7f53213f7fde,2022-12-16,Dermatologue,Urgence,JacquetBourg,61801
+f6dbedba-fb82-4c17-a976-7930f0916d39,c1d19c48-c3f8-4bf9-8471-edbc78695645,90b51cca-48b8-4672-be13-9147078de416,2023-01-31,Cardiologue,Consultation spécialisée,Bertrandboeuf,56719
+5145d1ad-4da7-427a-8203-786b92fc7caf,9582fa3d-8069-4f9a-a740-ebc9faf68250,71084fd0-9b46-4683-ad3a-7336b7e46783,2023-01-20,Généraliste,Suivi maladie,Saint Yves,30975
+990839db-8500-4f11-837b-9db439d2bbb1,1f317696-269f-4579-987f-95c23618cdc3,7a927c0f-4726-4061-acce-0296eaa38b2b,2022-06-14,Ophtalmologue,Suivi maladie,Techer,33633
+b98c7ec1-d62e-4f84-8c1a-108babb4eb22,53691df6-702f-49ec-a553-f474bef5600a,817c18ea-5e46-4da6-8b86-4fa02a3dd928,2021-06-30,Cardiologue,Contrôle annuel,Gimenez,92095
+caa76c01-bf44-40de-8510-303ae3e72a43,689c852a-793c-4db3-bc6f-15ca0e8aff05,e7830b74-bf84-4d47-b52e-732e91ad207d,2023-09-13,Dermatologue,Suivi maladie,Navarro,38669
+8be8839b-896b-4fd4-b410-08294be36b3d,3dfdd1d7-230b-4e79-b75d-3b49441602ad,5108f2fb-ce76-4ba8-afa1-e5a5f5d96070,2021-11-14,Pédiatre,Urgence,Wagner,41025
+239bc9e2-3db5-4faf-b2bb-68599f54aacf,07f8a418-4d75-40bf-90f0-8479fc9b8f9c,44893578-5a0e-4e0c-849a-91c5f54da67e,2022-09-08,Dermatologue,Urgence,Saint Thérèse,48456
+5c35501e-b2cb-4eb7-a7f8-ff9d1d7edd59,2f165089-4400-4d7e-ab5a-d89a57b71409,ea9fb208-b819-47b2-9e6a-f9dc8f92129a,2020-08-25,Ophtalmologue,Contrôle annuel,Gimenezboeuf,36275
+3e787f2e-b7c5-4afa-9924-cd015080cdeb,caae3220-cac9-42f0-9851-268fc4441760,63b7cdf6-0d46-41f7-89a4-06e1ac6f1c91,2020-06-24,Cardiologue,Consultation spécialisée,LegendreVille,38051
+3a29026b-b20f-414a-806b-dedeb5c01b2b,f0274c31-3bad-49e7-96a4-5373a6193e48,15c2f617-f247-464b-a561-5c5c2c82567f,2020-03-11,Pédiatre,Suivi maladie,Schmittnec,26790
+e1d98012-d2ba-4a24-8122-839e4477387b,6d574474-c4b6-470b-b224-1aedde6eb789,37504b14-03e6-428d-bd1a-9faad2310491,2023-10-25,Cardiologue,Contrôle annuel,Alexandre,10642
+2da579a4-84d2-4b03-a5f2-c11d2eeb1bfb,79db95eb-3624-4a48-a97d-d28652d2873d,6c376309-2da4-4549-a580-f5996181fae0,2022-08-01,Ophtalmologue,Consultation spécialisée,Boyer,95499
+5f419495-579e-4335-bc78-ab73d745fead,9ba64aa3-7d0f-40ba-85b5-74b4a5c09217,10d298f6-8125-4ad3-9ae7-742a7d2b6696,2024-03-27,Généraliste,Contrôle annuel,PruvostVille,50101
+3899a80c-ed4f-4082-b072-c0cff5493834,c763bcb8-dc06-4f97-a129-10b7f81bc915,abee6565-7db3-47dc-a9e6-a72b5f862185,2022-01-16,Généraliste,Suivi maladie,Gomes,73836
+e56abecf-a187-4cbc-a1d3-7b27c2df0980,d6cceb39-f33d-48cf-b5f2-0a1442cb3810,93236542-eedf-4fc5-b07e-70c991caef4a,2024-01-16,Ophtalmologue,Consultation spécialisée,Colletdan,66894
+c44d3e86-f5e7-4de0-9905-96a85d516e70,6ca03581-1b05-4d84-801d-bbada727a30b,e6d5527d-c606-4111-9043-e51314d890d1,2022-06-10,Dermatologue,Urgence,Saint Xavier,76761
+6838bf81-0339-4073-a3b0-866d79130607,e914be49-1afe-4df5-9985-12f0871ac86d,5c03cb8a-8a13-4ae1-b4f8-7ff8af4b6129,2024-05-19,Dermatologue,Urgence,Pires,92592
+ac5085a4-b85d-452c-a36a-ace544def544,dc9700af-8ac7-46f5-a523-835b7ef327ec,bb0938e2-69b7-4339-8104-4cc4cfcf7470,2024-05-24,Pédiatre,Consultation spécialisée,Saint Valérie,79949
+261c5a68-8f8d-43c8-84a7-7e4a5f722b39,d461160f-103a-4ac3-a68d-f2d7a4cacc39,fd23b6be-c950-48e0-9dfa-aa12f3a417b1,2021-09-04,Ophtalmologue,Consultation spécialisée,Samson,64705
+f5a4ea28-7b67-4f66-8d25-78f765d65f31,bdf8b8cb-f6fe-4bd4-85c1-dc6eb879e5ed,870cf7b0-c38d-4dd5-bc0a-0637fef04607,2020-08-23,Ophtalmologue,Contrôle annuel,Michaud,31769
+a8d2f06e-e5b4-4ba4-aa04-4b838fd786ba,ad4b0737-965b-435e-bcbe-73d1862c3010,ce456b04-f26e-4e56-a607-bab3efee7b93,2021-08-20,Généraliste,Consultation spécialisée,HernandezBourg,42591
+be1bd311-3612-43f0-910c-625ee0f5fa0f,ba13c754-d6b1-4e61-97e6-07e3ff8c0398,010a214b-8570-4149-a260-4d1e105e1bc1,2021-06-29,Dermatologue,Urgence,Carre,24505
+cb01f3ee-f7f5-493c-8ad7-c6688ef2750d,12d3f27e-464f-4697-a17a-4543b9ba08c2,039967a8-c8f8-4ec6-a628-e80b2895cef1,2022-02-19,Cardiologue,Consultation spécialisée,Boyer-sur-Morvan,00718
+4acdd19f-52dd-4cd8-a23f-9946a0bb8d98,2e45dcba-13ce-4c9f-8f84-fac572c239fb,c5d7733e-813b-4e48-a1d3-be827580bb6a,2024-07-26,Généraliste,Consultation spécialisée,RichardBourg,22787
+82926de5-feb6-46da-af00-607fda27c113,27083030-7064-405a-8eb2-76c25d3e5cf7,5917da70-5eea-47cc-8d2f-7b9f471e28c8,2021-08-06,Dermatologue,Contrôle annuel,Caron-sur-Mer,42512
+9825999c-9664-44e8-82c4-d93583b82fd5,9f4097d7-ff3c-4b1e-a49f-ce11e5833901,27034fe9-0fa4-427c-8866-060cf9db1e2b,2021-11-26,Pédiatre,Contrôle annuel,Gautier-sur-Mer,70001
+a11f63a9-5088-4332-b793-cf5dc741c6aa,ffc587d0-c936-4f08-a5e8-4e30963dd614,c21eee92-f5ab-4bfc-b744-a34602ca9c64,2024-03-23,Pédiatre,Urgence,Ledoux-les-Bains,14604
+99e779a3-c842-4957-9613-70af4a1faeb5,2556b1c3-93b0-4834-9461-efe0f7521433,0e93b909-a8ec-4586-b2c2-e110f70f825c,2023-01-24,Généraliste,Suivi maladie,Vaillant,40707
+bdc00503-957e-474f-accf-ba442b556347,3f0b5281-0a3e-40af-b971-acd9653d9118,2d072e64-d236-4f3e-8b9c-8c71547080b2,2022-07-26,Ophtalmologue,Consultation spécialisée,Saint Alphonsenec,36418
+0e2801b6-2a1b-46f2-a18e-f28cb7c749e4,fcbf9e5a-2bae-43e5-8180-afead38218fb,f00a2996-c69c-4e32-98c2-088aa4fcebf3,2024-02-12,Pédiatre,Urgence,Sainte Pénélope-la-Forêt,40272
+5e06118f-4bc4-46e3-a7f9-48d33e15110a,87763577-7e56-4f8f-8a94-f45b3e51493d,85eaec48-3a01-44c5-bcce-6ec6c61322d0,2022-10-26,Pédiatre,Contrôle annuel,Gimenez,63130
+330667ec-c38c-4210-8f6e-dc28b95a8550,f30c8691-a784-49e8-80f8-1902942766db,e1ded228-0ab0-4b9b-9829-575249c18faf,2022-04-24,Pédiatre,Urgence,Jourdan,28662
+ec12b2d6-74a0-4108-9e0a-3ffb6d476eb9,4faab8ad-430f-488d-9a0e-4086ef9bee92,51e5ce80-901b-46b3-9d18-b45c21456a62,2021-11-07,Généraliste,Urgence,Saint Maggie,32984
+e4af183b-13c0-4085-8007-0d5f7e309608,7cc1fc1b-23b4-436c-977c-cb9c5f4bce06,cc8a43bf-399d-46e9-a26f-c3aacddc2939,2020-01-24,Pédiatre,Urgence,Chrétien-la-Forêt,20279
+2f4ab991-46ab-4827-87e0-a0ce177784bc,08b25f39-a897-400f-b0ff-3e514819c1cd,8fc59613-20b7-4361-b516-0432a3df3885,2023-10-21,Généraliste,Suivi maladie,Saint Vincent-sur-Mer,77716
+ab8057a1-7c0b-4707-b506-aa5229b17897,7c6df217-2137-4cb3-aed2-771f6a7bbb5f,ca19063f-bf51-4fb1-863e-6f37869527c2,2023-04-16,Ophtalmologue,Consultation spécialisée,Berger-la-Forêt,10128
+ec0c10af-7e59-497c-9457-77c3d8d247db,f4c8b367-c8d4-423f-91c9-458260348a54,4f15193d-3a6f-4f75-abac-22b2d3f80eee,2020-04-04,Cardiologue,Suivi maladie,Potiernec,56907
+ea9350a3-0533-4321-9612-51aeef1487f6,9511f7dd-8a81-4049-82d0-436071e6f666,84e5fa4d-beb2-4372-ba3b-8d1225bc276c,2023-10-22,Cardiologue,Suivi maladie,Greniernec,17016
+d1dad15f-a289-4054-b9e3-199cfc1da301,5303495f-bd65-4717-a5fb-d277042e1e3c,0fbe28bb-1547-438d-bc8b-f1cb0388b6ad,2022-01-30,Ophtalmologue,Urgence,Robertdan,84561
+7982053e-ecdc-4c0d-8212-96942161c8d1,5272fe27-977a-4718-bd95-a9950545bb4f,64b850e7-cbeb-4035-bea5-539f64830ccf,2022-06-01,Pédiatre,Urgence,Lopez,85722
+7602cec6-c9bd-4ed4-9ae3-aff3a498c426,f757d658-9f1c-4b80-884d-df709c11f7a1,980a21e6-00ca-4faa-a7bf-38945ed36e3f,2022-09-28,Dermatologue,Suivi maladie,Gomes,00428
+2c6a9730-7f57-4f2c-82e6-ba6a7f7acf57,70aa6207-f935-4148-81f2-05ab07e31bc7,f3bd4360-3493-46db-b684-dd705083ed1d,2021-04-21,Généraliste,Suivi maladie,Saint Étienne,52923
+f881a7db-fbb0-4a99-9b1b-9899ceaa0946,d7c981da-63ef-430f-8dd1-be7fc4385ee2,3f36902e-37ea-4f14-a85a-2d7fbff95c62,2020-09-29,Pédiatre,Suivi maladie,Pichonboeuf,44100
+54b6c82e-accc-4d06-bebd-2600fde6803d,7232c7ad-800f-4053-967e-89ac71d75bc1,385a4145-4e0a-4ba1-bd3e-54a24657ec76,2022-04-26,Pédiatre,Consultation spécialisée,Barre,28703
+2faadd8d-83a1-4467-9f08-30b84d4e9629,7e2e08cb-78d4-4ea7-aaec-ea9a0480bd31,f3a4c6a7-8301-4f20-b81f-b0c52266f2a9,2022-03-17,Dermatologue,Suivi maladie,Lamy,90896
+c2a4bec1-2f25-4596-8f6c-b932ba84dfbd,825b0345-4a48-4481-b8ae-cdc4abceab61,68b88145-cb5d-43a3-a8b3-0a61500abffe,2021-07-21,Cardiologue,Consultation spécialisée,Raynaud-sur-Mer,08769
+570e8e9b-a066-4d29-9293-cf780e913a70,56006e3d-e93a-4fc8-9e03-0d87fe5b3497,d8b34894-71fb-4743-bbcb-ddcd1fe3f350,2022-10-16,Cardiologue,Urgence,Jourdannec,64011
+d26c1f6e-df16-483b-ae2e-6f9021ed2253,6685fdc9-823a-4386-816b-5659979f1ab2,97a9729e-69e4-40bb-919a-60252d0b19e3,2023-03-29,Pédiatre,Urgence,Lopes-sur-Diallo,31850
+b6984310-2f75-41d4-b3af-60f2e5c3d4a4,1874c894-ad5d-42d7-96d5-ac02990be71c,242efcd0-6419-49cf-8d1a-c4fc601697c9,2020-01-03,Cardiologue,Urgence,Guichardnec,74378
+3d44021e-1079-429e-a9a6-10c795305786,704aa4bd-923f-42ae-a05a-f28bdf028aeb,8a06f399-3f83-4304-8a4d-80c5f3320af1,2022-01-22,Dermatologue,Consultation spécialisée,Aubert,78535
+16b58dc2-aa31-42c4-ab8f-62c7ee7e5f53,bcc44e66-bfff-4829-83ca-c972baf4a3b2,ebf9b280-8af0-4ecf-aa83-69566e6188a8,2024-08-14,Dermatologue,Consultation spécialisée,Lemonnierboeuf,35016
+58c69127-605b-42ec-b56d-56ac218cf534,b2938093-6547-47b2-80ef-830373833a4d,044290a9-3d2d-4648-a083-3a17696bf332,2022-11-28,Généraliste,Urgence,PottierVille,85717
+7771d7af-a076-4f36-9808-e54b2b3aee2d,d5748a0a-963c-4fd4-8e21-1adc1d6a617c,887ea1f8-0e78-4ea5-9844-0a655767a3af,2022-04-23,Dermatologue,Urgence,Carpentier,74189
+2233be6a-b37c-4e60-bbf1-4d80bb619250,1204ba4f-3f43-499e-bbcc-07406e017cb1,3977df22-46ec-4e19-83e0-22c7b64001ea,2023-09-12,Ophtalmologue,Contrôle annuel,Dubois,94165
+60268b25-c800-4293-b5ad-14a12c7219a2,c840ae24-9555-4ff1-a006-c51202f37d7b,6a7b88b5-cbda-4763-b248-3a0ac2ddc488,2020-03-14,Cardiologue,Consultation spécialisée,Blanchard-la-Forêt,08284
+cb4c5659-46db-40e7-92c3-e10a1063df3e,2fb5be61-f058-4c95-9479-61166dbd91c7,69e43ddc-1553-40f2-be98-259df5830e54,2024-02-21,Dermatologue,Suivi maladie,Marynec,26897
+aa78a30d-fd29-4f6b-9b36-c60d0475565b,d9d2ee1f-e9fa-46db-a129-237ca770592b,b4cb5f7e-0ba3-44b1-adce-875bfb986934,2022-09-02,Généraliste,Suivi maladie,Sainte Stéphane,51489
+a28e8db7-b76d-4cb1-86a9-02db5fce043b,84261f84-c728-4a51-9f8b-2978df35935f,e85a5a9d-defb-4448-a093-abf203d0c2d6,2023-01-13,Pédiatre,Contrôle annuel,Laporte-la-Forêt,33474
+41575c44-75fe-4b03-87ed-6450fd0606a5,8fc7ea09-3aaa-4eaa-a593-0188eff9c030,ee30154e-5d06-4596-9baa-3d35c3294eb4,2020-12-29,Généraliste,Urgence,Delannoy,96781
+f35b43ca-8008-4964-aa16-09cd5bce0204,cd26f47d-d326-460f-a2d8-026506b7c5c6,1d0ac97c-e653-443b-8312-428bb1bb7c6a,2023-02-06,Ophtalmologue,Urgence,Saint René,51052
+476c5a41-7f45-42dc-8723-03e739ebb245,e36f2b95-4a0b-4647-a3e9-ad4175b09522,3478feac-a34e-47c2-b44b-b28541f5a5cb,2021-07-03,Ophtalmologue,Suivi maladie,Arnaud,18210
+57db8d63-9927-4cb3-bfa3-8f71a8453d55,0a3485c8-5b75-40c1-b922-80032aa119eb,a4832fad-e6c4-41d4-ae54-1e88398a0e8d,2022-09-22,Dermatologue,Urgence,FrançoisBourg,89242
+f820387a-1ff0-41c7-b46a-b60e728d1d84,65d587b2-b2ab-4f4e-9b8c-c576111c0f9c,3d1fbdef-435d-48e4-8907-744b428a6ce2,2023-01-11,Généraliste,Suivi maladie,RibeiroBourg,16885
+d6bb13cd-3f6f-4c62-b644-f96bb12a6c96,fb1aa484-1b20-4bb5-b6d9-86432e6037e7,30641d5c-1358-4e35-9993-35fddc002907,2023-02-28,Cardiologue,Suivi maladie,Barre,92963
+74ac9042-b33e-43a0-9397-45c8da95d505,a76aae0f-f24c-48ae-aca0-430e50ae447d,48a189af-dd51-48fc-99d7-fbd0eb8a9828,2024-07-28,Pédiatre,Suivi maladie,GomesBourg,94722
+6e71cb92-f51d-4e79-8c67-843921cd3f80,c6c6b305-e1eb-41f0-ad71-25edb67e8daa,30a3f503-8f79-4931-925a-8cce71c23ed7,2024-02-15,Pédiatre,Urgence,Samson,66683
+fa50c7e0-da11-4cff-9499-91b11a2a9933,62dab649-ce56-448d-8267-f4649e0383b2,dd82767b-7d90-42d7-8959-d7d9d68aa666,2021-10-14,Dermatologue,Urgence,Roux,95215
+b5096a7f-c883-4b2e-bbcb-99b449a20a01,79483bb0-a1ef-4b2a-ad9b-b28174e3258e,e39c318b-732b-4907-804a-ceac176bc5d5,2022-11-30,Ophtalmologue,Consultation spécialisée,Mariedan,26584
+dc12711d-35b2-4f8b-ab1e-f4906f63839d,7c510e6d-566c-4e20-a7df-392df761587b,add70e15-2922-4ae6-8221-bca9f9e05093,2023-12-02,Ophtalmologue,Suivi maladie,Boyer,55958
+ae7b9d65-7e2c-41a7-b5df-ed9fc927caee,4df63545-50b3-484f-bfa2-39f443a79fc7,494e0698-9657-493f-b23e-f9aa42305019,2022-06-11,Pédiatre,Consultation spécialisée,Saint Stéphanie-les-Bains,12071
+b3272101-1d02-4c1c-9564-c218e2b7acdb,5b62cfd5-d1a5-40f4-b342-59267d341ebd,07c55a59-0167-4af6-9154-6cc2506bb519,2022-07-01,Ophtalmologue,Contrôle annuel,Pichonnec,57615
+97e35248-a637-4425-a299-8dfd4ac4b38d,489bf62b-f0e6-4107-bd9b-9999e18be9a9,b8e867a6-db9c-4b9b-acaa-fa55b4fa3c3d,2023-12-10,Pédiatre,Contrôle annuel,Bouvet-sur-Camus,03421
+1f4d4fc5-301e-48b6-9697-eb920a9195eb,55b3d7e7-5695-4020-9dc4-43cb0304d492,0125d57e-3e6f-4df7-95fd-760c3d77ce02,2022-01-13,Ophtalmologue,Suivi maladie,Foucher-la-Forêt,97413
+dd1bdcab-53ce-4d62-a8bb-5efc33b64da6,033a0bf7-9699-47c0-8ea0-9c53a379f285,e6455ff8-e386-4c1e-b3cc-fd2acd8e961c,2023-12-17,Pédiatre,Urgence,Millet,17989
+f4727648-1c4d-47c1-9953-5ee1adeec789,e340ac46-1746-440a-91de-9788ad03f6ab,d89befa6-9120-4ab5-be5b-7e7e54fcb40d,2024-01-01,Ophtalmologue,Urgence,Sainte Julieboeuf,45462
+e6b62932-f924-4a2b-8ee5-230a8241264a,72a57948-d23b-489f-a8c4-ab43b5e01dd8,025d7f6c-54a2-449e-927b-abca7c7e86da,2024-06-27,Généraliste,Urgence,Étienne-sur-Guérin,76954
+154662d1-f162-4071-935d-cda0c646cff5,a103967a-309f-4c16-b927-e3a3cc26b8dd,6547c1a0-ba6c-4e1b-885f-4b589adf557d,2022-05-29,Généraliste,Contrôle annuel,Lemaître,80106
+999576fc-0235-417f-843c-04a84f1bd88b,a520ef36-b66b-4e87-a79d-fb5acb14f5c5,00ad5406-56cc-4c16-9091-ba1bf7a38e41,2023-09-25,Cardiologue,Consultation spécialisée,Saint Clémenceboeuf,09519
+129222d2-d6c0-4b8d-be40-bcd1c9f0257f,1e77e131-0f75-48a4-8b83-f5619f8a24f0,54fde70d-7d8a-4141-813d-77c443137153,2021-05-23,Cardiologue,Urgence,Sainte PatriciaBourg,13842
+271c872a-058b-4640-bcf5-e66dfe7a2c80,e88c2953-fba9-4c35-8553-07eabe546f7b,d0e53cdb-6465-42d9-90f3-ca72438a2f4a,2021-01-26,Ophtalmologue,Contrôle annuel,Pages,04578
+707d56e9-2ba6-48ea-bc4a-ff17c653e730,37f5e471-acc7-4247-959a-c39a9089ef2c,86eae32b-530a-4155-afc3-c8412891c0c6,2021-03-28,Dermatologue,Suivi maladie,Ollivier,63680
+17703dce-4cd0-407a-9ea7-09be87334329,2da1b508-3848-4e17-92c4-5ede0e0a5808,a023aff7-fe88-4bb3-ba96-b8534c1d3803,2023-02-19,Ophtalmologue,Contrôle annuel,Pasquier,76309
+ee5002f1-9135-48c9-b08c-9cc9f2b31baf,5eaea6d9-e2f9-4dfc-8a8f-cf4c9e9cd1d3,453bbb08-1865-43e6-81cc-7f1e79ae4b47,2023-01-03,Cardiologue,Urgence,Saint Sophie,10815
+d3e9579f-8c8d-418c-8d7d-132e18114677,5ee3b3cf-1e20-45d5-8a68-25abb20d95c0,2db83b20-acee-4322-89b1-9554b6457095,2024-06-17,Cardiologue,Suivi maladie,Hameldan,48752
+538e9bf0-e3b5-4dfb-9409-7ec57a902edf,a429a041-30b4-42d5-80d8-2808a93157e9,f6203f2d-4319-47ed-a99c-5ad35dd9e48b,2020-02-16,Ophtalmologue,Contrôle annuel,Grégoiredan,24608
+5f2021e0-3927-4680-833f-b95eeb149754,4eb835fe-f334-48a1-a5df-27e1e1fe22f0,1fef56dd-9fd3-4cee-9292-283bfa0d843e,2022-03-24,Dermatologue,Urgence,Moreauboeuf,67658
+50113a11-d606-4d35-a37b-842ccb68a4f9,e43dcdbe-3d18-444a-9817-7c0caa2dd139,79b30e83-c670-4098-b6ba-90de9ed42c91,2023-02-04,Dermatologue,Consultation spécialisée,Bernard,25157
+1eb6a325-e155-497a-bf25-420f2ae3b921,cca99b9e-ca40-47d9-a508-23d6607c9281,2ba924ed-611e-4b1c-b094-4f0207d224b9,2023-09-24,Ophtalmologue,Contrôle annuel,Joseph-sur-Barre,65453
+8209fb99-e981-4aac-91ff-635c9e5f33ad,181bbfd5-352d-4ee6-9b1d-99c515f5f5b5,c283a0c4-0a10-4efd-af36-a00c44598af6,2020-06-27,Cardiologue,Urgence,Gay-les-Bains,02776
+0a081349-4217-408c-babd-5d5e8984dac2,8a9f3b31-bf3c-4f13-9c3b-29cdc9c0181c,2dedcdc2-0d40-4c5f-bb7c-06995e828822,2023-10-09,Pédiatre,Contrôle annuel,Lebreton-sur-Bousquet,65132
+3d265dd6-f9e0-4d2d-940a-aefb4142b2e2,6ec238a1-11de-4204-b7ab-39fce776e9c5,c6a40331-350e-4966-bf61-6d5fbe537861,2021-11-27,Pédiatre,Urgence,Adam-sur-Delaunay,16466
+d9ce318e-0305-4006-9fad-036078d332fe,62cb4e7a-6c8d-4872-bc78-6d7ed5c0b42e,b4d8999d-f266-45ca-ab88-e71e0cb50ad9,2022-08-03,Ophtalmologue,Suivi maladie,Sainte Honoré,79736
+2bd2385b-4979-4b91-a280-b0747d7cb60a,8ab44b92-2f73-480c-8f86-960f3930d95f,7070cfe3-48d8-47c7-9ce9-47e253f61797,2020-12-31,Ophtalmologue,Suivi maladie,Lelièvre-sur-Carre,30673
+ffce5ff0-c612-4fb1-8f41-a041956ad588,26b149e3-43a4-4cd2-a0f6-b05a1a5f00fc,4550ff90-9a5c-400e-a3fc-8476a27e3698,2024-01-01,Dermatologue,Urgence,Lefebvre-sur-Bernard,22417
+bd66bf54-46d0-47e5-a676-e137d830a812,bcecfed2-0d67-48d7-8ee8-5c44856f9636,78f838d0-df0f-4245-a814-1ac4a591c7db,2021-01-10,Généraliste,Contrôle annuel,Courtois,72060
+4fc1b62f-c6d5-4e5e-8efc-517c85023386,960871ed-c417-48f5-8bb0-e50938b440dc,77d2b916-879e-45cf-a8d6-3c5c29f94998,2021-11-25,Ophtalmologue,Urgence,Sainte Susanne-sur-Mer,42216
+79ef956e-1ff0-411a-8147-3163289dc5e2,86a0be46-6678-4c17-8c35-40455fd85376,21b68667-bc85-4e89-99a8-dd940988bd75,2022-06-24,Pédiatre,Suivi maladie,Vidal,60786
+233fbd16-ebc3-4ee6-807a-eda559e84b98,f2b2c2bf-60ad-4824-aa10-5c6bbc6af7f5,5c1c2944-752d-4264-8a2f-cc58ca0486fc,2022-09-26,Généraliste,Contrôle annuel,Legrand,65148
+adb5d118-b110-4ddc-add9-ed432e9ba106,c3f3c7be-bbb7-406b-b395-e3a9ce51deab,3b372990-9a63-497b-92db-66d1264b5b0f,2023-07-14,Pédiatre,Urgence,Pierredan,46138
+ee9ec5d0-d018-4e2c-a406-8a083b8a637b,dbe0f101-5ef1-4cb8-8479-2a9f6182ef81,425bba25-493f-42f0-b186-ba1301432765,2023-11-17,Cardiologue,Urgence,Sainte Sophieboeuf,60688
+e2f96b13-03b1-4a1c-9e52-19f5db9532b0,62837576-a1f7-45e1-a6e4-ada6d68fcbb7,d18f3b0f-afcc-4ca6-a66f-7f812ee6cde2,2021-08-02,Pédiatre,Contrôle annuel,Grenierboeuf,63664
+54503718-5270-46a1-81a9-3a2b6d0de880,410a5c67-06cc-4045-a9f0-1869188fe52c,200f8487-3762-4847-a127-0ef2d930c7a8,2023-02-16,Ophtalmologue,Consultation spécialisée,Leblanc,31630
+221faa06-9fbd-4a97-8fa1-c52e5144ea2c,e97b2d36-cd9a-4569-abb7-b30788fd5436,a35c6588-fe5d-4bb1-99db-37fde92a3089,2024-08-14,Ophtalmologue,Contrôle annuel,Mallet,12543
+6c2886e8-64a6-4bf0-8178-71172842d252,9fd0cf2e-6887-4379-a5c9-31ce28065261,70aad44d-0531-4fb4-a649-bf6f456b00fe,2022-03-01,Ophtalmologue,Contrôle annuel,Coulon,72601
+1e980299-dfee-4ce0-9c58-10d8e591a04b,df092b06-c892-4cae-8c00-584948d48c50,7a868183-c81c-4ef6-9d09-ab52813dc580,2023-05-28,Pédiatre,Urgence,Blot,97190
+2ac483f2-b587-4e40-9d2f-1b95311d433f,f9b2f2d8-888a-47e5-8473-5b7d3f1c6f92,446aaebf-a0c5-401b-84bc-953002271714,2023-08-03,Cardiologue,Suivi maladie,Saint Philippinenec,69197
+c675a7b6-294f-4246-9843-4a8dfd65702b,41cbd69f-63a7-4f5f-9bf2-c310bbc32f1c,1d953777-9c47-4a7a-b157-ec0c1d34af8c,2021-05-11,Pédiatre,Consultation spécialisée,Sainte Victoire,15985
+4d32cb3c-8a30-4f85-b31e-6f5e2f3dd2ed,2be0b554-8d18-44b4-b025-a5ee98e4e81b,69109947-28e8-4a5f-be18-66ca9933aef5,2024-04-12,Cardiologue,Urgence,Sainte Isabelle,75923
+6ac4b72e-1de7-40c7-ba39-1b7132ad2fab,9a61033f-d23a-4e33-83ea-dfe3fabb2ac7,7e3232d2-4b04-4a8b-a8ac-3162a4cabd85,2022-05-22,Ophtalmologue,Urgence,LamyVille,24812
+84c0f5ef-f74e-496f-a093-c90c820728f3,beb612c0-e92b-4fe0-ad42-5566ce593b0a,8d360219-e9c3-4ccb-b7d3-e2bf7ffc4aad,2020-03-13,Ophtalmologue,Suivi maladie,Sainte Tristan,33922
+915c720a-e8ad-4eb3-98b4-d0c390b17022,b8a95111-87e1-4a1f-977d-fc8100eb1cb6,85aa3ed1-8e91-4c90-be77-ac4f1b361aa1,2020-10-04,Généraliste,Urgence,Legros,26888
+84375049-8c8d-4143-bc37-cdca0dfcd26f,116f4bb6-981e-4b26-b7a5-e5c918ad6ac1,16fb1cc5-378a-46ff-b02d-902ff8e8ce3a,2020-06-21,Ophtalmologue,Suivi maladie,Saint Marie,84511
+98c8ffb4-7495-42f7-86cb-f9bf29d369e0,33cca03b-d1af-474f-a80d-69086fe93ecd,56940176-c35f-4572-b324-12bd65fa6f97,2024-07-31,Ophtalmologue,Consultation spécialisée,Saint Olivie-sur-Mer,10181
+b753591c-a769-42db-a5d9-4276b6d1ab4b,07661473-92af-4daf-9610-4c234e09c8f4,52cd0e7e-d5fc-466e-95a2-4f7144f8c4db,2021-02-01,Généraliste,Consultation spécialisée,Rousset,46642
+4c757bcd-606f-41e4-b378-0b0bf700ace7,b0bc3f9a-df44-4450-a69d-5a26d3689172,fd2b269d-cbc1-45d6-952e-5b98b5f9d059,2020-01-31,Généraliste,Consultation spécialisée,Lejeunenec,66980
+70dcc771-e6a4-464a-807c-e68267398ace,ad988f31-aa1e-41d7-a525-afb8e9854f57,e62ec3f3-3d85-48f9-a7d5-42c406c69b01,2020-03-08,Dermatologue,Urgence,Michaud-sur-Mer,88849
+aa670227-3be1-4cb9-96d2-492650921cc2,bc3dd24f-cdf8-4b02-81df-8dc9a16c4faf,8e391513-8379-4bb7-8cec-9bc129409786,2022-02-07,Pédiatre,Consultation spécialisée,Sainte Thierrynec,60624
+d7a459ba-0f83-48e1-a428-fac1793b9e23,b2da8bb3-b2ae-47d6-82c6-5fe7dc77fbe6,719b8900-9345-4707-a2d8-e93e377273ca,2023-02-04,Généraliste,Urgence,Ollivier,59952
+1c4b7b1e-7fe0-4a4f-9578-8d5eb219e9d6,de20eb74-77aa-433f-96d4-78a996285eb8,9538f6b6-656a-49e1-88ba-89d661bc4c03,2023-02-20,Ophtalmologue,Consultation spécialisée,Roger,13213
+176e291c-9fed-47c6-8ad5-4ca1777b35fa,cd899006-6884-4998-a2d5-0e472f44b21e,04a8e299-ede5-4f93-bf83-60ea620fb1bd,2020-11-19,Généraliste,Urgence,Bourgeoisnec,18210
+8fa7360e-297a-4319-b107-f6a7017e0e14,c07ab0fa-7275-4617-93e7-91547329a433,66a10921-65b8-43b0-9d39-271a58d49f81,2022-06-25,Généraliste,Contrôle annuel,Saint Sébastienboeuf,07280
+15f0d2e3-704c-40d5-8490-23bae69a858a,f169c6d9-a1ba-4058-9a50-5c9bc62b948c,f2f2afcc-23bb-422d-a008-8d75bf0aa9c6,2022-02-21,Cardiologue,Contrôle annuel,Noël,96644
+eeed622d-8910-4450-8463-dc3c6bc41321,f2b1173f-30f6-4799-9173-a4bf1b63b224,91c24bc9-d67d-4943-b0a8-50bfba1e6b3a,2020-08-13,Cardiologue,Urgence,Hernandezdan,35430
+d6685a9d-f892-4d32-8d30-a2c63ced7445,6c9f89b5-e184-46f6-9c76-df6cd385d522,dfca1026-60f8-485d-b161-ee8310bc9bf1,2022-02-25,Cardiologue,Suivi maladie,Sainte Charles,73526
+640d0a76-6db0-48b1-bb24-97c5290c3400,da8ecc67-9184-4daf-976f-894b57c9a565,b12ef8c3-0e31-4df6-aea9-5296e3563065,2024-08-23,Dermatologue,Consultation spécialisée,Berthelot-sur-Pires,86397
+72a6f6c1-fdb6-4b18-9f92-946ba3449967,37224548-f6a7-4bc5-8478-3c04f1a6a0d7,668cd794-d284-4c31-bd70-81fc5b6398e9,2020-11-25,Ophtalmologue,Consultation spécialisée,JolyBourg,60241
+268db031-427a-4d3e-a3dc-519664fdf9da,cefb8b2c-6f03-4587-b101-dbec1ba752e2,91d54864-0e9a-4e66-99a1-ea4b82bec6bc,2020-02-21,Généraliste,Contrôle annuel,Benoitdan,32353
+64bf7930-92e8-4fa8-8f82-919b2725479f,9908e5e2-67cf-40a4-b5da-7daa9c683a3f,c2f25adb-ecec-413e-8bc1-02bf72bf3f40,2020-01-16,Pédiatre,Urgence,Saint Anne,37689
+90a273a5-1696-4405-95e5-fba21cb7c30f,fda3e52c-88e3-4e7a-92a5-d916fc7ebb70,f60f46fb-20c4-4ed1-8610-29dfe1afeff0,2022-07-13,Pédiatre,Urgence,Guillaume,99131
+43d110b4-22a2-45de-bdc3-e3e8d7ce765d,7af62d53-ad8c-4a6e-986f-bf2c85339c1d,e30c3242-d3b9-45e7-95d4-6ac9ed7e0da5,2022-11-11,Pédiatre,Suivi maladie,Saint Alfred,29494
+dfc51c09-3f33-4296-8810-4d14ef025679,077f1a4e-ec7a-4e36-b5dd-525c16ff257b,d9bc1a3e-06fd-4b29-8556-bd778a94be72,2021-01-16,Ophtalmologue,Contrôle annuel,Marty,38830
+7d30e415-32bb-4a70-b9fa-a9cb1eaa07e5,36285927-e626-44a3-afbd-bbd09edb5b49,6952392f-8e9c-49d7-902a-06029a2f08eb,2022-07-04,Ophtalmologue,Contrôle annuel,Tanguy-la-Forêt,16730
+7a9d8799-7427-4d24-93a5-f4ebb574590c,2aef978c-fe9f-48fc-8d0e-11502fa1650c,73cd0161-6362-4695-9430-271bc8d14e75,2021-10-16,Ophtalmologue,Consultation spécialisée,MassonBourg,95815
+6f70a423-92fc-481a-b123-8faebb2d91dd,4b89fe39-96dd-4b8c-9c31-70b944b74daa,b4c8d7af-d8b7-4a07-a462-db096af642de,2024-04-27,Ophtalmologue,Contrôle annuel,Saint Danielledan,25618
+84099d6b-9da3-47fa-9836-73779c6a91e5,8fc88540-d2db-462e-9d72-4783788be006,47c321ae-bd00-4a3d-8539-32c097600fb2,2024-01-21,Dermatologue,Consultation spécialisée,GauthierVille,94389
+8bd0dd7a-5aab-44b4-915f-c53da074b2cf,5125c5b1-fa38-4579-be80-220e57b0b6ef,0ee5952a-391a-4513-b7ff-f1583cee0642,2020-12-26,Cardiologue,Urgence,Sainte ÉricBourg,69462
+1ff421e1-7bc4-498d-b73a-4ac47342ebd4,e0d25f86-0eb2-476b-a79b-ba55216e212d,9aeb1b72-6f8b-46f6-92b0-c665901c6a8c,2024-07-25,Cardiologue,Contrôle annuel,Garnier,02773
+1a0dddf9-b80c-461d-98ca-17bce9f013fa,a1a2345b-597d-4688-a5ab-e27e36894289,76990bb5-d4ce-408e-987c-543677ebdc07,2023-02-07,Généraliste,Suivi maladie,Normand-sur-Berger,44036
+22cdf863-2c42-46cd-b09d-026ca7610847,2ae33aec-b43a-4eb1-b66a-f1067e6a2d46,0c5289ed-f4e6-4c04-a023-a5db808497d8,2021-09-19,Ophtalmologue,Suivi maladie,Cordiernec,29012
+08d793a1-320a-47c9-a188-7fd6086f15f9,779e2b88-d586-4797-9b44-c48efde8ff34,bce23fe4-e202-467d-a889-45512bb37dca,2023-06-16,Pédiatre,Urgence,Bertrand-sur-Mer,36859
+b55fa35a-bc5b-43e7-a1b7-399c7a7cd93f,0875a55c-f0b3-417d-a4a8-0728aab687e8,43b171e1-42cd-4cb5-ba31-785ad5a68f11,2022-03-08,Généraliste,Suivi maladie,Leclercqdan,03473
+131ae90d-63ac-4963-bf8e-9ffe432a6edd,e4edfe12-62f3-4db7-ae0a-c9330f39c518,296f4589-cd7d-4c0f-8c98-f3ed1f7c3f02,2020-01-27,Dermatologue,Consultation spécialisée,Sainte Éléonore,15468
+a3ac342b-6a9b-460b-b2f7-d46550129ef3,63ccc5e6-6e18-40fa-afcf-b8c430d8ddb7,ce0f3ab9-5499-4c67-bdc9-0049ae4cc8ac,2021-07-29,Dermatologue,Suivi maladie,Benarddan,60883
+6783aec4-dc90-41cd-9077-89fb63668f03,fa768256-5c9b-4b1a-af58-bfb86762320b,aefcab94-d00c-4152-aa87-0b478b58249c,2022-03-30,Pédiatre,Consultation spécialisée,Lemoine,50141
+1d84eac3-ccf8-49d2-9d99-5d68dbf68501,cedaff0d-7f9b-4a3d-b16f-3ece397248a3,46a2fe28-fb0d-4071-8df6-8b586f8c2585,2022-09-09,Dermatologue,Urgence,Saint Michel,58026
+8e52c377-dafd-43eb-be68-5b1bb48a92e3,6ae5ae5c-0a7a-4297-8547-62f2110b6735,ff8e8fcb-f94a-4067-8c93-6976dae9ca90,2021-12-18,Ophtalmologue,Consultation spécialisée,Duboisnec,57687
+856e1ae2-b134-4cf4-9434-e52a08a464a1,03eb9a35-04a3-41e7-a054-3e52c4b38855,681a40a8-9032-42f0-8585-37c56de440e5,2022-06-27,Dermatologue,Consultation spécialisée,Lévêque-sur-Mer,20291
+0be3a1f0-fbcb-4aa2-887d-96c3f842c59b,ded065c2-2c0d-4423-9d47-755dc9dbf50e,a979eb3f-56a6-44f8-8d3a-f4449e1fb158,2024-04-22,Ophtalmologue,Consultation spécialisée,BaillyBourg,86798
+63f255d1-d223-44c9-bbfa-8ee1daf8b5cc,317ddd94-0522-4b1f-aad8-1b118d10e5c8,54d1527f-b1f2-4936-af91-b9918ec3c42d,2024-02-22,Généraliste,Urgence,AubertVille,12181
+e17c9f82-87b4-46bc-aab9-a0c46cc725e2,5d4e5d24-680c-4c3b-8ac2-aab474a8505d,063629a9-2d10-4633-bc7c-06c922030899,2024-09-01,Dermatologue,Suivi maladie,Martins-sur-Barbe,17493
+96ef0f49-fe2a-46e2-8d9a-23441324a8ad,15a30684-431a-4224-9d5c-84659cbf089c,b539dbc7-b705-4297-bf1d-a2630724dcbb,2022-02-10,Dermatologue,Consultation spécialisée,Devaux,66568
+5d8e16cd-c377-4466-b545-1132edd2bb3e,0cc05659-2e0d-40ba-93a3-6d41f6033931,d2e5ba55-8942-49ac-a4b4-f2d4a69e4915,2024-05-12,Ophtalmologue,Consultation spécialisée,Rodriguez,58592
+2a62744c-47ce-4390-a04c-82eb4d1103cd,8bb2031a-4e6f-4871-b9c4-cea706f37ed1,0d4dc42c-016e-444b-8d59-39414e84cdc8,2023-03-13,Généraliste,Urgence,Hardy,85902
+d332aa33-6fc2-4ed2-9bcf-b0e93a7272e5,6b3282d0-707f-4e14-9c02-063aec19caaf,fc0211d4-d688-48ff-a12a-4c39db977e18,2021-01-18,Cardiologue,Urgence,David-sur-Mer,48429
+1816f46e-22fb-4771-9347-33f9bf5a59f5,79941090-ca12-4f4c-8959-f2cedc2d888a,5d68ba4f-ac31-4f1d-9cc3-cecadad73664,2022-04-29,Ophtalmologue,Urgence,Charlesdan,73614
+08587708-d32c-4aba-b968-7bdeec76f2c3,6b66a99e-2f0b-430f-8720-c8322107b8a4,e190b0eb-995c-4620-a17f-374255324453,2021-08-04,Ophtalmologue,Urgence,Blanc,22935
+54f53960-aedd-498f-ab24-8458dc3cc4f0,ea7783bf-a727-452e-bcc9-2d3ce3d4286d,f842c1f6-20fd-4276-b656-02048bdaae6c,2022-07-14,Dermatologue,Urgence,Sainte Martinnec,98734
+6dfa3656-f65e-41c4-b421-86f8a13657d0,a7354ee9-90e5-4301-a256-3f803a60cfcb,92a14d4d-71f0-4b10-9f24-917c12f397d3,2022-12-09,Pédiatre,Contrôle annuel,Besnardnec,90693
+2ccfc469-5465-49d0-91ce-0d269cf68349,63f084ee-fbc6-4ef9-9244-1e8875d56687,9f6d8d0b-12be-41be-86ee-21b975eb5e53,2022-10-27,Pédiatre,Suivi maladie,Pascal,25101
+5b4d6b4c-c72e-46d2-bf51-966b960d83c3,9a07dc3b-f4cc-47cd-945c-982b7eac08d1,48f08413-6fcd-47b6-b336-d579ac924c4f,2021-10-15,Généraliste,Contrôle annuel,Traore,64246
+33db787b-8cd9-4980-b2c8-6565acb51f5b,20f822c6-cea5-45b5-9293-8c4b5b508f40,da823c6c-6541-4834-a72d-eaa96655891a,2024-06-15,Pédiatre,Suivi maladie,PasquierVille,31547
+0dd14e01-eb5c-4718-851f-00529bde9fa6,621a5947-ec6a-45c3-96eb-c4ad3fd3d272,352d6b49-9916-467b-9b37-8e2fdaf25cca,2023-12-25,Ophtalmologue,Suivi maladie,Saint Pierre-sur-Mer,83467
+f3291f3b-c9b8-4aaf-8eba-1d272887b144,913e0918-1a1f-4140-9b78-4268763a1e8d,f938d3b0-a36a-41d2-a89e-e2c39431e1a2,2021-05-26,Cardiologue,Consultation spécialisée,Richard,95008
+d3b804a0-a1b4-4c46-aebb-73f98dd70c19,2fdaeaac-574c-4ad1-b357-95959779655d,e7fc4a03-4786-492d-b95c-d2e65591939e,2023-12-12,Généraliste,Urgence,Mahe,23418
+bd1923ab-ce22-4fa0-a182-162c5a29bdfe,ee5100d3-1c57-483c-8c8b-a138e3fed8dc,4e44dc49-52b0-4cab-a99a-82d0fe6599d8,2021-09-26,Généraliste,Suivi maladie,Gimenez,53631
+96f7e0fc-9465-43ff-85fd-952cd9100890,4a158bd9-78e6-4f82-aded-4340d44338ad,e566040c-503a-4923-915e-c0b9a2922d26,2021-01-24,Pédiatre,Contrôle annuel,Fernandez,72332
+df54dbbb-270f-482e-88c9-714b42480898,f495fd64-1208-4b76-94a9-3a131b5162d0,99613e3d-8ebe-419b-9932-518466587ae2,2020-04-28,Cardiologue,Suivi maladie,Benoit,37936
+4f617a76-45b7-4f16-85ac-a861f7785209,05a99cba-a4c3-4685-b3eb-8cbdfad517c7,e0da01d8-13b5-431d-acd6-ce58763e1128,2020-12-07,Pédiatre,Consultation spécialisée,Lemoine-sur-Mer,99129
+91a14986-97ae-444d-9c31-27cc9932a7fd,93974bd2-77f9-41ff-a788-3a36d54333dc,0bb87635-efdf-4924-aa6e-384b9e3dd36b,2020-02-29,Cardiologue,Urgence,BriandVille,55936
+95f68790-0de4-416a-acbc-bd550d2c99ef,dc0185ee-abd7-488d-a773-d3337c212074,aea3d7d1-cc13-40d1-a430-04f137391993,2020-05-19,Généraliste,Consultation spécialisée,Guillot-sur-Carlier,29823
+74b37999-9bf4-41f6-a907-f66ed5fcb316,9c217741-87dd-4ed1-ba01-7d84ebf6f5a7,6b4b218f-8023-4fc9-9df0-179d21e58cc2,2022-11-07,Pédiatre,Consultation spécialisée,Daniel,67720
+946a0afb-0e74-49c7-a2a7-5013ebf2cd1d,7845827b-e259-417e-a4c5-7652d1c1f2a4,0f9520e8-c5f4-4807-97f1-7bdb13efe269,2023-01-29,Dermatologue,Urgence,Gaynec,37913
+35114b5b-3f89-47a3-a20d-b27e943949da,8b93cd38-9d3b-401f-9ea3-f1dd1ecb074b,07c8aa6c-8aed-4606-a72f-a321a9c879a0,2022-09-05,Pédiatre,Urgence,Lemoine,86325
+57219297-8bce-445c-a22e-a6ded49a366b,e5fae7c0-1619-46ca-b19d-ea70feb84bd9,5731ff3f-d5bd-40e2-bb8a-6168f6c24701,2021-07-09,Ophtalmologue,Suivi maladie,Gomesboeuf,40782
+f7f41fc6-aed3-47d0-a69a-4f3b1eb12316,f14afe59-26bf-4ae1-988f-5631b1201eed,a0ba0c5f-36d5-41a8-9e7d-c15ab68ecb9d,2022-06-18,Pédiatre,Urgence,Leroydan,65647
+40699b59-6726-4b6c-8811-afe51e8567fe,9a3ed34d-5e46-48be-942d-202b5a43c883,e7ff7dbc-7145-4d19-9674-d3749720ffea,2021-03-01,Généraliste,Contrôle annuel,Charrier,73572
+cae70422-cbf1-4796-a507-d858848f0736,0db9996a-f428-4455-a819-eadbbd6d3a56,449b37b0-77b5-4754-b0f4-6db8ad6ce948,2021-01-10,Dermatologue,Urgence,Bertin-sur-Clément,86957
+8dc86d0f-61ea-435f-9b5b-68e2df1b1e27,f9d8746f-baf5-4eb1-85a1-420dbc4f6a7a,1ed28393-7723-48cc-bd3d-50db3c685c0d,2023-10-18,Cardiologue,Suivi maladie,Benoit,35676
+7bd37d36-0309-4e4a-a639-1a2125f93987,d3dae26f-2fc0-4a96-9993-619914fdc9b7,09b61455-446f-404c-b36e-d92dd90493b6,2022-04-30,Ophtalmologue,Consultation spécialisée,Gaillardnec,85838
+43ad2191-5525-4100-87b2-4f4661fc4dff,5eb4bfb2-c5fb-49b8-beaa-6138fe1577bd,dae8d423-7fe1-41a4-a594-be738094824b,2021-04-03,Généraliste,Consultation spécialisée,Saint Julie,57754
+0a8e57bd-2aab-434d-b92e-cc266e503f48,1107d9ef-ce6d-4170-bb5b-73e9a6feb2f9,8a2e8f55-27e6-4577-bfcf-f762d3516765,2020-01-08,Dermatologue,Contrôle annuel,BriandVille,16972
+190fc581-aa8f-4615-8786-3ec43ad27f33,50e4358a-cb5f-41d0-b51e-4aa1f2d51e3e,af460b42-8bb8-487b-b6e6-a649530752b7,2023-02-21,Ophtalmologue,Contrôle annuel,Lebreton,02713
+738bfbd7-4bc2-44ef-bffe-b4026fcf7d60,c3ed29c3-2e65-4200-a89f-03a9c7439aa6,3c61a64d-5524-4134-8813-e116e895f60e,2023-02-19,Cardiologue,Suivi maladie,Techer-sur-Fournier,68870
+727e57c9-a907-4df7-b907-92cb2b8a549f,2681e56e-2e10-4f94-aaf5-4e969da8fcf3,79de1ecf-f088-416c-bdcb-b82cc5d536cf,2021-02-09,Pédiatre,Urgence,Guichard-sur-Mer,72381
+0cd9505e-959e-49c8-ad7c-080c46103e84,1f61b17a-7b47-4310-b168-941df5f470ea,6dd89c8b-8177-44a1-85ae-3f3efc585592,2020-09-19,Pédiatre,Urgence,Maury-sur-Peltier,25499
+e138202e-d4bb-4ebd-a4b3-feff7866613c,33bccfe3-1ede-4540-9c70-2b100c37d1f7,66f2f3ec-c228-4171-8f3a-4aed5a18e849,2021-12-16,Cardiologue,Contrôle annuel,Normand,51057
+88445bab-2c13-49c3-a6b3-e71ae53e3401,4d973381-bdbd-4e54-a4cc-91fa4bff207e,86332674-860f-411b-8da2-0e03ca91e5eb,2020-02-25,Pédiatre,Contrôle annuel,Philippe,48736
+58a9d491-3dc5-485f-8391-1807b37140f5,95a3ee2d-4608-46f3-833f-68eaabae2c5e,87c19249-562b-4c7d-b0ca-27ffbe565f1b,2021-01-24,Pédiatre,Consultation spécialisée,Girard,30926
+bf777e4e-f0ef-470b-bb76-2b5a3e618851,05142302-b206-4c4f-bef5-d2796dac445f,33746c3b-5eb6-45ea-8224-8ee31fc210f5,2020-04-17,Généraliste,Consultation spécialisée,CoulonBourg,49316
+8f26242f-a54e-44e5-a5da-862146f6e7d9,09ebe7d8-7be7-4a9b-bde0-c8ea1c45bfaa,9c423e83-1e35-4711-a8d7-01bf773e4b49,2022-11-22,Pédiatre,Contrôle annuel,RenaudBourg,99542
+8fce30b1-282d-4c15-a785-ad8bf82175bc,d1a99fa7-fe57-4884-a1fb-b6998e1009cf,e1e47da9-d27a-4c72-87e0-3c3d1a36bde7,2020-09-07,Généraliste,Consultation spécialisée,Courtois,49939
+437b3e72-e6cb-4b3b-ae15-b655f9dea10d,95012e66-dac5-4785-b032-44225ee941f0,8a1432f4-3fe3-49ba-bcb9-6321eb880a30,2022-08-20,Pédiatre,Contrôle annuel,Dias-sur-Rolland,23998
+0ebe8672-04e5-4261-becf-6e58c2915d25,a8ed86cb-cce1-45e3-a2b5-5e964048e144,4c906a6e-b459-42f9-9ee4-4d9b0d37f786,2021-03-03,Dermatologue,Suivi maladie,Sainte Jacqueline,72636
+290a390e-b376-4e02-845b-cb5521eb5de5,94410860-ef46-416f-94f2-d8cfd0d6f36c,0dc97d21-32a6-41db-a805-9cfaaeafa0e5,2023-08-14,Pédiatre,Consultation spécialisée,Saint Noël,66375
+5c5e03c5-5f48-467c-ac07-82e4a88ac95e,a5a7c33a-1643-47e5-8a94-e7d5a16bbbc3,4b2c7605-6b56-4925-8ee0-886b5c345f59,2022-06-01,Dermatologue,Suivi maladie,Saint Benoît-les-Bains,42478
+5b86e2ca-c85c-4fa1-96f7-62349f307e8f,33f92da2-5b0c-4f0a-a766-3285c723c765,7e2094ab-eaab-41be-a645-6542b1b9cf6f,2021-01-04,Cardiologue,Consultation spécialisée,Marion-la-Forêt,13310
+eece415e-c927-4bfe-b92d-e2d4e69c3f3f,850ff990-f1a6-4e80-8a43-4f85ed979202,87400a76-f2c1-43d7-ac76-03654b154482,2023-02-17,Dermatologue,Urgence,Payet-les-Bains,90254
+b6cc77d2-f588-45fa-a7fb-747a600a705a,490e9a63-eeab-4abd-b422-769b922380e8,3badeaf8-698b-4021-82ec-11cb6c6f31e5,2023-08-11,Généraliste,Contrôle annuel,Wagnernec,97400
+d842b245-eb83-425f-bcc6-148adefc754d,bd96303e-2eb6-4bd9-850c-71fba807b3bc,3db54a63-70a9-4180-8d61-8cff072592f6,2021-02-12,Ophtalmologue,Suivi maladie,Hernandez,65079
+c1ba6cc0-fb15-4c44-a1c0-7287265df911,ec1c6a9c-2b7f-421a-b78b-a2b6ae910f03,94d55267-417b-4f44-a87e-478f72729258,2022-07-09,Pédiatre,Consultation spécialisée,Milletboeuf,84790
+fe89b1d0-9020-4496-9819-936876bfd774,094960e4-6ce1-4c53-ad85-fb947b06d2ff,751e0bdf-7ac2-4775-be8e-8502ee5ae591,2021-12-16,Généraliste,Consultation spécialisée,Saint GillesBourg,82327
+c2fd6694-cd63-4487-903d-3c0c3f2538f3,a3237b36-1584-49ba-9afb-f4ac23e91a58,48903c5a-5884-4cd4-9919-3807cca9d720,2021-01-17,Cardiologue,Contrôle annuel,Goncalvesdan,26321
+0558faca-74ec-413d-95e5-0bfcf3a6e086,ade378eb-914d-4561-b489-33216595e605,adc1f1fc-d971-4528-8fbf-a84df893d029,2022-09-28,Dermatologue,Contrôle annuel,PichonBourg,53839
+87bb8cc6-ca77-419e-a368-621c65782afd,fcab4d7d-2691-495f-a83e-e344c221a50e,5787b5d8-9bd3-4ae0-9c05-b955cf17cac9,2024-02-25,Ophtalmologue,Consultation spécialisée,Duhamel,98856
+6d9f44b9-dfc0-4e23-8bdc-36aa08242499,4e6be343-03f8-458c-b03e-3aa6dc6ae40d,0650051e-d9b2-4920-b782-5c9512e409a7,2023-02-08,Dermatologue,Consultation spécialisée,Fontaine,06941
+4d592ee3-ba94-41a6-980f-85021cd2bbfc,2636b6f4-0793-45b8-b53a-61006c6a62b3,1d8057a8-6166-439e-b7a8-bfd2cd4580c6,2023-06-22,Dermatologue,Contrôle annuel,Noël,59698
+318dab6c-a555-437f-ac31-fd303b7ad4ef,fedf8a12-e061-4704-942e-0d58a4324881,d323450e-29a5-4bf2-8589-eba511471cb5,2023-10-01,Pédiatre,Contrôle annuel,Tessiernec,69842
+389fe4dc-b7fe-444f-bc46-d2cd275bf9cf,8af8c9d5-4115-4872-a543-ac03d918dda1,64576a55-ea03-4ddc-9bd1-8de35b1efaf1,2022-02-05,Pédiatre,Consultation spécialisée,Hervé,83046
+a42c128f-15c7-486f-bfa4-b80770f6f4f3,b3685926-e892-406f-bc55-55c1c3234582,45e2c5ac-058c-42f5-92a7-0041f491fde7,2021-11-21,Pédiatre,Contrôle annuel,Lefèvre,76889
+2fb6534b-9135-4d23-ae8a-3017aa3e9980,9a93382e-55e3-4a69-a0a0-2c2c4a4cba5c,329c9385-3b1b-4cc6-b6fd-7bb75df401b5,2021-01-05,Cardiologue,Consultation spécialisée,Marchal-la-Forêt,04582
+9690f794-8780-4f89-8796-484e3c634567,bbe97c2f-1c3d-4c09-8051-8304dce71c4a,ca93e6ef-9ac7-49b0-a95f-75c991326773,2024-08-24,Dermatologue,Consultation spécialisée,Devaux,96236
+7f82f954-27d8-4958-b10a-d76567ea908f,9a556682-2ac0-4aca-82c9-58b27aea996f,fc0de43c-bc2c-4dc5-9a71-51dea7d9c1d1,2024-01-16,Généraliste,Urgence,Lopesdan,00026
+9b6bacc1-fc22-4a1f-9117-df2de5ecd1d6,29853979-31f2-4e87-886d-8dc46c64c7b1,b6dd1df5-40f3-45dc-af86-01b32a327b85,2022-07-18,Pédiatre,Contrôle annuel,Pierre,13567
+ef0621ae-2c1f-40d0-bb9c-b1a35efbb99e,8748b9af-c950-4039-9a52-8e3763faa93d,1da7e3f0-ed08-4168-bb6d-10e9845547a6,2022-06-04,Cardiologue,Consultation spécialisée,Dupontnec,84489
+0263661e-f548-477b-a49b-7e0297388962,56f961f0-67cf-4362-8b18-15feaa2480ea,39afe440-b4c3-4334-92ae-ef6c16811e73,2023-10-18,Cardiologue,Urgence,Gilletnec,08221
+a890aaf2-7ffd-4a2b-8fbd-275ce84d42e2,76888a36-b0d6-4ebd-a703-1462ce462821,e73de9ff-f988-4b64-8774-6bdbe439eca2,2024-02-27,Pédiatre,Suivi maladie,Maury,10498
+3d0134dd-7302-455b-b100-71d62f8ef7c2,5ac7a30d-e9ee-4daf-9558-148a9473f374,277180e4-6a88-49d4-be6b-ed5e68d4718a,2023-10-03,Généraliste,Consultation spécialisée,Sancheznec,66260
+395e8b1c-9fb9-4a69-9d9c-e42c1895b3fe,f0ac65c9-7244-41c2-9bb5-d3b620f8ff34,d4baa431-1d6a-4f90-a09f-19784012bca8,2022-06-25,Généraliste,Contrôle annuel,Guibert,83729
+c7204a8a-bd85-4dad-afc0-51e2828d113c,0dcaf6c7-5ebb-48cc-b331-5fae1030f991,bd6ac537-0bad-40f4-8049-ddbc8164333e,2021-01-12,Ophtalmologue,Suivi maladie,Ruiz,52357
+b50a4eb7-e23b-45c7-801c-68130fd44b81,a4fb5416-5bc6-434e-a988-9e5b8113c448,c9130012-5e13-4398-afac-3f5259f31314,2022-06-28,Généraliste,Consultation spécialisée,Potier,97075
+553cac4b-00d4-4e8f-85c8-ab2ea76e6d13,277c94a6-ee75-4924-b45f-3d4baacb7328,72f27727-ca70-482a-b5a3-5f39852c4a68,2023-08-18,Dermatologue,Urgence,Klein,06501
+9e14cf84-73cf-4cd0-8cf9-3b09008668b4,13a6d7cd-48a7-4534-a6ff-ff9a351d1c45,cfd1dbdd-eef7-4030-8d77-67ed1219c41c,2020-11-21,Généraliste,Contrôle annuel,Sainte Bernarddan,15924
+ea0b16fc-c8e8-46c1-b73b-5ad573f45f25,d0483484-3db7-4c8e-97d6-068bead458f9,ea049832-c6f4-4dec-b733-c7b11e3c9d2f,2022-12-02,Généraliste,Contrôle annuel,Rémy-la-Forêt,66021
+a1e56f85-484a-45eb-931a-2d65f5521947,018a0648-2c49-4122-ab5b-90caa1304f0f,9cb4043f-7f33-4f56-8482-c0b2f94fc60d,2020-07-25,Ophtalmologue,Urgence,Saint Benoît,75251
+4fedb290-8873-49b7-91bf-92a742cce352,2de456ab-0495-4809-a0bb-fe8680f82494,b918ffa8-3b26-48de-b85a-9d78acfc2802,2024-01-26,Dermatologue,Suivi maladie,Georges,91550
+739251fb-bdc7-406b-9d0c-65ba7056cca1,c118a68b-537f-41bd-987a-14ee57dc302d,e5f49d61-9d60-4c6f-9fb1-a6a3ba47cada,2024-06-20,Dermatologue,Consultation spécialisée,MoreauBourg,50674
+362c4335-75d7-497c-9755-f2212d2e86d1,76eb6ac5-a98c-4002-8538-b438c0379d99,cf40df2a-e6f4-4559-8d6b-641894e5114f,2020-09-14,Dermatologue,Suivi maladie,Philippe,25160
+bb5cb618-c1ee-4316-b15d-4d8881a8b761,77b05098-dd52-4112-9479-f9275301897b,67b16a11-7d87-40bb-bc5d-ee212edfe360,2021-01-08,Généraliste,Contrôle annuel,Caron,51369
+0fbdea17-9b9b-488c-83df-bcb53d0b9d23,3b8602bc-934c-493c-b432-17661c434eae,936d8d3f-82fd-41a0-aecd-47b67c4ba44c,2020-08-30,Dermatologue,Consultation spécialisée,Léger-la-Forêt,93715
+2e3c9772-8190-4f84-aef0-f3756023d155,3e741896-a890-4c24-8a06-2d63512a144b,594fa5b2-76ea-4d50-afc3-10f2984a5d1d,2024-01-04,Cardiologue,Suivi maladie,Laroche,04806
+50ed876c-0287-4754-8c9c-1161b1381301,e3e03a0d-5007-4574-91d1-565cc9201d29,e43ac292-9ef6-418e-b7b5-2717530fbbbd,2020-04-22,Généraliste,Urgence,Ledoux,28617
+7d151928-5042-4ba4-8331-6e1970131b49,02cfee4a-ef20-4373-8014-99030716b8a7,eaa729ee-d4ea-4276-8cfe-9f3084ef5d54,2023-12-09,Pédiatre,Urgence,Gillet-sur-Samson,75760
+19a1b49b-3362-445b-b592-7cdcd547c482,e9d70cf8-3ece-4ca5-a512-577a857ca20a,ab35794a-4bca-4689-b95b-675eed07e586,2023-02-28,Pédiatre,Consultation spécialisée,CostaBourg,59643
+09b340cc-c619-4b11-9718-719cbc789d14,934e24b3-4654-452e-8eb8-4e3fbfc20b33,f71c9bdb-a853-4a9d-a2c8-7799b6c39eea,2024-01-30,Ophtalmologue,Consultation spécialisée,Neveu-la-Forêt,77376
+139ead58-c04c-40d5-ae0a-d7b0584369c4,15b6d012-ec62-4b57-bece-130a04f8d1db,4273c2bf-c34f-4424-8034-9ad87fd38365,2024-01-06,Cardiologue,Suivi maladie,Lemaire,15610
+56548247-0fc1-4b4d-bf14-925cd275b79a,fab507db-8e90-4085-8179-bd97b8c7ff13,db9e4978-9121-4bc8-bec8-064cd9ec1d2a,2024-05-01,Dermatologue,Suivi maladie,Lecoqboeuf,27547
+ef78b730-1b63-4a10-a989-92a337360225,c511e747-c6da-4926-ab77-0b208975e7f8,a1c37a0a-779e-4f3f-a481-b8773476f2da,2022-12-21,Pédiatre,Urgence,Sainte Moniqueboeuf,69876
+51cc43fc-9c70-4a8b-811d-b4ce56aa7d0c,28a64e98-7c6a-40cd-8850-c1bd2fed9f7a,994103b0-27fa-4a1f-ae09-640da9ce6950,2020-07-01,Dermatologue,Consultation spécialisée,Brun,96566
+c51c1e64-e5ab-4a13-be06-84751107b6d8,7a37199a-5e57-421f-bef4-9bd24d1d06df,51a437c0-34af-4c52-8748-e931c19c0028,2020-02-16,Cardiologue,Urgence,Fernandez,51483
+2b01a509-3a7e-4158-85d5-fffd2c5c1492,5e94eee7-bc69-49d9-9eff-a70179bf6039,e0b34e61-abf4-4a0f-b46a-0c6205ef5df5,2022-05-03,Généraliste,Contrôle annuel,Lucasdan,81250
+f30bd403-ff47-47ce-bbb8-2e5386e7bc59,c0e07128-1aef-4e10-b54c-7a3f9ede6203,26ce6660-14ef-4d91-92db-67e43cb76060,2021-10-03,Généraliste,Urgence,JacquetBourg,79503
+4faa0f1e-6a49-4aee-ba00-934260f276ae,b56f6ef8-7831-4f86-96e4-5b4e77efea3e,6779ab83-3f61-4c7f-ae68-c66b869fd134,2022-08-21,Généraliste,Urgence,Rocher,40204
+27544c5e-c22f-4aa1-b91f-548ec44fc970,04018607-88b6-4739-9ec6-3c894bf193b4,fce98b93-07ca-4a15-a3a6-1dd925568f87,2023-06-06,Cardiologue,Consultation spécialisée,Guillot,94532
+d60d0a7e-e518-47f1-b4f8-feae51421d85,b754e304-f4dc-4489-b39d-7738897f82dc,0dff1348-1cb4-4616-a8eb-fa86f63685fc,2023-11-11,Dermatologue,Suivi maladie,Pruvost,68672
+8c660508-afc3-4006-a083-5321ccaed899,df4764d3-94f7-4318-a297-3f423a4c04fe,83511890-6a21-4803-991d-cdcced44c075,2023-03-15,Pédiatre,Suivi maladie,Barbe,24239
+ee83b01d-0313-4972-afe3-a5c5a91ce278,d5d5348b-b6a4-46a5-9f22-a721159dba4b,a8355f78-4d01-49f3-9efa-06f789d989bf,2024-01-27,Ophtalmologue,Contrôle annuel,Saint Anaïs-la-Forêt,80329
+7a252691-9140-4f39-b39b-55ba81ce5bd1,e50ad36f-401e-406d-b4c4-06aae4f04125,e05b7a86-9db3-46fa-a1a4-feee55815b20,2021-04-11,Pédiatre,Suivi maladie,Vasseur,57965
+cdc058a9-b31b-4473-b4e6-1a84983338e3,488a9e68-3d64-4ff0-9192-9bd4054863cc,4224ac27-8e5f-419b-a900-ef8cda2b08b1,2023-06-24,Dermatologue,Suivi maladie,Saint Alexandria,22208
+5ee036d0-61e4-430b-a434-7ea3c442cdaa,95bf6fcc-ad14-493c-a1c0-d4ac31bf927f,f24c33d2-f3ee-4dfc-853c-34fcebe9f299,2023-12-25,Ophtalmologue,Urgence,Boulanger-la-Forêt,85453
+b303e699-3e99-4aba-bc6b-8e182df43a57,24d86c99-586b-4e44-ba55-1a93f2aad22b,4eafb733-85ac-4b0a-97f4-8857c4101d22,2020-07-15,Pédiatre,Urgence,Brunet,87025
+4a651c4f-6100-424a-9a1a-9331763d6e50,8f905e0c-0ab0-4a21-a0a9-cb9ad1764e98,b4a9bd0d-70c4-4895-9e47-84e963279612,2022-05-31,Cardiologue,Suivi maladie,Thomas,45962
+5ffa2d56-2664-4f2d-8b78-7c45ae9e66aa,fee7cb54-8b7d-4e32-86fe-f3320755e617,9a0affc8-b215-42ba-a811-b3e06c13aba3,2021-08-14,Dermatologue,Urgence,Paris,54330
+cb9db747-a951-4bfc-8ddd-5432790f609a,ad71f78c-88f2-4517-a5b7-97697f64cd21,52b5f0dd-9586-4c8e-ae7e-65160ad65e19,2020-05-31,Pédiatre,Contrôle annuel,Berthelot,61862
+6add8fbf-4ddd-4736-96bc-a6da69ced4f1,e7f3d38a-21b0-4b76-ab0e-b4a4da32592e,16605621-2d1c-4f00-a70c-60f317283b52,2020-05-22,Cardiologue,Urgence,Chauvin-sur-Verdier,80754
+d118d171-7231-4697-a88b-233f3b32ad12,fc5e851a-7090-4a6c-a7ab-6e3eaa4c02ef,bb194323-be34-4839-8f70-e6ae2148b9d1,2024-09-03,Cardiologue,Urgence,Guillon,33058

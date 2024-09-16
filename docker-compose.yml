@@ -1,0 +1,30 @@
+version: '3'
+
+services:
+  spark: 
+    image: bitnami/spark:latest
+    container_name: spark_container
+    volumes:
+      - ./data:/app/data  # Monter le répertoire data
+      - ./etl:/app/etl    # Monter le répertoire contenant le script Python
+    command: bash -c "spark-submit --master local /app/etl/process_csv.py"
+    depends_on:
+      - postgres
+    networks:
+      - sparknet
+  
+  postgres:
+    image: postgres:latest
+    container_name: postgres_container_full_data_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: full_data_db
+    ports:
+      - "5432:5432"
+    networks:
+      - sparknet
+
+networks:
+  sparknet: 
+    driver: bridge
