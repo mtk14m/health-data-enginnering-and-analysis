@@ -1,18 +1,14 @@
 version: '3'
 
 services:
-  spark: 
-    image: bitnami/spark:latest
+  spark:
+    build: ./etl/spark_container #il va maintenant allez chercher le Dockerfile ici
     container_name: spark_container
-    volumes:
-      - ./data:/app/data  # Monter le répertoire data
-      - ./etl:/app/etl    # Monter le répertoire contenant le script Python
-    command: bash -c "spark-submit --master local /app/etl/process_csv.py"
     depends_on:
       - postgres
     networks:
       - sparknet
-  
+
   postgres:
     image: postgres:latest
     container_name: postgres_container_full_data_db
@@ -26,5 +22,5 @@ services:
       - sparknet
 
 networks:
-  sparknet: 
+  sparknet:
     driver: bridge
