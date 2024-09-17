@@ -2,7 +2,7 @@ version: '3'
 
 services:
   spark:
-    build: ./etl/spark_container #il va maintenant allez chercher le Dockerfile ici
+    build: . #il va maintenant allez chercher le Dockerfile ici
     container_name: spark_container
     depends_on:
       - postgres
